@@ -1,0 +1,7 @@
+name	type	start	stop	strand
+methyl-accepting chemotaxis protein	CDS	456	1760	+
+mobilization protein MobA	CDS	3031	4587	+
+mobilization protein MobB	CDS	3770	4261	+
+mobilization protein MobC	CDS	2769	3092	+
+mobilization protein MobD	CDS	4268	4483	+
+putative DNA replication protein	CDS	1985	2557	-

@@ -1,4 +1,4 @@
-name	type	start	stop	strand
+name    type    start   stop    strand
 AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	7373	7603	-
 aquaporin	CDS	18353	18598	-
 arsA	CDS	13111	14862	+
