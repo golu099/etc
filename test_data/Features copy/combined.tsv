@@ -1,0 +1,3419 @@
+file	name	type	start	stop	strand
+CSK29544_1p.tsv AAA family ATPase	CDS	33174	34373	+
+CSK29544_1p.tsv AAA family ATPase	CDS	3570	4340	-
+CSK29544_1p.tsv ABC transporter ATP-binding protein	CDS	74540	75298	-
+CSK29544_1p.tsv ABC transporter substrate-binding protein	CDS	76335	77318	-
+CSK29544_1p.tsv acetyltransferase	CDS	41158	42105	-
+CSK29544_1p.tsv aerobactin synthase IucA	CDS	42098	43846	-
+CSK29544_1p.tsv autotransporter domain-containing protein	CDS	54546	57485	-
+CSK29544_1p.tsv cupin domain-containing protein	CDS	57926	59047	+
+CSK29544_1p.tsv dsbG	CDS	69185	69934	-
+CSK29544_1p.tsv DUF2235 domain-containing protein	CDS	59858	60244	+
+CSK29544_1p.tsv DUF2534 family protein	CDS	72502	72762	-
+CSK29544_1p.tsv DUF2931 family protein	CDS	60241	60888	+
+CSK29544_1p.tsv exc2	CDS	637	1038	-
+CSK29544_1p.tsv filamentous hemagglutinin N-terminal domain-containing protein	CDS	27432	28995	-
+CSK29544_1p.tsv glgX	CDS	52408	54483	+
+CSK29544_1p.tsv glutathione S-transferase family protein	CDS	1	597	+
+CSK29544_1p.tsv GNAT family N-acetyltransferase	CDS	11514	12044	+
+CSK29544_1p.tsv guaD	CDS	92006	93322	-
+CSK29544_1p.tsv helicase	CDS	84209	87370	+
+CSK29544_1p.tsv helix-turn-helix domain-containing protein	CDS	46118	46399	+
+CSK29544_1p.tsv hemagglutinin repeat-containing protein	CDS	17092	24777	-
+CSK29544_1p.tsv histidine phosphatase family protein	CDS	14097	14714	-
+CSK29544_1p.tsv histidine phosphatase family protein	CDS	88097	88666	-
+CSK29544_1p.tsv hypothetical protein	CDS	4912	6168	-
+CSK29544_1p.tsv hypothetical protein	CDS	81182	82405	+
+CSK29544_1p.tsv hypothetical protein	CDS	61228	62385	+
+CSK29544_1p.tsv hypothetical protein	CDS	12049	13107	-
+CSK29544_1p.tsv hypothetical protein	CDS	24963	26018	-
+CSK29544_1p.tsv hypothetical protein	CDS	16613	17092	-
+CSK29544_1p.tsv hypothetical protein	CDS	71999	72457	-
+CSK29544_1p.tsv hypothetical protein	CDS	16221	16628	-
+CSK29544_1p.tsv hypothetical protein	CDS	73090	73478	+
+CSK29544_1p.tsv hypothetical protein	CDS	88679	88948	-
+CSK29544_1p.tsv hypothetical protein	CDS	26100	26309	-
+CSK29544_1p.tsv hypothetical protein	CDS	35504	35713	+
+CSK29544_1p.tsv hypothetical protein	CDS	57610	57777	-
+CSK29544_1p.tsv hypothetical protein	CDS	26703	26852	-
+CSK29544_1p.tsv iron ABC transporter permease	CDS	75295	76335	-
+CSK29544_1p.tsv IS1 family transposase	CDS	9104	9801	-
+CSK29544_1p.tsv IS1 family transposase	CDS	59104	59801	-
+CSK29544_1p.tsv iucC	CDS	39416	41161	-
+CSK29544_1p.tsv MBL fold hydrolase	CDS	91184	91984	+
+CSK29544_1p.tsv MCP four helix bundle domain-containing protein	CDS	89232	90890	-
+CSK29544_1p.tsv membrane protein	CDS	13231	13998	-
+CSK29544_1p.tsv methyl-accepting chemotaxis protein	CDS	1262	3208	-
+CSK29544_1p.tsv MFS transporter	CDS	77582	78817	+
+CSK29544_1p.tsv MFS transporter	CDS	43982	45193	+
+CSK29544_1p.tsv MFS transporter	CDS	10012	11220	-
+CSK29544_1p.tsv mgtA	CDS	6376	9066	-
+CSK29544_1p.tsv PAAR domain-containing protein	CDS	60958	61224	+
+CSK29544_1p.tsv ParB/RepB/Spo0J family partition protein	CDS	34381	35349	+
+CSK29544_1p.tsv phospholipase D family protein	CDS	82399	84216	+
+CSK29544_1p.tsv RepB family plasmid replication initiator protein	CDS	31312	32367	-
+CSK29544_1p.tsv SDR family NAD(P)-dependent oxidoreductase	CDS	87535	88050	-
+CSK29544_1p.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	29009	30673	-
+CSK29544_1p.tsv SidA/IucD/PvdA family monooxygenase	CDS	38097	39419	-
+CSK29544_1p.tsv siderophore-interacting protein	CDS	45190	45987	+
+CSK29544_1p.tsv SMI1/KNR4 family protein	CDS	73581	74102	+
+CSK29544_1p.tsv thioredoxin family protein	CDS	69931	71952	-
+CSK29544_1p.tsv TonB-dependent siderophore receptor	CDS	35879	38074	-
+CSK29544_1p.tsv treY	CDS	49808	52339	+
+CSK29544_1p.tsv treZ	CDS	48027	49811	+
+CSK29544_1p.tsv tssF	CDS	65828	67591	+
+CSK29544_1p.tsv tssG	CDS	67546	68643	+
+CSK29544_1p.tsv tssJ	CDS	68624	69151	+
+CSK29544_1p.tsv type II toxin-antitoxin system HipA family toxin	CDS	46402	47721	+
+CSK29544_1p.tsv type VI secretion protein VasK	CDS	62369	65779	+
+CSK29544_1p.tsv tyrosine-type recombinase/integrase	CDS	80113	81087	+
+CSK29544_1p.tsv YmjA family protein	CDS	74220	74465	+
+CSK29544_3p.tsv arsenate reductase	CDS	45528	45953	-
+CSK29544_3p.tsv arsenical pump membrane protein	CDS	45966	47255	-
+CSK29544_3p.tsv arsenical pump-driving ATPase	CDS	47303	49054	-
+CSK29544_3p.tsv arsenical resistance operon trans-acting repressor arsD	CDS	49072	49434	-
+CSK29544_3p.tsv cation efflux system protein CusA	CDS	28579	31725	+
+CSK29544_3p.tsv cation efflux system protein CusB	CDS	27276	28568	+
+CSK29544_3p.tsv conjugational transfer protein TraX	CDS	3449	4225	+
+CSK29544_3p.tsv copper resistance protein A	CDS	36132	37949	+
+CSK29544_3p.tsv copper resistance protein B	CDS	37949	38845	+
+CSK29544_3p.tsv copper resistance protein C	CDS	38885	39265	+
+CSK29544_3p.tsv copper resistance protein D	CDS	39270	40199	+
+CSK29544_3p.tsv copper/silver efflux system outer membrane protein CusC	CDS	25395	26780	+
+CSK29544_3p.tsv DNA-binding transcriptional activator CusR	CDS	24525	25205	-
+CSK29544_3p.tsv DNA-binding transcriptional repressor ArsR	CDS	49486	49836	-
+CSK29544_3p.tsv hypothetical protein	CDS	50176	51261	+
+CSK29544_3p.tsv hypothetical protein	CDS	20562	21476	+
+CSK29544_3p.tsv hypothetical protein	CDS	18139	18981	-
+CSK29544_3p.tsv hypothetical protein	CDS	6442	7245	-
+CSK29544_3p.tsv hypothetical protein	CDS	9753	10535	-
+CSK29544_3p.tsv hypothetical protein	CDS	4711	5451	-
+CSK29544_3p.tsv hypothetical protein	CDS	2298	2996	+
+CSK29544_3p.tsv hypothetical protein	CDS	19386	19976	-
+CSK29544_3p.tsv hypothetical protein	CDS	67	627	+
+CSK29544_3p.tsv hypothetical protein	CDS	1797	2294	+
+CSK29544_3p.tsv hypothetical protein	CDS	31812	32252	+
+CSK29544_3p.tsv hypothetical protein	CDS	35460	35897	-
+CSK29544_3p.tsv hypothetical protein	CDS	22380	22811	-
+CSK29544_3p.tsv hypothetical protein	CDS	1332	1748	+
+CSK29544_3p.tsv hypothetical protein	CDS	45079	45495	+
+CSK29544_3p.tsv hypothetical protein	CDS	44591	44944	+
+CSK29544_3p.tsv hypothetical protein	CDS	21884	22234	-
+CSK29544_3p.tsv hypothetical protein	CDS	35093	35443	-
+CSK29544_3p.tsv hypothetical protein	CDS	6141	6464	+
+CSK29544_3p.tsv hypothetical protein	CDS	32434	32727	-
+CSK29544_3p.tsv hypothetical protein	CDS	12006	12290	-
+CSK29544_3p.tsv hypothetical protein	CDS	43570	43812	+
+CSK29544_3p.tsv hypothetical protein	CDS	5918	6154	+
+CSK29544_3p.tsv hypothetical protein	CDS	4283	4510	+
+CSK29544_3p.tsv hypothetical protein	CDS	713	925	-
+CSK29544_3p.tsv hypothetical protein	CDS	43132	43332	-
+CSK29544_3p.tsv hypothetical protein	CDS	34862	35059	+
+CSK29544_3p.tsv hypothetical protein	CDS	19069	19260	-
+CSK29544_3p.tsv hypothetical protein	CDS	43360	43479	-
+CSK29544_3p.tsv KAP family P-loop domain -containing protein	CDS	51262	53457	+
+CSK29544_3p.tsv N-acetyltransferase-like protein	CDS	43862	44389	-
+CSK29544_3p.tsv partitioning protein parA	CDS	14733	15350	+
+CSK29544_3p.tsv periplasmic copper-binding protein CusF	CDS	26809	27162	+
+CSK29544_3p.tsv plasmid partition protein ParG	CDS	15403	15642	+
+CSK29544_3p.tsv putative cation-transporting P-type ATPase	CDS	32773	34821	+
+CSK29544_3p.tsv putative copper-binding protein pcoE	CDS	42547	42981	+
+CSK29544_3p.tsv putative replication initiator protein RepA	CDS	8141	8908	-
+CSK29544_3p.tsv RepFIB replication protein A	CDS	16107	16979	+
+CSK29544_3p.tsv resolvase	CDS	17361	18149	-
+CSK29544_3p.tsv sensor kinase CusS	CDS	23057	24532	-
+CSK29544_3p.tsv sensor protein pcoS	CDS	40931	42331	+
+CSK29544_3p.tsv transcriptional regulatory protein PcoR	CDS	40254	40934	+
+CSK29544_3p.tsv virulence-associated protein vagC	CDS	1105	1335	+
+CmuyJz38_p1.tsv 3'-5' exonuclease	CDS	54051	54599	+
+CmuyJz38_p1.tsv AAA family ATPase	CDS	42976	44892	+
+CmuyJz38_p1.tsv AAA family ATPase	CDS	7086	8426	+
+CmuyJz38_p1.tsv AAA family ATPase	CDS	25238	26461	+
+CmuyJz38_p1.tsv AAA family ATPase	CDS	52938	53573	+
+CmuyJz38_p1.tsv ABC transporter	CDS	71940	72221	+
+CmuyJz38_p1.tsv ATP-binding cassette domain-containing protein	CDS	80588	81229	+
+CmuyJz38_p1.tsv C40 family peptidase	CDS	98615	99388	+
+CmuyJz38_p1.tsv DEAD/DEAH box helicase	CDS	77577	79151	-
+CmuyJz38_p1.tsv dihydrofolate reductase	CDS	52447	52950	+
+CmuyJz38_p1.tsv DNA ligase	CDS	11539	12861	+
+CmuyJz38_p1.tsv DNA primase	CDS	8594	9709	+
+CmuyJz38_p1.tsv DNA-binding protein	CDS	83107	83745	+
+CmuyJz38_p1.tsv dnaE	CDS	26636	30235	+
+CmuyJz38_p1.tsv DUF1653 domain-containing protein	CDS	11093	11539	+
+CmuyJz38_p1.tsv DUF1983 domain-containing protein	CDS	100181	104668	+
+CmuyJz38_p1.tsv DUF2829 domain-containing protein	CDS	17274	17762	+
+CmuyJz38_p1.tsv DUF3927 family protein	CDS	60588	60740	+
+CmuyJz38_p1.tsv DUF4942 domain-containing protein	CDS	65803	67488	+
+CmuyJz38_p1.tsv exonuclease	CDS	33641	34591	+
+CmuyJz38_p1.tsv GrxA family glutaredoxin	CDS	18114	18356	+
+CmuyJz38_p1.tsv HD domain-containing protein	CDS	61470	62072	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	1	109007	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	85059	86627	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	19267	20622	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	34854	35933	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	86646	87554	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	81764	82654	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	4814	5686	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	89219	90049	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	54659	55486	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	55628	56437	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	9781	10557	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	30653	31399	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	62062	62802	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	6263	7000	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	2823	3557	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	44882	45598	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	13806	14510	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	1116	1808	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	75875	76564	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	74341	74994	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	40800	41444	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	56620	57243	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	15757	16368	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	16585	17178	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	45608	46177	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	81219	81767	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	60888	61427	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	59382	59888	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	72953	73432	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	90494	90964	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	38541	39008	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	10638	11096	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	37665	38111	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	51998	52444	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	88785	89219	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	18404	18835	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	14507	14935	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	32027	32455	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	71407	71829	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	75421	75843	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	2419	2838	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	53635	54054	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	5683	6087	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	4378	4770	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	64230	64622	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	64980	65366	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	90966	91346	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	17759	18121	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	67582	67932	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	13391	13735	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	90159	90503	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	70932	71270	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	775	1101	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	92264	92581	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	59074	59385	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	77268	77573	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	72467	72769	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	30325	30618	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	31396	31689	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	13021	13311	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	68449	68739	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	378	662	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	64615	64887	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	38172	38441	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	82667	82933	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	34588	34848	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	1808	2059	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	65444	65695	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	67922	68173	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	58142	58375	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	72231	72464	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	70540	70770	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	92710	92934	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	22552	22764	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	88535	88744	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	70311	70517	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	74091	74294	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	38995	39195	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	36048	36236	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	59898	60074	+
+CmuyJz38_p1.tsv hypothetical protein	CDS	31686	31859	-
+CmuyJz38_p1.tsv hypothetical protein	CDS	12861	13028	+
+CmuyJz38_p1.tsv Ig-like domain-containing protein	CDS	91455	92216	+
+CmuyJz38_p1.tsv metallophosphoesterase	CDS	41661	42746	+
+CmuyJz38_p1.tsv nrdA	CDS	46255	48579	+
+CmuyJz38_p1.tsv nrdB	CDS	48671	49804	+
+CmuyJz38_p1.tsv ParB N-terminal domain-containing protein	CDS	79216	79914	+
+CmuyJz38_p1.tsv ParB N-terminal domain-containing protein	CDS	79914	80591	+
+CmuyJz38_p1.tsv phage major capsid protein	CDS	87581	88453	+
+CmuyJz38_p1.tsv phage minor tail protein L	CDS	97917	98615	+
+CmuyJz38_p1.tsv phage N-6-adenine-methyltransferase	CDS	57344	57958	+
+CmuyJz38_p1.tsv phage tail protein	CDS	97536	97868	+
+CmuyJz38_p1.tsv phage terminase large subunit	CDS	83748	85004	+
+CmuyJz38_p1.tsv phosphoribosyl-ATP pyrophosphohydrolase	CDS	49887	50759	+
+CmuyJz38_p1.tsv plasmid stability protein	CDS	3713	4378	+
+CmuyJz38_p1.tsv porphyrin biosynthesis protein	CDS	22897	25140	+
+CmuyJz38_p1.tsv regulator	CDS	32576	33580	+
+CmuyJz38_p1.tsv RepB family plasmid replication initiator protein	CDS	39447	40457	-
+CmuyJz38_p1.tsv SPFH/Band 7/PHB domain protein	CDS	36233	37078	+
+CmuyJz38_p1.tsv tail assembly protein	CDS	99398	100027	+
+CmuyJz38_p1.tsv tail fiber domain-containing protein	CDS	104843	108823	+
+CmuyJz38_p1.tsv tape measure protein	CDS	92942	97525	+
+CmuyJz38_p1.tsv TerB family tellurite resistance protein	CDS	60163	60588	+
+CmuyJz38_p1.tsv thymidylate synthase	CDS	50940	52025	+
+CmuyJz38_p1.tsv transcriptional regulator	CDS	76638	77165	-
+CmuyJz38_p1.tsv tyrosine-type recombinase/integrase	CDS	20812	21942	+
+CmuyJz38_p1.tsv umuC	CDS	62779	64044	-
+CmuyJz38_p1.tsv XRE family transcriptional regulator	CDS	21911	22291	-
+CmuyJz38_p2.tsv AAA family ATPase	CDS	126694	127947	+
+CmuyJz38_p2.tsv AAA family ATPase	CDS	99779	100978	+
+CmuyJz38_p2.tsv AAA family ATPase	CDS	128543	129313	+
+CmuyJz38_p2.tsv ABC transporter substrate-binding protein	CDS	3819	4814	+
+CmuyJz38_p2.tsv ABC transporter substrate-binding protein	CDS	46499	47458	+
+CmuyJz38_p2.tsv alpha/beta fold hydrolase	CDS	48498	49319	-
+CmuyJz38_p2.tsv amino acid-binding protein	CDS	50100	50498	-
+CmuyJz38_p2.tsv aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	CDS	33711	35045	-
+CmuyJz38_p2.tsv antibiotic biosynthesis monooxygenase	CDS	50491	50814	-
+CmuyJz38_p2.tsv ascB	CDS	143780	145171	-
+CmuyJz38_p2.tsv ATP-binding cassette domain-containing protein	CDS	45710	46486	+
+CmuyJz38_p2.tsv ATP-binding cassette domain-containing protein	CDS	5851	6609	+
+CmuyJz38_p2.tsv ATPase	CDS	19163	21409	-
+CmuyJz38_p2.tsv bglF	CDS	1	145842	-
+CmuyJz38_p2.tsv bglG	CDS	1345	2178	-
+CmuyJz38_p2.tsv cupin domain-containing protein	CDS	122049	123170	+
+CmuyJz38_p2.tsv darcynin	CDS	59183	59506	+
+CmuyJz38_p2.tsv diguanylate cyclase	CDS	39947	41524	-
+CmuyJz38_p2.tsv diguanylate phosphodiesterase	CDS	55167	56384	-
+CmuyJz38_p2.tsv dihydrodipicolinate synthase family protein	CDS	36060	36950	+
+CmuyJz38_p2.tsv DinB family protein	CDS	66913	67401	-
+CmuyJz38_p2.tsv drug:proton antiporter	CDS	77127	77510	-
+CmuyJz38_p2.tsv dsbG	CDS	7520	8275	+
+CmuyJz38_p2.tsv DUF2534 family protein	CDS	7216	7476	+
+CmuyJz38_p2.tsv DUF4440 domain-containing protein	CDS	41665	41847	-
+CmuyJz38_p2.tsv EamA family transporter	CDS	35151	36029	+
+CmuyJz38_p2.tsv efflux RND transporter periplasmic adaptor subunit	CDS	71948	73096	-
+CmuyJz38_p2.tsv efflux RND transporter permease subunit	CDS	68874	71951	-
+CmuyJz38_p2.tsv ergot alkaloid biosynthesis protein	CDS	139034	139873	-
+CmuyJz38_p2.tsv exc2	CDS	131843	132241	+
+CmuyJz38_p2.tsv glgX	CDS	119268	121343	+
+CmuyJz38_p2.tsv glutathione S-transferase N-terminal domain-containing protein	CDS	133059	133655	-
+CmuyJz38_p2.tsv GNAT family N-acetyltransferase	CDS	107911	108858	-
+CmuyJz38_p2.tsv GNAT family N-acetyltransferase	CDS	79818	80348	+
+CmuyJz38_p2.tsv GNAT family N-acetyltransferase	CDS	67558	67986	+
+CmuyJz38_p2.tsv GntR family transcriptional regulator	CDS	41990	42709	+
+CmuyJz38_p2.tsv Hcp family type VI secretion system effector	CDS	26741	27232	-
+CmuyJz38_p2.tsv helix-turn-helix domain-containing protein	CDS	65651	66379	-
+CmuyJz38_p2.tsv helix-turn-helix domain-containing protein	CDS	49402	50127	-
+CmuyJz38_p2.tsv helix-turn-helix domain-containing protein	CDS	112975	113259	+
+CmuyJz38_p2.tsv hemagglutinin repeat-containing protein	CDS	85501	95652	-
+CmuyJz38_p2.tsv HipA domain-containing protein	CDS	113262	114581	+
+CmuyJz38_p2.tsv histidine phosphatase family protein	CDS	82386	83009	-
+CmuyJz38_p2.tsv histidine phosphatase family protein	CDS	136603	137163	+
+CmuyJz38_p2.tsv HTH domain-containing protein	CDS	77566	78261	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	15142	16323	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	80352	81410	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	37054	37992	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	64741	65640	+
+CmuyJz38_p2.tsv hypothetical protein	CDS	39082	39894	+
+CmuyJz38_p2.tsv hypothetical protein	CDS	81528	82294	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	132487	132906	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	83124	83495	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	58150	58461	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	57192	57491	+
+CmuyJz38_p2.tsv hypothetical protein	CDS	136269	136535	+
+CmuyJz38_p2.tsv hypothetical protein	CDS	121405	121596	-
+CmuyJz38_p2.tsv hypothetical protein	CDS	121737	121904	-
+CmuyJz38_p2.tsv iron ABC transporter permease	CDS	47451	48458	+
+CmuyJz38_p2.tsv iron chelate uptake ABC transporter family permease subunit	CDS	4814	5854	+
+CmuyJz38_p2.tsv IucA/IucC family siderophore biosynthesis protein	CDS	108851	110599	-
+CmuyJz38_p2.tsv iucC	CDS	106169	107914	-
+CmuyJz38_p2.tsv LysR family transcriptional regulator	CDS	60792	61691	+
+CmuyJz38_p2.tsv LysR family transcriptional regulator	CDS	59917	60669	+
+CmuyJz38_p2.tsv MCP four helix bundle domain-containing protein	CDS	134331	135989	+
+CmuyJz38_p2.tsv MerR family transcriptional regulator	CDS	54191	54934	-
+CmuyJz38_p2.tsv metallophosphoesterase	CDS	57934	58077	+
+CmuyJz38_p2.tsv methyl-accepting chemotaxis protein	CDS	129687	131633	+
+CmuyJz38_p2.tsv methyl-accepting chemotaxis protein	CDS	52215	54131	+
+CmuyJz38_p2.tsv MFS transporter	CDS	62488	63783	-
+CmuyJz38_p2.tsv MFS transporter	CDS	2330	3565	-
+CmuyJz38_p2.tsv MFS transporter	CDS	110735	111946	+
+CmuyJz38_p2.tsv MFS transporter	CDS	78283	79488	-
+CmuyJz38_p2.tsv MFS transporter	CDS	59549	59911	-
+CmuyJz38_p2.tsv mgtA	CDS	123753	126467	+
+CmuyJz38_p2.tsv MipA/OmpV family protein	CDS	75184	75963	+
+CmuyJz38_p2.tsv nuclear transport factor 2 family protein	CDS	139870	140319	-
+CmuyJz38_p2.tsv nuclear transport factor 2 family protein	CDS	66469	66876	+
+CmuyJz38_p2.tsv nuclear transport factor 2 family protein	CDS	68538	68894	+
+CmuyJz38_p2.tsv NUDIX domain-containing protein	CDS	68013	68456	+
+CmuyJz38_p2.tsv OmpA family protein	CDS	27253	28944	-
+CmuyJz38_p2.tsv PAAR domain-containing protein	CDS	16327	16584	-
+CmuyJz38_p2.tsv ParB/RepB/Spo0J family partition protein	CDS	100986	101954	+
+CmuyJz38_p2.tsv PTS transporter subunit EIIC	CDS	44172	45548	+
+CmuyJz38_p2.tsv RepB family plasmid replication initiator protein	CDS	97955	99010	-
+CmuyJz38_p2.tsv response regulator transcription factor	CDS	74368	75060	-
+CmuyJz38_p2.tsv SDR family oxidoreductase	CDS	141090	141767	+
+CmuyJz38_p2.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	95666	97330	-
+CmuyJz38_p2.tsv SidA/IucD/PvdA family monooxygenase	CDS	104850	106172	-
+CmuyJz38_p2.tsv siderophore-interacting protein	CDS	111943	112830	+
+CmuyJz38_p2.tsv starvation-sensing protein RspA	CDS	42697	43896	-
+CmuyJz38_p2.tsv substrate-binding domain-containing protein	CDS	61666	62472	-
+CmuyJz38_p2.tsv SUMF1/EgtB/PvdO family nonheme iron enzyme	CDS	18179	19159	-
+CmuyJz38_p2.tsv SUMF1/EgtB/PvdO family nonheme iron enzyme	CDS	17033	17977	-
+CmuyJz38_p2.tsv TetR family transcriptional regulator	CDS	58490	59086	-
+CmuyJz38_p2.tsv TetR family transcriptional regulator	CDS	64082	64639	-
+CmuyJz38_p2.tsv TetR/AcrR family transcriptional regulator C-terminal ligand-binding domain-containing protein	CDS	140379	141017	+
+CmuyJz38_p2.tsv TonB-dependent siderophore receptor	CDS	102630	104825	-
+CmuyJz38_p2.tsv transcriptional regulator	CDS	76184	77074	+
+CmuyJz38_p2.tsv treY	CDS	116668	119199	+
+CmuyJz38_p2.tsv treZ	CDS	114887	116668	+
+CmuyJz38_p2.tsv tssB	CDS	32533	33030	-
+CmuyJz38_p2.tsv tssC	CDS	30953	32500	-
+CmuyJz38_p2.tsv tssF	CDS	9886	11649	-
+CmuyJz38_p2.tsv tssG	CDS	8834	9931	-
+CmuyJz38_p2.tsv tssH	CDS	23937	26594	-
+CmuyJz38_p2.tsv tssJ	CDS	8326	8853	-
+CmuyJz38_p2.tsv tssK	CDS	29598	30938	-
+CmuyJz38_p2.tsv two-component sensor histidine kinase	CDS	73175	74371	-
+CmuyJz38_p2.tsv two-component-system connector protein AriR	CDS	57533	57811	+
+CmuyJz38_p2.tsv two-component-system connector protein YcgZ	CDS	56788	57027	+
+CmuyJz38_p2.tsv type VI secretion protein VasK	CDS	11701	15120	-
+CmuyJz38_p2.tsv type VI secretion system protein TssL, short form	CDS	28948	29601	-
+CmuyJz38_p2.tsv type VI secretion system tube protein Hcp	CDS	38011	38493	-
+CmuyJz38_p2.tsv tyrosine-protein phosphatase	CDS	137173	138624	-
+CmuyJz38_p2.tsv tyrosine-type recombinase/integrase	CDS	141790	142773	-
+CmuyJz38_p2.tsv VENN motif pre-toxin domain-containing protein	CDS	84155	85165	-
+CmuyJz38_p2.tsv vgrG	CDS	21424	23940	-
+CmuyJz38_p2.tsv VOC family protein	CDS	51358	51747	-
+CmuyJz38_p2.tsv YmjA family protein	CDS	6655	6900	-
+p1.tsv AAA family ATPase	CDS	111884	113130	-
+p1.tsv AAA family ATPase	CDS	14907	16106	-
+p1.tsv AAA family ATPase	CDS	110544	111314	-
+p1.tsv ABC transporter ATP-binding protein	CDS	89755	90513	-
+p1.tsv ABC transporter six-transmembrane domain-containing protein	CDS	51008	51919	-
+p1.tsv ABC transporter substrate-binding protein	CDS	91550	92557	-
+p1.tsv acetyltransferase	CDS	7175	8122	+
+p1.tsv aerobactin synthase IucA	CDS	5434	7182	+
+p1.tsv alpha/beta hydrolase	CDS	67543	68364	+
+p1.tsv antibiotic biosynthesis monooxygenase	CDS	66049	66372	+
+p1.tsv arsC	CDS	77654	78058	-
+p1.tsv arsenic transporter	CDS	78103	79386	-
+p1.tsv ascB	CDS	97059	98450	+
+p1.tsv autotransporter domain-containing protein	CDS	118195	121134	+
+p1.tsv bglF	CDS	95184	97043	+
+p1.tsv bglG	CDS	94211	95044	+
+p1.tsv cupin domain-containing protein	CDS	116632	117753	-
+p1.tsv diguanylate phosphodiesterase	CDS	59668	60885	+
+p1.tsv dihydrodipicolinate synthase family protein	CDS	79899	80786	-
+p1.tsv DMT family transporter	CDS	80811	81689	-
+p1.tsv dsbG	CDS	83178	83927	-
+p1.tsv DUF2534 family protein	CDS	86495	86755	-
+p1.tsv efflux RND transporter periplasmic adaptor subunit	CDS	45243	46394	+
+p1.tsv efflux RND transporter permease subunit	CDS	46395	49445	+
+p1.tsv Exc2 family lipoprotein	CDS	107611	108012	-
+p1.tsv glgX	CDS	121195	123270	-
+p1.tsv glutathione S-transferase family protein	CDS	106980	107576	+
+p1.tsv GNAT family N-acetyltransferase	CDS	37379	37909	-
+p1.tsv GNAT family N-acetyltransferase	CDS	65432	65947	-
+p1.tsv GNAT family N-acetyltransferase	CDS	50343	50774	-
+p1.tsv GntR family transcriptional regulator	CDS	71251	71970	-
+p1.tsv guaD	CDS	105082	106356	-
+p1.tsv HAMP domain-containing protein	CDS	61949	63859	-
+p1.tsv helix-turn-helix transcriptional regulator	CDS	2792	3073	-
+p1.tsv hemagglutinin repeat-containing protein	CDS	20285	32512	+
+p1.tsv histidine phosphatase family protein	CDS	34721	35344	+
+p1.tsv histidine phosphatase family protein	CDS	101177	101737	-
+p1.tsv hypothetical protein	CDS	70064	71263	+
+p1.tsv hypothetical protein	CDS	36316	37374	+
+p1.tsv hypothetical protein	CDS	76639	77577	+
+p1.tsv hypothetical protein	CDS	41336	42226	-
+p1.tsv hypothetical protein	CDS	74769	75584	-
+p1.tsv hypothetical protein	CDS	39518	40060	+
+p1.tsv hypothetical protein	CDS	85992	86450	-
+p1.tsv hypothetical protein	CDS	34118	34552	+
+p1.tsv hypothetical protein	CDS	66365	66763	+
+p1.tsv hypothetical protein	CDS	64292	64678	+
+p1.tsv hypothetical protein	CDS	40898	41281	+
+p1.tsv hypothetical protein	CDS	32521	32856	+
+p1.tsv hypothetical protein	CDS	55993	56313	-
+p1.tsv hypothetical protein	CDS	57021	57332	+
+p1.tsv hypothetical protein	CDS	58559	58858	-
+p1.tsv hypothetical protein	CDS	101748	102029	-
+p1.tsv hypothetical protein	CDS	58240	58518	-
+p1.tsv hypothetical protein	CDS	117903	118070	+
+p1.tsv iron ABC transporter permease	CDS	90510	91550	-
+p1.tsv iucC	CDS	8119	9864	+
+p1.tsv LysR family transcriptional regulator	CDS	54957	55856	-
+p1.tsv MBL fold hydrolase	CDS	104266	105066	+
+p1.tsv MCP four helix bundle domain-containing protein	CDS	102313	103971	-
+p1.tsv MerR family transcriptional regulator	CDS	61120	61863	+
+p1.tsv metallophosphoesterase	CDS	57366	58106	-
+p1.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	79474	79806	-
+p1.tsv methyl-accepting chemotaxis protein	CDS	108235	110181	-
+p1.tsv methyltransferase	CDS	87152	88180	-
+p1.tsv MFS transporter	CDS	52876	54183	+
+p1.tsv MFS transporter	CDS	92797	94032	+
+p1.tsv MFS transporter	CDS	4087	5298	-
+p1.tsv MFS transporter	CDS	38207	39412	+
+p1.tsv mgtA	CDS	113339	116053	-
+p1.tsv MipA/OmpV family protein	CDS	42387	43157	-
+p1.tsv NINE protein	CDS	72169	72462	-
+p1.tsv nuclear transport factor 2 family protein	CDS	49437	49793	-
+p1.tsv nuclear transport factor 2 family protein	CDS	72601	72948	+
+p1.tsv NUDIX domain-containing protein	CDS	49874	50317	-
+p1.tsv ParB/RepB/Spo0J family partition protein	CDS	13931	14899	-
+p1.tsv PLP-dependent aminotransferase family protein	CDS	81782	83116	+
+p1.tsv PTS transporter subunit EIIC	CDS	68411	69784	-
+p1.tsv RepB family plasmid replication initiator protein	CDS	16954	17967	+
+p1.tsv response regulator transcription factor	CDS	43282	43974	+
+p1.tsv rhomboid protein	CDS	35436	36203	+
+p1.tsv SDR family oxidoreductase	CDS	100456	101130	-
+p1.tsv sensor domain-containing diguanylate cyclase	CDS	73098	74675	+
+p1.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	18607	20271	+
+p1.tsv SidA/IucD/PvdA family monooxygenase	CDS	9861	11183	+
+p1.tsv siderophore-interacting protein	CDS	3206	4090	-
+p1.tsv SMI1/KNR4 family protein	CDS	88798	89319	+
+p1.tsv substrate-binding domain-containing protein	CDS	54176	54982	+
+p1.tsv TetR family transcriptional regulator	CDS	52020	52577	+
+p1.tsv TetR/AcrR family transcriptional regulator	CDS	56409	56999	+
+p1.tsv thioredoxin family protein	CDS	83924	85945	-
+p1.tsv thioredoxin fold domain-containing protein	CDS	64833	65393	+
+p1.tsv TonB-dependent siderophore receptor	CDS	11206	13401	+
+p1.tsv treY	CDS	123339	125870	-
+p1.tsv treZ	CDS	1	126488	-
+p1.tsv two-component sensor histidine kinase	CDS	43971	45149	+
+p1.tsv two-component-system connector protein YcgZ	CDS	59028	59267	-
+p1.tsv type II toxin-antitoxin system HipA family toxin	CDS	1470	2789	-
+p1.tsv type VI secretion system tube protein Hcp	CDS	76138	76620	+
+p1.tsv tyrosine-type recombinase/integrase	CDS	99439	100422	+
+p1.tsv VENN motif pre-toxin domain-containing protein	CDS	33102	33326	+
+p1.tsv winged helix-turn-helix transcriptional regulator	CDS	66736	67461	+
+p1.tsv YafY family transcriptional regulator	CDS	40146	40841	+
+p1.tsv YmjA family protein	CDS	89436	89681	+
+p2.tsv AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	7373	7603	-
+p2.tsv aquaporin	CDS	18353	18598	-
+p2.tsv arsA	CDS	13111	14862	+
+p2.tsv arsB	CDS	14910	16199	+
+p2.tsv arsC	CDS	16212	16637	+
+p2.tsv arsD	CDS	12731	13093	+
+p2.tsv arsR	CDS	12329	12679	+
+p2.tsv conjugal transfer protein TraX	CDS	4483	5208	-
+p2.tsv cusF	CDS	35003	35356	-
+p2.tsv DNA partition complex ParG	CDS	46521	46760	-
+p2.tsv DUF305 domain-containing protein	CDS	39931	40281	+
+p2.tsv DUF2933 domain-containing protein	CDS	27106	27303	-
+p2.tsv DUF4145 domain-containing protein	CDS	3268	4005	+
+p2.tsv DUF4225 domain-containing protein	CDS	54922	55725	+
+p2.tsv HNH endonuclease	CDS	40689	41597	-
+p2.tsv Hok/Gef family protein	CDS	48385	48543	+
+p2.tsv hypothetical protein	CDS	1	55913	-
+p2.tsv hypothetical protein	CDS	10904	11989	-
+p2.tsv hypothetical protein	CDS	43184	44026	+
+p2.tsv hypothetical protein	CDS	5712	6311	-
+p2.tsv hypothetical protein	CDS	8081	8641	-
+p2.tsv hypothetical protein	CDS	6414	6911	-
+p2.tsv hypothetical protein	CDS	29913	30353	-
+p2.tsv hypothetical protein	CDS	26268	26705	+
+p2.tsv hypothetical protein	CDS	42399	42779	+
+p2.tsv hypothetical protein	CDS	17221	17574	-
+p2.tsv hypothetical protein	CDS	44797	45015	-
+p2.tsv hypothetical protein	CDS	7783	7995	+
+p2.tsv hypothetical protein	CDS	16670	16861	-
+p2.tsv hypothetical protein	CDS	42905	43096	+
+p2.tsv IS66 family insertion sequence hypothetical protein	CDS	2227	2631	-
+p2.tsv IS66-like element ISKpn24 family transposase	CDS	296	1834	-
+p2.tsv M23 family metallopeptidase	CDS	26653	27072	+
+p2.tsv N-acetyltransferase	CDS	17806	18303	+
+p2.tsv ParA family protein	CDS	46813	47430	-
+p2.tsv pcoA	CDS	24216	26033	-
+p2.tsv pcoB	CDS	23320	24210	-
+p2.tsv pcoC	CDS	22900	23280	-
+p2.tsv pcoD	CDS	21966	22895	-
+p2.tsv pcoE	CDS	19184	19618	-
+p2.tsv pcoR	CDS	21231	21911	-
+p2.tsv pcoS	CDS	19834	21234	-
+p2.tsv phage integrase family protein	CDS	44016	44804	+
+p2.tsv phage T7 exclusion protein	CDS	8708	10903	-
+p2.tsv RepB family plasmid replication initiator protein	CDS	45184	46056	-
+p2.tsv replication initiator protein RepA	CDS	53114	54025	+
+p2.tsv silA	CDS	30440	33586	-
+p2.tsv silB	CDS	33597	34889	-
+p2.tsv silC	CDS	35385	36770	-
+p2.tsv silE	CDS	39354	39785	+
+p2.tsv silP	CDS	27344	29815	-
+p2.tsv silR	CDS	36960	37640	+
+p2.tsv silS	CDS	37633	39108	+
+p2.tsv thioredoxin domain-containing protein	CDS	51630	52412	+
+p2.tsv tnpB	CDS	1883	2230	-
+p2.tsv type II toxin-antitoxin system RelE/ParE family toxin	CDS	18707	18805	+
+p2.tsv type II toxin-antitoxin system VapC family toxin	CDS	6960	7376	-
+p505108-MDR.tsv 2-oxo-tetronate isomerase	CDS	254591	255169	-
+p505108-MDR.tsv AAA family ATPase	CDS	42491	43549	+
+p505108-MDR.tsv aac(3)	CDS	265953	266762	-
+p505108-MDR.tsv aac(6')-Ib	CDS	235221	235775	+
+p505108-MDR.tsv aac(6')-IIc	CDS	268847	269428	-
+p505108-MDR.tsv alpha-2-macroglobulin family protein	CDS	248837	249631	+
+p505108-MDR.tsv aminoglycoside O-phosphotransferase APH(6)-Id	CDS	127395	128231	+
+p505108-MDR.tsv aph(3'')-Ib	CDS	126592	127395	+
+p505108-MDR.tsv aph(3')-I	CDS	164776	165591	-
+p505108-MDR.tsv arr	CDS	265412	265825	-
+p505108-MDR.tsv arsC	CDS	156203	156628	-
+p505108-MDR.tsv arsenic transporter	CDS	156641	157930	-
+p505108-MDR.tsv arsH	CDS	158383	159087	+
+p505108-MDR.tsv ATP-dependent helicase	CDS	85193	87232	-
+p505108-MDR.tsv ATP-grasp domain-containing protein	CDS	74940	75998	-
+p505108-MDR.tsv blaDHA	CDS	247503	248642	+
+p505108-MDR.tsv blaSHV	CDS	239239	240099	+
+p505108-MDR.tsv cadR	CDS	98617	99051	-
+p505108-MDR.tsv cation transporter	CDS	207473	208396	-
+p505108-MDR.tsv class A broad-spectrum beta-lactamase TEM-1	CDS	113444	114304	-
+p505108-MDR.tsv class II aldolase/adducin family protein	CDS	243302	243625	+
+p505108-MDR.tsv conjugal transfer protein TraG N-terminal domain-containing protein	CDS	175882	179832	-
+p505108-MDR.tsv conjugal transfer protein TraM	CDS	135380	135589	+
+p505108-MDR.tsv CopD family protein	CDS	22971	23123	+
+p505108-MDR.tsv CopD family protein	CDS	276056	276205	+
+p505108-MDR.tsv cysteine protease StiP family protein	CDS	71941	73020	-
+p505108-MDR.tsv cytochrome b/b6 domain-containing protein	CDS	208596	209168	-
+p505108-MDR.tsv Dam family site-specific DNA-(adenine-N6)-methyltransferase	CDS	308509	309321	+
+p505108-MDR.tsv DeoR/GlpR transcriptional regulator	CDS	240120	240881	-
+p505108-MDR.tsv dfrA19	CDS	124249	124818	+
+p505108-MDR.tsv DNA cytosine methyltransferase	CDS	147978	149405	-
+p505108-MDR.tsv DNA cytosine methyltransferase	CDS	130188	131591	-
+p505108-MDR.tsv DsbA family protein	CDS	169522	170331	-
+p505108-MDR.tsv DUF421 domain-containing protein	CDS	255117	255563	-
+p505108-MDR.tsv DUF957 domain-containing protein	CDS	216859	217170	-
+p505108-MDR.tsv DUF1173 family protein	CDS	146408	147727	-
+p505108-MDR.tsv DUF3085 domain-containing protein	CDS	216363	216854	-
+p505108-MDR.tsv DUF3150 domain-containing protein	CDS	43918	45045	+
+p505108-MDR.tsv DUF3330 domain-containing protein	CDS	102624	102836	-
+p505108-MDR.tsv DUF4102 domain-containing protein	CDS	228772	228948	+
+p505108-MDR.tsv DUF4165 domain-containing protein	CDS	300579	303035	-
+p505108-MDR.tsv DUF4165 domain-containing protein	CDS	293885	296305	+
+p505108-MDR.tsv DUF4236 domain-containing protein	CDS	69766	70974	-
+p505108-MDR.tsv DUF4400 domain-containing protein	CDS	192513	193175	+
+p505108-MDR.tsv DUF4942 domain-containing protein	CDS	305037	306728	-
+p505108-MDR.tsv DUF4942 domain-containing protein	CDS	144108	144926	+
+p505108-MDR.tsv DUF5417 domain-containing protein	CDS	202941	203885	+
+p505108-MDR.tsv EAL domain-containing protein	CDS	128819	128884	-
+p505108-MDR.tsv ere(A)	CDS	263491	264531	-
+p505108-MDR.tsv EreA family erythromycin esterase	CDS	268453	268641	-
+p505108-MDR.tsv ethidium bromide resistance protein	CDS	245920	246255	-
+p505108-MDR.tsv four-carbon acid sugar kinase family protein	CDS	242057	243309	+
+p505108-MDR.tsv GNAT family N-acetyltransferase	CDS	244459	244959	-
+p505108-MDR.tsv H-NS histone family protein	CDS	110318	110722	-
+p505108-MDR.tsv H-NS histone family protein	CDS	133929	134279	-
+p505108-MDR.tsv heavy metal translocating P-type ATPase	CDS	99137	101542	+
+p505108-MDR.tsv helix-turn-helix domain-containing protein	CDS	233182	233247	-
+p505108-MDR.tsv helix-turn-helix transcriptional regulator	CDS	93337	93630	+
+p505108-MDR.tsv HNH endonuclease	CDS	174182	175243	+
+p505108-MDR.tsv HNH endonuclease	CDS	108854	109711	+
+p505108-MDR.tsv HNH endonuclease	CDS	106902	107303	+
+p505108-MDR.tsv HNH endonuclease	CDS	272161	272562	-
+p505108-MDR.tsv HpcH/HpaI aldolase/citrate lyase family protein	CDS	70985	71941	-
+p505108-MDR.tsv hypA	CDS	246148	246513	+
+p505108-MDR.tsv hypothetical protein	CDS	30910	32421	+
+p505108-MDR.tsv hypothetical protein	CDS	91548	92936	+
+p505108-MDR.tsv hypothetical protein	CDS	144923	146128	+
+p505108-MDR.tsv hypothetical protein	CDS	200653	201837	-
+p505108-MDR.tsv hypothetical protein	CDS	283503	284684	-
+p505108-MDR.tsv hypothetical protein	CDS	306976	308139	-
+p505108-MDR.tsv hypothetical protein	CDS	191417	192526	+
+p505108-MDR.tsv hypothetical protein	CDS	61343	62425	+
+p505108-MDR.tsv hypothetical protein	CDS	311352	312404	-
+p505108-MDR.tsv hypothetical protein	CDS	87229	88215	-
+p505108-MDR.tsv hypothetical protein	CDS	41456	42433	+
+p505108-MDR.tsv hypothetical protein	CDS	57246	58208	+
+p505108-MDR.tsv hypothetical protein	CDS	53687	54643	+
+p505108-MDR.tsv hypothetical protein	CDS	52577	53515	+
+p505108-MDR.tsv hypothetical protein	CDS	50586	51521	+
+p505108-MDR.tsv hypothetical protein	CDS	51590	52510	+
+p505108-MDR.tsv hypothetical protein	CDS	58218	59123	+
+p505108-MDR.tsv hypothetical protein	CDS	150138	151034	+
+p505108-MDR.tsv hypothetical protein	CDS	218588	219481	-
+p505108-MDR.tsv hypothetical protein	CDS	49638	50516	+
+p505108-MDR.tsv hypothetical protein	CDS	36857	37729	-
+p505108-MDR.tsv hypothetical protein	CDS	40088	40960	+
+p505108-MDR.tsv hypothetical protein	CDS	309330	310184	-
+p505108-MDR.tsv hypothetical protein	CDS	18691	19527	-
+p505108-MDR.tsv hypothetical protein	CDS	183398	184198	-
+p505108-MDR.tsv hypothetical protein	CDS	277165	277956	-
+p505108-MDR.tsv hypothetical protein	CDS	73022	73795	-
+p505108-MDR.tsv hypothetical protein	CDS	290826	291590	+
+p505108-MDR.tsv hypothetical protein	CDS	270705	271451	+
+p505108-MDR.tsv hypothetical protein	CDS	185440	186177	+
+p505108-MDR.tsv hypothetical protein	CDS	199290	199991	-
+p505108-MDR.tsv hypothetical protein	CDS	227006	227677	-
+p505108-MDR.tsv hypothetical protein	CDS	112011	112676	-
+p505108-MDR.tsv hypothetical protein	CDS	21884	22522	+
+p505108-MDR.tsv hypothetical protein	CDS	303408	304034	+
+p505108-MDR.tsv hypothetical protein	CDS	170438	171049	+
+p505108-MDR.tsv hypothetical protein	CDS	281114	281722	-
+p505108-MDR.tsv hypothetical protein	CDS	213075	213680	-
+p505108-MDR.tsv hypothetical protein	CDS	203981	204583	+
+p505108-MDR.tsv hypothetical protein	CDS	55227	55817	+
+p505108-MDR.tsv hypothetical protein	CDS	292833	293420	+
+p505108-MDR.tsv hypothetical protein	CDS	173501	174058	+
+p505108-MDR.tsv hypothetical protein	CDS	56156	56692	+
+p505108-MDR.tsv hypothetical protein	CDS	197773	198309	-
+p505108-MDR.tsv hypothetical protein	CDS	289979	290503	-
+p505108-MDR.tsv hypothetical protein	CDS	18177	18698	-
+p505108-MDR.tsv hypothetical protein	CDS	49038	49559	+
+p505108-MDR.tsv hypothetical protein	CDS	182884	183396	-
+p505108-MDR.tsv hypothetical protein	CDS	255573	256076	-
+p505108-MDR.tsv hypothetical protein	CDS	123749	124249	+
+p505108-MDR.tsv hypothetical protein	CDS	221430	221930	-
+p505108-MDR.tsv hypothetical protein	CDS	184958	185443	+
+p505108-MDR.tsv hypothetical protein	CDS	285039	285509	-
+p505108-MDR.tsv hypothetical protein	CDS	4819	5280	+
+p505108-MDR.tsv hypothetical protein	CDS	82629	83084	+
+p505108-MDR.tsv hypothetical protein	CDS	111496	111951	-
+p505108-MDR.tsv hypothetical protein	CDS	304360	304815	-
+p505108-MDR.tsv hypothetical protein	CDS	24279	24731	+
+p505108-MDR.tsv hypothetical protein	CDS	198377	198814	-
+p505108-MDR.tsv hypothetical protein	CDS	289444	289875	-
+p505108-MDR.tsv hypothetical protein	CDS	95751	96179	+
+p505108-MDR.tsv hypothetical protein	CDS	282200	282628	-
+p505108-MDR.tsv hypothetical protein	CDS	24721	25146	+
+p505108-MDR.tsv hypothetical protein	CDS	107556	107981	+
+p505108-MDR.tsv hypothetical protein	CDS	6693	7115	+
+p505108-MDR.tsv hypothetical protein	CDS	171109	171531	-
+p505108-MDR.tsv hypothetical protein	CDS	95328	95738	+
+p505108-MDR.tsv hypothetical protein	CDS	89136	89528	+
+p505108-MDR.tsv hypothetical protein	CDS	171565	171957	-
+p505108-MDR.tsv hypothetical protein	CDS	17791	18180	-
+p505108-MDR.tsv hypothetical protein	CDS	56772	57155	+
+p505108-MDR.tsv hypothetical protein	CDS	112734	113114	-
+p505108-MDR.tsv hypothetical protein	CDS	41018	41395	+
+p505108-MDR.tsv hypothetical protein	CDS	282720	283097	-
+p505108-MDR.tsv hypothetical protein	CDS	197179	197547	-
+p505108-MDR.tsv hypothetical protein	CDS	2025	2378	+
+p505108-MDR.tsv hypothetical protein	CDS	195387	195740	-
+p505108-MDR.tsv hypothetical protein	CDS	204643	204993	+
+p505108-MDR.tsv hypothetical protein	CDS	133569	133913	-
+p505108-MDR.tsv hypothetical protein	CDS	83608	83949	-
+p505108-MDR.tsv hypothetical protein	CDS	275237	275566	-
+p505108-MDR.tsv hypothetical protein	CDS	278509	278835	-
+p505108-MDR.tsv hypothetical protein	CDS	205525	205845	+
+p505108-MDR.tsv hypothetical protein	CDS	217687	218007	-
+p505108-MDR.tsv hypothetical protein	CDS	279078	279398	-
+p505108-MDR.tsv hypothetical protein	CDS	151082	151396	+
+p505108-MDR.tsv hypothetical protein	CDS	132911	133222	-
+p505108-MDR.tsv hypothetical protein	CDS	214554	214865	-
+p505108-MDR.tsv hypothetical protein	CDS	272808	273119	-
+p505108-MDR.tsv hypothetical protein	CDS	108530	108838	+
+p505108-MDR.tsv hypothetical protein	CDS	196447	196746	-
+p505108-MDR.tsv hypothetical protein	CDS	198859	199155	-
+p505108-MDR.tsv hypothetical protein	CDS	110900	111193	-
+p505108-MDR.tsv hypothetical protein	CDS	152357	152644	+
+p505108-MDR.tsv hypothetical protein	CDS	195806	196090	-
+p505108-MDR.tsv hypothetical protein	CDS	135089	135370	+
+p505108-MDR.tsv hypothetical protein	CDS	200306	200587	-
+p505108-MDR.tsv hypothetical protein	CDS	213897	214178	-
+p505108-MDR.tsv hypothetical protein	CDS	304092	304373	-
+p505108-MDR.tsv hypothetical protein	CDS	54907	55182	+
+p505108-MDR.tsv hypothetical protein	CDS	153052	153327	+
+p505108-MDR.tsv hypothetical protein	CDS	292526	292789	+
+p505108-MDR.tsv hypothetical protein	CDS	55825	56082	+
+p505108-MDR.tsv hypothetical protein	CDS	151470	151727	+
+p505108-MDR.tsv hypothetical protein	CDS	278186	278443	-
+p505108-MDR.tsv hypothetical protein	CDS	281878	282135	-
+p505108-MDR.tsv hypothetical protein	CDS	84936	85190	+
+p505108-MDR.tsv hypothetical protein	CDS	152065	152319	+
+p505108-MDR.tsv hypothetical protein	CDS	288735	288986	-
+p505108-MDR.tsv hypothetical protein	CDS	273182	273421	-
+p505108-MDR.tsv hypothetical protein	CDS	111219	111455	-
+p505108-MDR.tsv hypothetical protein	CDS	218186	218416	-
+p505108-MDR.tsv hypothetical protein	CDS	215328	215552	-
+p505108-MDR.tsv hypothetical protein	CDS	228426	228650	+
+p505108-MDR.tsv hypothetical protein	CDS	47201	47422	+
+p505108-MDR.tsv hypothetical protein	CDS	125219	125434	+
+p505108-MDR.tsv hypothetical protein	CDS	60770	60982	+
+p505108-MDR.tsv hypothetical protein	CDS	95021	95227	+
+p505108-MDR.tsv hypothetical protein	CDS	132003	132209	-
+p505108-MDR.tsv hypothetical protein	CDS	109773	109976	+
+p505108-MDR.tsv hypothetical protein	CDS	146192	146395	-
+p505108-MDR.tsv hypothetical protein	CDS	205040	205243	+
+p505108-MDR.tsv hypothetical protein	CDS	215607	215810	-
+p505108-MDR.tsv hypothetical protein	CDS	215088	215288	-
+p505108-MDR.tsv hypothetical protein	CDS	276914	277114	-
+p505108-MDR.tsv hypothetical protein	CDS	311132	311332	-
+p505108-MDR.tsv hypothetical protein	CDS	152714	152911	+
+p505108-MDR.tsv hypothetical protein	CDS	272617	272811	-
+p505108-MDR.tsv hypothetical protein	CDS	83325	83516	-
+p505108-MDR.tsv hypothetical protein	CDS	289019	289207	-
+p505108-MDR.tsv hypothetical protein	CDS	202254	202430	-
+p505108-MDR.tsv hypothetical protein	CDS	214324	214500	-
+p505108-MDR.tsv hypothetical protein	CDS	304864	305040	-
+p505108-MDR.tsv hypothetical protein	CDS	43681	43854	+
+p505108-MDR.tsv hypothetical protein	CDS	147750	147917	-
+p505108-MDR.tsv hypothetical protein	CDS	14185	14346	+
+p505108-MDR.tsv hypothetical protein	CDS	12733	12888	+
+p505108-MDR.tsv hypothetical protein	CDS	217547	217699	+
+p505108-MDR.tsv Ig-like domain repeat protein	CDS	285943	288333	-
+p505108-MDR.tsv IncHI-type conjugal transfer helicase TrhI	CDS	37909	39693	+
+p505108-MDR.tsv IncHI-type conjugal transfer lipoprotein TrhV	CDS	7996	8946	+
+p505108-MDR.tsv IncHI-type conjugal transfer protein RSP	CDS	25829	30133	+
+p505108-MDR.tsv IncHI-type conjugal transfer protein TrhB	CDS	5270	6625	+
+p505108-MDR.tsv IncHI-type conjugal transfer protein TrhH	CDS	179841	181256	-
+p505108-MDR.tsv IncHI-type conjugal transfer protein TrhU	CDS	32560	33621	+
+p505108-MDR.tsv IncHI-type plasmid replication initiator proteinRepHI2	CDS	298383	299471	-
+p505108-MDR.tsv intI1	CDS	234041	235060	-
+p505108-MDR.tsv intI1	CDS	125421	126434	-
+p505108-MDR.tsv intI1	CDS	269591	270604	+
+p505108-MDR.tsv iron-containing alcohol dehydrogenase	CDS	162395	163552	-
+p505108-MDR.tsv IS1 family transposase	CDS	166776	167473	-
+p505108-MDR.tsv IS1 family transposase	CDS	131720	131992	+
+p505108-MDR.tsv IS5 family transposase	CDS	97127	98095	-
+p505108-MDR.tsv IS5 family transposase	CDS	138869	139837	-
+p505108-MDR.tsv IS5 family transposase	CDS	23194	23835	-
+p505108-MDR.tsv IS5 family transposase	CDS	276292	276912	-
+p505108-MDR.tsv IS5-like element IS903B family transposase	CDS	160743	161711	-
+p505108-MDR.tsv IS5-like element IS903B family transposase	CDS	165752	166720	-
+p505108-MDR.tsv IS5/IS1182 family transposase	CDS	275710	276027	+
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	122227	122931	-
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	135638	136342	-
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	219791	220495	+
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	222010	222714	+
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	226356	227060	+
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	233300	234004	-
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	238398	239102	-
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	243679	244383	-
+p505108-MDR.tsv IS6-like element IS26 family transposase	CDS	271397	272101	-
+p505108-MDR.tsv IS6-like element IS6100 family transposase	CDS	128338	128679	+
+p505108-MDR.tsv IS21-like element helper ATPase IstB	CDS	236003	236743	-
+p505108-MDR.tsv IS21-like element ISCfr8 family transposase	CDS	236730	238238	-
+p505108-MDR.tsv IS91 family transposase	CDS	260182	261723	-
+p505108-MDR.tsv IS110 family transposase	CDS	209644	210882	-
+p505108-MDR.tsv IS110 family transposase	CDS	98128	98526	-
+p505108-MDR.tsv IS110-like element IS4321 family transposase	CDS	96457	97071	-
+p505108-MDR.tsv IS110-like element IS5075 family transposase	CDS	229130	230134	-
+p505108-MDR.tsv IS1380-like element IS1247 family transposase	CDS	267004	268359	-
+p505108-MDR.tsv ISNCY family transposase	CDS	159120	160523	-
+p505108-MDR.tsv ISNCY family transposase	CDS	211304	212644	-
+p505108-MDR.tsv KikA	CDS	133258	133572	-
+p505108-MDR.tsv kinase	CDS	62591	64090	-
+p505108-MDR.tsv LacI family transcriptional regulator	CDS	249634	249804	+
+p505108-MDR.tsv lepB	CDS	30411	30923	+
+p505108-MDR.tsv lipoprotein signal peptidase	CDS	101539	102615	+
+p505108-MDR.tsv LysR family transcriptional regulator AmpR	CDS	246517	247392	-
+p505108-MDR.tsv LysR family transcriptional regulator	CDS	163746	164639	+
+p505108-MDR.tsv lytic transglycosylase domain-containing protein	CDS	134343	135080	+
+p505108-MDR.tsv lytic transglycosylase domain-containing protein	CDS	172879	173418	+
+p505108-MDR.tsv membrane protein	CDS	91046	91543	+
+p505108-MDR.tsv merA	CDS	103518	105203	-
+p505108-MDR.tsv merC	CDS	105242	105667	-
+p505108-MDR.tsv merD	CDS	103135	103500	-
+p505108-MDR.tsv merE	CDS	102902	103138	-
+p505108-MDR.tsv merP	CDS	105695	105970	-
+p505108-MDR.tsv merR	CDS	106423	106878	+
+p505108-MDR.tsv merT	CDS	105986	106351	-
+p505108-MDR.tsv metallophosphoesterase	CDS	19524	20471	-
+p505108-MDR.tsv methyltransferase	CDS	291671	292432	+
+p505108-MDR.tsv MFS transporter	CDS	161733	162317	-
+p505108-MDR.tsv NAD(P)-dependent oxidoreductase	CDS	241143	242045	+
+p505108-MDR.tsv NERD domain-containing protein	CDS	194369	195100	+
+p505108-MDR.tsv nickel/cobalt efflux protein RcnA	CDS	142132	143247	-
+p505108-MDR.tsv nuclear transport factor 2 family protein	CDS	264618	265049	-
+p505108-MDR.tsv ParA family protein	CDS	15475	16728	+
+p505108-MDR.tsv ParB N-terminal domain-containing protein	CDS	16725	17729	+
+p505108-MDR.tsv pcoE	CDS	141440	141874	+
+p505108-MDR.tsv pcoS	CDS	139876	141222	+
+p505108-MDR.tsv peptide ABC transporter permease	CDS	259493	259951	+
+p505108-MDR.tsv phosphoadenosine phosphosulfate reductase	CDS	273671	275122	-
+p505108-MDR.tsv phosphoethanolamine--lipid A transferase MCR-9.1	CDS	137061	138680	-
+p505108-MDR.tsv phosphoribosyltransferase domain-containing protein	CDS	73788	74930	-
+p505108-MDR.tsv pilus assembly protein	CDS	2758	3546	+
+p505108-MDR.tsv plasmid transfer protein	CDS	25155	25709	+
+p505108-MDR.tsv plasmid transfer protein	CDS	2396	2746	+
+p505108-MDR.tsv protein phosphatase 2C domain-containing protein	CDS	64116	65753	-
+p505108-MDR.tsv protein-disulfide isomerase HtdT	CDS	7171	7986	+
+p505108-MDR.tsv pspA	CDS	250870	251538	-
+p505108-MDR.tsv pspB	CDS	250591	250815	-
+p505108-MDR.tsv pspC	CDS	250232	250591	-
+p505108-MDR.tsv pspD	CDS	249993	250223	-
+p505108-MDR.tsv pspF	CDS	251694	252683	+
+p505108-MDR.tsv qnrB	CDS	252766	253410	+
+p505108-MDR.tsv quaternary ammonium compound efflux SMR transporter QacE delta 1	CDS	262961	263308	-
+p505108-MDR.tsv rcnR	CDS	143370	143642	+
+p505108-MDR.tsv recombinase family protein	CDS	227692	228429	+
+p505108-MDR.tsv recombinase family protein	CDS	114487	115044	-
+p505108-MDR.tsv relB	CDS	206971	207210	-
+p505108-MDR.tsv relE	CDS	206684	206971	-
+p505108-MDR.tsv RepB family plasmid replication initiator protein	CDS	1	876	+
+p505108-MDR.tsv restriction endonuclease	CDS	132214	132855	-
+p505108-MDR.tsv S-(hydroxymethyl)glutathione dehydrogenase/classIII alcohol dehydrogenase	CDS	223204	224313	-
+p505108-MDR.tsv S-formylglutathione hydrolase	CDS	222766	223182	-
+p505108-MDR.tsv S49 family peptidase	CDS	193186	194367	+
+p505108-MDR.tsv sapA	CDS	256901	258544	+
+p505108-MDR.tsv sapB	CDS	258541	259506	+
+p505108-MDR.tsv SDR family oxidoreductase	CDS	253506	254414	-
+p505108-MDR.tsv site-specific DNA-methyltransferase	CDS	279693	280943	-
+p505108-MDR.tsv stbA family protein	CDS	20835	21872	+
+p505108-MDR.tsv sul1	CDS	245087	245926	-
+p505108-MDR.tsv sul1	CDS	262128	262967	-
+p505108-MDR.tsv SulP family inorganic anion transporter	CDS	153819	155297	+
+p505108-MDR.tsv tellurite resistance TerB family protein	CDS	78080	78535	+
+p505108-MDR.tsv terC	CDS	78558	79598	+
+p505108-MDR.tsv terD	CDS	79647	80225	+
+p505108-MDR.tsv TerD family protein	CDS	76900	78057	+
+p505108-MDR.tsv TerD family protein	CDS	67516	68157	-
+p505108-MDR.tsv TerD family protein	CDS	76319	76900	+
+p505108-MDR.tsv TerD family protein	CDS	80294	80869	+
+p505108-MDR.tsv terW	CDS	69281	69748	-
+p505108-MDR.tsv tet(D)	CDS	224408	225592	-
+p505108-MDR.tsv tetR(D)	CDS	225688	226344	+
+p505108-MDR.tsv thermonuclease family protein	CDS	149620	150135	+
+p505108-MDR.tsv thioredoxin family protein	CDS	181246	182292	-
+p505108-MDR.tsv thioredoxin fold domain-containing protein	CDS	171982	172731	-
+p505108-MDR.tsv Tn3 family transposase	CDS	119031	122038	-
+p505108-MDR.tsv Tn3 family transposase	CDS	230213	233179	-
+p505108-MDR.tsv Tn3-like element Tn3 family transposase	CDS	115208	118213	+
+p505108-MDR.tsv toprim domain-containing protein	CDS	47536	48768	+
+p505108-MDR.tsv toxic anion resistance protein	CDS	219471	219814	-
+p505108-MDR.tsv TraC family protein	CDS	8955	11636	+
+p505108-MDR.tsv traD	CDS	189333	191417	+
+p505108-MDR.tsv TraI domain-containing protein	CDS	186187	189333	+
+p505108-MDR.tsv traN	CDS	33640	36828	+
+p505108-MDR.tsv transcriptional regulator	CDS	157976	158296	-
+p505108-MDR.tsv transposase	CDS	122995	123483	+
+p505108-MDR.tsv transposase	CDS	22625	22942	+
+p505108-MDR.tsv transposase	CDS	118824	118994	+
+p505108-MDR.tsv trypsin-like serine protease	CDS	90187	90843	+
+p505108-MDR.tsv type A-2 chloramphenicol O-acetyltransferase CatII	CDS	220639	221280	-
+p505108-MDR.tsv type I restriction-modification system subunit MN-terminal domain-containing protein	CDS	84575	84810	+
+p505108-MDR.tsv type I toxin-antitoxin system Hok family toxin	CDS	206454	206612	-
+p505108-MDR.tsv type II site-specific deoxyribonuclease	CDS	128940	130154	+
+p505108-MDR.tsv type II toxin-antitoxin system HipA family toxin	CDS	93635	94960	+
+p505108-MDR.tsv type II toxin-antitoxin system RelE/ParE family toxin	CDS	284693	284989	-
+p505108-MDR.tsv type-F conjugative transfer system secretin TraK	CDS	3546	4817	+
+p505108-MDR.tsv tyrosine-type recombinase/integrase	CDS	59425	60600	-
+p505108-MDR.tsv umuC	CDS	168217	169476	+
+p505108-MDR.tsv umuD	CDS	167799	168233	+
+p505108-MDR.tsv universal stress protein	CDS	155316	156143	+
+p505108-MDR.tsv VWA domain-containing protein	CDS	45122	47128	+
+p505108-MDR.tsv VWA domain-containing protein	CDS	81297	82538	+
+p505108-MDR.tsv VWA domain-containing protein	CDS	65753	66793	-
+p505108-MDR.tsv VWA domain-containing protein	CDS	66878	67516	-
+p505108-MDR.tsv VWA domain-containing protein	CDS	68180	68818	-
+p505108-MDR.tsv WbuC family cupin fold metalloprotein	CDS	136508	136984	-
+p505108-MDR.tsv YdeI family stress tolerance OB fold protein	CDS	256208	256600	+
+p505108-MDR.tsv YrhA family protein	CDS	175253	175759	+
+p505108-MDR.tsv zinc finger-like domain-containing protein	CDS	310419	311135	-
+p505108-NDM.tsv ATP-binding protein	CDS	31495	32757	-
+p505108-NDM.tsv blaNDM	CDS	17929	18741	-
+p505108-NDM.tsv blaSHV	CDS	9324	10184	-
+p505108-NDM.tsv ble	CDS	17560	17925	-
+p505108-NDM.tsv DeoR/GlpR transcriptional regulator	CDS	8542	9303	+
+p505108-NDM.tsv divalent-cation tolerance protein CutA	CDS	15541	15870	+
+p505108-NDM.tsv DNA-binding protein	CDS	37403	37600	-
+p505108-NDM.tsv DNA-binding protein	CDS	53071	53223	-
+p505108-NDM.tsv DnaJ domain-containing protein	CDS	51966	52481	-
+p505108-NDM.tsv EexN family lipoprotein	CDS	41738	41995	-
+p505108-NDM.tsv groES	CDS	15057	15347	-
+p505108-NDM.tsv groL	CDS	13361	15001	-
+p505108-NDM.tsv H-NS histone family protein	CDS	28697	29152	-
+p505108-NDM.tsv hypothetical protein	CDS	51060	51611	-
+p505108-NDM.tsv hypothetical protein	CDS	48739	49284	-
+p505108-NDM.tsv hypothetical protein	CDS	1023	1466	+
+p505108-NDM.tsv hypothetical protein	CDS	34145	34537	-
+p505108-NDM.tsv hypothetical protein	CDS	6607	6963	+
+p505108-NDM.tsv hypothetical protein	CDS	1654	2007	+
+p505108-NDM.tsv hypothetical protein	CDS	50118	50456	-
+p505108-NDM.tsv hypothetical protein	CDS	33331	33657	-
+p505108-NDM.tsv hypothetical protein	CDS	33743	34057	-
+p505108-NDM.tsv hypothetical protein	CDS	2348	2659	-
+p505108-NDM.tsv hypothetical protein	CDS	2028	2312	-
+p505108-NDM.tsv hypothetical protein	CDS	2865	3149	-
+p505108-NDM.tsv hypothetical protein	CDS	11157	11432	+
+p505108-NDM.tsv hypothetical protein	CDS	27753	28019	-
+p505108-NDM.tsv hypothetical protein	CDS	49625	49882	-
+p505108-NDM.tsv hypothetical protein	CDS	26375	26629	-
+p505108-NDM.tsv hypothetical protein	CDS	50550	50792	-
+p505108-NDM.tsv hypothetical protein	CDS	6365	6604	+
+p505108-NDM.tsv hypothetical protein	CDS	46527	46763	-
+p505108-NDM.tsv hypothetical protein	CDS	51671	51907	-
+p505108-NDM.tsv hypothetical protein	CDS	25807	26019	-
+p505108-NDM.tsv hypothetical protein	CDS	50782	50994	-
+p505108-NDM.tsv hypothetical protein	CDS	25664	25849	-
+p505108-NDM.tsv hypothetical protein	CDS	27557	27736	-
+p505108-NDM.tsv hypothetical protein	CDS	49879	50031	-
+p505108-NDM.tsv IS5-like element IS5 family transposase	CDS	19155	20171	-
+p505108-NDM.tsv IS6-like element IS26 family transposase	CDS	6997	7701	-
+p505108-NDM.tsv IS6-like element IS26 family transposase	CDS	10321	11025	+
+p505108-NDM.tsv IS30 family transposase	CDS	20205	20762	-
+p505108-NDM.tsv IS30 family transposase	CDS	18842	19033	-
+p505108-NDM.tsv IS91 family transposase	CDS	11643	13172	-
+p505108-NDM.tsv ISL3-like element ISKox3 family transposase	CDS	5043	6263	-
+p505108-NDM.tsv lytic transglycosylase domain-containing protein	CDS	45837	46481	-
+p505108-NDM.tsv NAD(P)-dependent oxidoreductase	CDS	7756	8280	-
+p505108-NDM.tsv peptidyl-arginine deiminase	CDS	3249	3911	-
+p505108-NDM.tsv phosphoribosylanthranilate isomerase	CDS	16917	17555	-
+p505108-NDM.tsv pilus assembly protein	CDS	42005	42775	-
+p505108-NDM.tsv protein-disulfide reductase DsbD N-terminal domain-containing protein	CDS	15875	16906	+
+p505108-NDM.tsv recombinase family protein	CDS	4292	4954	+
+p505108-NDM.tsv relaxase/mobilization nuclease domain-containingprotein	CDS	47576	48736	-
+p505108-NDM.tsv replication initiation protein	CDS	1	1014	+
+p505108-NDM.tsv SprT-like domain-containing protein	CDS	26739	27560	-
+p505108-NDM.tsv thermonuclease family protein	CDS	32840	33334	-
+p505108-NDM.tsv Tn3 family transposase	CDS	24143	24688	+
+p505108-NDM.tsv Tn3-like element IS3000 family transposase	CDS	20982	23999	-
+p505108-NDM.tsv topB	CDS	29164	31491	-
+p505108-NDM.tsv transcription termination factor NusG	CDS	46714	47223	-
+p505108-NDM.tsv TrbC/VirB2 family protein	CDS	45563	45853	-
+p505108-NDM.tsv TrbG/VirB9 family P-type conjugative transfer protein	CDS	38813	39742	-
+p505108-NDM.tsv TrbI/VirB10 family protein	CDS	37602	38816	-
+p505108-NDM.tsv type IV secretion system protein	CDS	40671	41726	-
+p505108-NDM.tsv type IV secretion system protein	CDS	39748	40476	-
+p505108-NDM.tsv type IV secretory system conjugative DNA transfer family protein	CDS	34534	36369	-
+p505108-NDM.tsv VirB3 family type IV secretion system protein	CDS	42785	45538	-
+p505108-NDM.tsv virB11	CDS	36372	37406	-
+p505108-NDM.tsv YkgJ family cysteine cluster protein	CDS	28009	28659	+
+p505108-T6SS.tsv 2-dehydro-3-deoxy-6-phosphogalactonate aldolase	CDS	37879	39078	+
+p505108-T6SS.tsv AAA family ATPase	CDS	108002	109258	-
+p505108-T6SS.tsv AAA family ATPase	CDS	137506	138705	-
+p505108-T6SS.tsv AAA family ATPase	CDS	106661	107431	-
+p505108-T6SS.tsv ABC transporter ATP-binding protein	CDS	83726	84484	-
+p505108-T6SS.tsv ABC transporter six-transmembrane domain-containing protein	CDS	19546	20457	-
+p505108-T6SS.tsv ABC transporter substrate-binding protein	CDS	85521	86504	-
+p505108-T6SS.tsv acetyltransferase	CDS	129777	130724	+
+p505108-T6SS.tsv aerobactin synthase IucA	CDS	128036	129784	+
+p505108-T6SS.tsv alpha/beta hydrolase	CDS	35355	36176	+
+p505108-T6SS.tsv amino acid-binding protein	CDS	34177	34575	+
+p505108-T6SS.tsv antibiotic biosynthesis monooxygenase	CDS	33861	34184	+
+p505108-T6SS.tsv aph(3')-I	CDS	77928	78743	-
+p505108-T6SS.tsv arsC	CDS	47576	47989	-
+p505108-T6SS.tsv arsenic transporter	CDS	48034	49317	-
+p505108-T6SS.tsv autotransporter domain-containing protein	CDS	114311	117250	+
+p505108-T6SS.tsv cupin domain-containing protein	CDS	112748	113869	-
+p505108-T6SS.tsv diguanylate phosphodiesterase	CDS	28203	29420	+
+p505108-T6SS.tsv dihydrodipicolinate synthase family protein	CDS	49830	50717	-
+p505108-T6SS.tsv DinB family protein	CDS	19020	19505	+
+p505108-T6SS.tsv DMT family transporter	CDS	50742	51620	-
+p505108-T6SS.tsv drug:proton antiporter	CDS	9454	9837	+
+p505108-T6SS.tsv dsbG	CDS	70012	70761	-
+p505108-T6SS.tsv DUF2534 family protein	CDS	73329	73589	-
+p505108-T6SS.tsv DUF2931 family protein	CDS	67812	68459	+
+p505108-T6SS.tsv DUF4440 domain-containing protein	CDS	40413	40760	+
+p505108-T6SS.tsv efflux RND transporter periplasmic adaptor subunit	CDS	13799	14947	+
+p505108-T6SS.tsv efflux RND transporter permease subunit	CDS	14948	17998	+
+p505108-T6SS.tsv exc2	CDS	103729	104130	-
+p505108-T6SS.tsv four-helix bundle copper-binding protein	CDS	45599	45925	+
+p505108-T6SS.tsv glgX	CDS	117312	119387	-
+p505108-T6SS.tsv glutathione S-transferase family protein	CDS	103093	103689	+
+p505108-T6SS.tsv GNAT family N-acetyltransferase	CDS	4053	4583	-
+p505108-T6SS.tsv GNAT family N-acetyltransferase	CDS	33244	33759	-
+p505108-T6SS.tsv GntR family transcriptional regulator	CDS	39066	39785	-
+p505108-T6SS.tsv guaD	CDS	101194	102510	-
+p505108-T6SS.tsv HAMP domain-containing protein	CDS	30477	32387	-
+p505108-T6SS.tsv Hcp family type VI secretion system effector	CDS	59535	60026	+
+p505108-T6SS.tsv helicase	CDS	93397	96558	+
+p505108-T6SS.tsv helix-turn-helix domain-containing protein	CDS	125396	125677	-
+p505108-T6SS.tsv histidine phosphatase family protein	CDS	1383	2000	+
+p505108-T6SS.tsv histidine phosphatase family protein	CDS	97286	97855	-
+p505108-T6SS.tsv hypothetical protein	CDS	90370	91593	+
+p505108-T6SS.tsv hypothetical protein	CDS	2990	4048	+
+p505108-T6SS.tsv hypothetical protein	CDS	44439	45377	+
+p505108-T6SS.tsv hypothetical protein	CDS	9891	10781	-
+p505108-T6SS.tsv hypothetical protein	CDS	42570	43385	-
+p505108-T6SS.tsv hypothetical protein	CDS	68799	69587	+
+p505108-T6SS.tsv hypothetical protein	CDS	79947	80579	+
+p505108-T6SS.tsv hypothetical protein	CDS	67094	67717	+
+p505108-T6SS.tsv hypothetical protein	CDS	7591	8133	+
+p505108-T6SS.tsv hypothetical protein	CDS	8130	8669	+
+p505108-T6SS.tsv hypothetical protein	CDS	72826	73284	-
+p505108-T6SS.tsv hypothetical protein	CDS	63414	63845	+
+p505108-T6SS.tsv hypothetical protein	CDS	82275	82664	+
+p505108-T6SS.tsv hypothetical protein	CDS	32820	33206	+
+p505108-T6SS.tsv hypothetical protein	CDS	24530	24850	-
+p505108-T6SS.tsv hypothetical protein	CDS	25558	25869	+
+p505108-T6SS.tsv hypothetical protein	CDS	27094	27393	-
+p505108-T6SS.tsv hypothetical protein	CDS	97868	98137	-
+p505108-T6SS.tsv hypothetical protein	CDS	114019	114186	+
+p505108-T6SS.tsv iron ABC transporter permease	CDS	84481	85521	-
+p505108-T6SS.tsv iron-containing alcohol dehydrogenase	CDS	75547	76704	-
+p505108-T6SS.tsv IS5-like element IS903B family transposase	CDS	73895	74863	-
+p505108-T6SS.tsv IS5-like element IS903B family transposase	CDS	78904	79872	-
+p505108-T6SS.tsv ISNCY-like element ISKpn21 family transposase	CDS	80608	82011	-
+p505108-T6SS.tsv iucC	CDS	130721	132466	+
+p505108-T6SS.tsv LysR family transcriptional regulator	CDS	23495	24394	-
+p505108-T6SS.tsv LysR family transcriptional regulator	CDS	76898	77791	+
+p505108-T6SS.tsv MBL fold metallo-hydrolase	CDS	100373	101173	+
+p505108-T6SS.tsv MCP four helix bundle domain-containing protein	CDS	98421	100079	-
+p505108-T6SS.tsv membrane protein	CDS	2099	2866	+
+p505108-T6SS.tsv MerR family transcriptional regulator	CDS	29655	30398	+
+p505108-T6SS.tsv metallophosphoesterase	CDS	25904	26644	-
+p505108-T6SS.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	49405	49740	-
+p505108-T6SS.tsv methyl-accepting chemotaxis protein	CDS	104354	106300	-
+p505108-T6SS.tsv MFS transporter	CDS	21414	22721	+
+p505108-T6SS.tsv MFS transporter	CDS	86768	88003	+
+p505108-T6SS.tsv MFS transporter	CDS	126689	127900	-
+p505108-T6SS.tsv MFS transporter	CDS	4880	6088	+
+p505108-T6SS.tsv MFS transporter	CDS	74885	75469	-
+p505108-T6SS.tsv mgtA	CDS	109466	112180	-
+p505108-T6SS.tsv MipA/OmpV family protein	CDS	10943	11713	-
+p505108-T6SS.tsv NINE protein	CDS	39981	40274	-
+p505108-T6SS.tsv nuclear transport factor 2 family protein	CDS	17990	18346	-
+p505108-T6SS.tsv NUDIX domain-containing protein	CDS	18427	18870	-
+p505108-T6SS.tsv OmpA family protein	CDS	57817	59520	+
+p505108-T6SS.tsv omptin family outer membrane protease	CDS	6404	7342	+
+p505108-T6SS.tsv PAAR domain-containing protein	CDS	68529	68795	+
+p505108-T6SS.tsv ParB/RepB/Spo0J family partition protein	CDS	136530	137498	-
+p505108-T6SS.tsv phospholipase D family protein	CDS	91587	93404	+
+p505108-T6SS.tsv PLP-dependent aminotransferase family protein	CDS	51712	53046	+
+p505108-T6SS.tsv potassium transporter TrkG	CDS	46048	47523	+
+p505108-T6SS.tsv PTS transporter subunit EIIC	CDS	36223	37599	-
+p505108-T6SS.tsv RepB family plasmid replication initiator protein	CDS	1	139553	+
+p505108-T6SS.tsv response regulator transcription factor	CDS	11838	12530	+
+p505108-T6SS.tsv SDR family oxidoreductase	CDS	96565	97239	-
+p505108-T6SS.tsv sensor domain-containing diguanylate cyclase	CDS	40910	42487	+
+p505108-T6SS.tsv SidA/IucD/PvdA family monooxygenase	CDS	132463	133785	+
+p505108-T6SS.tsv siderophore-interacting protein	CDS	125808	126692	-
+p505108-T6SS.tsv SMI1/KNR4 family protein	CDS	82767	83288	+
+p505108-T6SS.tsv substrate-binding domain-containing protein	CDS	22714	23520	+
+p505108-T6SS.tsv TetR family transcriptional regulator	CDS	20558	21115	+
+p505108-T6SS.tsv TetR/AcrR family transcriptional regulator	CDS	24946	25536	+
+p505108-T6SS.tsv thioredoxin family protein	CDS	70758	72779	-
+p505108-T6SS.tsv TonB-dependent siderophore receptor	CDS	133808	136003	+
+p505108-T6SS.tsv treY	CDS	119456	121987	-
+p505108-T6SS.tsv treZ	CDS	121984	123768	-
+p505108-T6SS.tsv tssB	CDS	53739	54236	+
+p505108-T6SS.tsv tssC	CDS	54271	55812	+
+p505108-T6SS.tsv tssH	CDS	60178	62838	+
+p505108-T6SS.tsv tssJ	CDS	69589	69978	+
+p505108-T6SS.tsv tssK	CDS	55823	57163	+
+p505108-T6SS.tsv two-component sensor histidine kinase	CDS	12527	13705	+
+p505108-T6SS.tsv two-component-system connector protein AriR	CDS	26778	27056	-
+p505108-T6SS.tsv two-component-system connector protein YcgZ	CDS	27563	27802	-
+p505108-T6SS.tsv type II toxin-antitoxin system HipA family toxin	CDS	124074	125393	-
+p505108-T6SS.tsv type IV secretion protein Rhs	CDS	62831	63384	+
+p505108-T6SS.tsv type VI secretion system protein TssL, short form	CDS	57160	57813	+
+p505108-T6SS.tsv type VI secretion system tube protein Hcp	CDS	43939	44420	+
+p505108-T6SS.tsv tyrosine-type recombinase/integrase	CDS	89301	90275	+
+p505108-T6SS.tsv vgrG	CDS	64131	67040	+
+p505108-T6SS.tsv winged helix-turn-helix transcriptional regulator	CDS	34548	35273	+
+p505108-T6SS.tsv YafY family transcriptional regulator	CDS	8702	9397	+
+p505108-T6SS.tsv YmjA family protein	CDS	83406	83651	+
+pCC01.tsv AAA family ATPase	CDS	77912	83482	-
+pCC01.tsv AAA family ATPase	CDS	144980	146236	-
+pCC01.tsv AAA family ATPase	CDS	23039	24238	-
+pCC01.tsv AAA family ATPase	CDS	143565	144335	-
+pCC01.tsv ABC transporter ATP-binding protein	CDS	120653	121411	-
+pCC01.tsv ABC transporter substrate-binding protein	CDS	122448	123455	-
+pCC01.tsv ABC transporter substrate-binding protein	CDS	105935	106924	+
+pCC01.tsv acetyltransferase	CDS	15338	16285	+
+pCC01.tsv alcohol dehydrogenase catalytic domain-containing protein	CDS	116787	117878	-
+pCC01.tsv alpha/beta hydrolase	CDS	134331	135359	-
+pCC01.tsv alpha/beta hydrolase	CDS	89463	90281	+
+pCC01.tsv amidohydrolase	CDS	85503	87377	+
+pCC01.tsv antibiotic biosynthesis monooxygenase	CDS	75521	75844	+
+pCC01.tsv arginase family protein	CDS	107467	108330	+
+pCC01.tsv arsC	CDS	101191	101601	-
+pCC01.tsv arsenic transporter	CDS	101645	102928	-
+pCC01.tsv ascB	CDS	127961	129352	+
+pCC01.tsv autotransporter domain-containing protein	CDS	1	151491	+
+pCC01.tsv bglF	CDS	126086	127945	+
+pCC01.tsv bglG	CDS	125112	125945	+
+pCC01.tsv citrate:6-N-acetyl-6-N-hydroxy-L-lysine ligase subunit alpha	CDS	13597	15345	+
+pCC01.tsv cupin domain-containing protein	CDS	149774	150895	-
+pCC01.tsv diguanylate phosphodiesterase	CDS	67920	69137	+
+pCC01.tsv DNA/RNA non-specific endonuclease	CDS	40836	41345	+
+pCC01.tsv DoxX family protein	CDS	87382	87810	+
+pCC01.tsv dsbG	CDS	111951	112706	-
+pCC01.tsv DUF1330 domain-containing protein	CDS	138300	138590	+
+pCC01.tsv DUF1427 family protein	CDS	83940	84218	-
+pCC01.tsv DUF1427 family protein	CDS	84215	84457	-
+pCC01.tsv DUF2534 family protein	CDS	113512	113772	-
+pCC01.tsv DUF2778 domain-containing protein	CDS	55798	56151	-
+pCC01.tsv Exc2 family lipoprotein	CDS	140599	140997	-
+pCC01.tsv filamentous hemagglutinin N-terminal domain-containing protein	CDS	28412	35897	+
+pCC01.tsv four-helix bundle copper-binding protein	CDS	99155	99478	+
+pCC01.tsv glgX	CDS	2872	4947	-
+pCC01.tsv glycoside hydrolase family 88 protein	CDS	115283	116425	-
+pCC01.tsv GNAT family N-acetyltransferase	CDS	63439	64329	-
+pCC01.tsv GNAT family N-acetyltransferase	CDS	59067	59597	-
+pCC01.tsv GNAT family N-acetyltransferase	CDS	74897	75418	-
+pCC01.tsv GntR family transcriptional regulator	CDS	93189	93908	-
+pCC01.tsv HAMP domain-containing protein	CDS	71403	73328	-
+pCC01.tsv helix-turn-helix transcriptional regulator	CDS	10956	11240	-
+pCC01.tsv helix-turn-helix transcriptional regulator	CDS	132375	132581	+
+pCC01.tsv hemagglutinin	CDS	45389	45796	+
+pCC01.tsv hemagglutinin repeat-containing protein	CDS	35937	36851	+
+pCC01.tsv hemagglutinin repeat-containing protein	CDS	36942	37511	+
+pCC01.tsv hemagglutinin repeat-containing protein	CDS	37485	38042	+
+pCC01.tsv hemagglutinin repeat-containing protein	CDS	38778	39311	+
+pCC01.tsv hemagglutinin repeat-containing protein	CDS	38109	38552	+
+pCC01.tsv histidine phosphatase family protein	CDS	56568	57029	+
+pCC01.tsv histidine phosphatase family protein	CDS	51012	51237	+
+pCC01.tsv hydrolase	CDS	84517	85203	-
+pCC01.tsv hypothetical protein	CDS	109316	111124	-
+pCC01.tsv hypothetical protein	CDS	58006	59064	+
+pCC01.tsv hypothetical protein	CDS	98000	98938	+
+pCC01.tsv hypothetical protein	CDS	44405	44968	+
+pCC01.tsv hypothetical protein	CDS	61124	61666	+
+pCC01.tsv hypothetical protein	CDS	61663	62205	+
+pCC01.tsv hypothetical protein	CDS	42029	42562	+
+pCC01.tsv hypothetical protein	CDS	48319	48801	+
+pCC01.tsv hypothetical protein	CDS	52875	53351	+
+pCC01.tsv hypothetical protein	CDS	53591	54058	+
+pCC01.tsv hypothetical protein	CDS	140097	140516	+
+pCC01.tsv hypothetical protein	CDS	51601	52005	+
+pCC01.tsv hypothetical protein	CDS	75837	76235	+
+pCC01.tsv hypothetical protein	CDS	73774	74169	+
+pCC01.tsv hypothetical protein	CDS	44955	45347	+
+pCC01.tsv hypothetical protein	CDS	111472	111864	-
+pCC01.tsv hypothetical protein	CDS	63005	63382	+
+pCC01.tsv hypothetical protein	CDS	50505	50876	+
+pCC01.tsv hypothetical protein	CDS	47966	48306	+
+pCC01.tsv hypothetical protein	CDS	55463	55801	-
+pCC01.tsv hypothetical protein	CDS	46884	47219	+
+pCC01.tsv hypothetical protein	CDS	52386	52721	+
+pCC01.tsv hypothetical protein	CDS	41345	41677	+
+pCC01.tsv hypothetical protein	CDS	42951	43265	+
+pCC01.tsv hypothetical protein	CDS	66810	67109	-
+pCC01.tsv hypothetical protein	CDS	54599	54883	+
+pCC01.tsv hypothetical protein	CDS	66491	66769	-
+pCC01.tsv hypothetical protein	CDS	46179	46415	+
+pCC01.tsv hypothetical protein	CDS	65283	65519	-
+pCC01.tsv hypothetical protein	CDS	43336	43554	+
+pCC01.tsv hypothetical protein	CDS	103382	103600	+
+pCC01.tsv hypothetical protein	CDS	50284	50499	+
+pCC01.tsv hypothetical protein	CDS	46457	46658	-
+pCC01.tsv hypothetical protein	CDS	151053	151226	+
+pCC01.tsv hypothetical protein	CDS	96657	96827	-
+pCC01.tsv hypothetical protein	CDS	51346	51507	+
+pCC01.tsv iron ABC transporter permease	CDS	121408	122448	-
+pCC01.tsv iucC	CDS	16282	18027	+
+pCC01.tsv LacI family DNA-binding transcriptional regulator	CDS	118123	119115	-
+pCC01.tsv MafI family immunity protein	CDS	48984	49241	+
+pCC01.tsv MBL fold hydrolase	CDS	138760	139551	+
+pCC01.tsv MerR family transcriptional regulator	CDS	69373	70116	+
+pCC01.tsv metallophosphoesterase	CDS	65612	66358	-
+pCC01.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	103017	103352	-
+pCC01.tsv methyl-accepting chemotaxis protein	CDS	141241	143187	-
+pCC01.tsv methyl-accepting chemotaxis protein I	CDS	136262	137920	-
+pCC01.tsv MFS transporter	CDS	87797	89416	+
+pCC01.tsv MFS transporter	CDS	123697	124953	+
+pCC01.tsv MFS transporter	CDS	12250	13461	-
+pCC01.tsv MFS transporter	CDS	59796	61001	+
+pCC01.tsv mgtA	CDS	146464	149178	-
+pCC01.tsv Mig-14 family protein	CDS	131416	132311	-
+pCC01.tsv N-acetyltransferase	CDS	132923	133414	+
+pCC01.tsv NINE protein	CDS	94087	94383	-
+pCC01.tsv nuclear transport factor 2 family protein	CDS	94524	94871	+
+pCC01.tsv NUDIX domain-containing protein	CDS	64571	65017	-
+pCC01.tsv ParB/RepB/Spo0J family partition protein	CDS	22063	23031	-
+pCC01.tsv phosphoglycerate mutase family protein	CDS	135447	136007	-
+pCC01.tsv PTS transporter subunit EIIC	CDS	90343	91722	-
+pCC01.tsv RepB family plasmid replication initiator protein	CDS	25092	26105	+
+pCC01.tsv response regulator	CDS	83551	83928	-
+pCC01.tsv response regulator transcription factor	CDS	77269	77883	+
+pCC01.tsv rhomboid protein	CDS	57121	57888	+
+pCC01.tsv SDR family oxidoreductase	CDS	133617	134294	-
+pCC01.tsv sensor domain-containing diguanylate cyclase	CDS	95022	96599	+
+pCC01.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	26734	28398	+
+pCC01.tsv SidA/IucD/PvdA family monooxygenase	CDS	18024	19346	+
+pCC01.tsv siderophore-interacting protein	CDS	11366	12253	-
+pCC01.tsv SMI1/KNR4 family protein	CDS	114329	114592	-
+pCC01.tsv Starvation sensing protein RspA	CDS	92002	93201	+
+pCC01.tsv tehA	CDS	70338	71342	+
+pCC01.tsv terminase large subunit	CDS	55013	55308	-
+pCC01.tsv TetR/AcrR family transcriptional regulator	CDS	108417	108989	+
+pCC01.tsv thioredoxin fold domain-containing protein	CDS	74310	74858	+
+pCC01.tsv TonB-dependent siderophore receptor	CDS	19371	21566	+
+pCC01.tsv TonB-dependent siderophore receptor	CDS	103760	105925	+
+pCC01.tsv treY	CDS	5016	7547	-
+pCC01.tsv treZ	CDS	7544	9328	-
+pCC01.tsv Trk system potassium uptake protein TrkG	CDS	99661	101136	+
+pCC01.tsv two-component-system connector protein YcgZ	CDS	67276	67515	-
+pCC01.tsv type II toxin-antitoxin system HipA family toxin	CDS	9634	10953	-
+pCC01.tsv type VI secretion system tube protein Hcp	CDS	97499	97981	+
+pCC01.tsv tyrosine-type recombinase/integrase	CDS	130348	131331	+
+pCC01.tsv VENN motif pre-toxin domain-containing protein	CDS	39621	40493	+
+pCC01.tsv VENN motif pre-toxin domain-containing protein	CDS	43869	44465	+
+pCC01.tsv VOC family protein	CDS	119411	119932	+
+pCC01.tsv winged helix-turn-helix transcriptional regulator	CDS	76208	76933	+
+pCC01.tsv YafY family transcriptional regulator	CDS	62253	62948	+
+pCC01.tsv YmjA family protein	CDS	120357	120602	+
+pCDU1.tsv AAA family ATPase	CDS	1	197338	-
+pCDU1.tsv AAA family ATPase	CDS	88196	89449	-
+pCDU1.tsv AAA family ATPase	CDS	117843	119042	-
+pCDU1.tsv AAA family ATPase	CDS	86821	87591	-
+pCDU1.tsv ABC transporter ATP-binding protein	CDS	49050	49808	-
+pCDU1.tsv ABC transporter six-transmembrane domain-containing protein	CDS	167403	168302	-
+pCDU1.tsv ABC transporter substrate-binding protein	CDS	50845	51840	-
+pCDU1.tsv acetyltransferase	CDS	109964	110911	+
+pCDU1.tsv acyltransferase	CDS	74020	75975	+
+pCDU1.tsv alpha/beta hydrolase	CDS	70414	71442	-
+pCDU1.tsv alpha/beta hydrolase	CDS	9665	10483	+
+pCDU1.tsv amidohydrolase	CDS	5704	7578	+
+pCDU1.tsv antibiotic biosynthesis monooxygenase	CDS	193095	193418	+
+pCDU1.tsv ascB	CDS	56330	57721	+
+pCDU1.tsv autotransporter domain-containing protein	CDS	94499	97435	+
+pCDU1.tsv bglF	CDS	54455	56314	+
+pCDU1.tsv bglG	CDS	53481	54314	+
+pCDU1.tsv citrate:6-N-acetyl-6-N-hydroxy-L-lysine ligase subunit alpha	CDS	108223	109971	+
+pCDU1.tsv cupin domain-containing protein	CDS	92939	94060	-
+pCDU1.tsv cytochrome b	CDS	77130	77723	+
+pCDU1.tsv darcynin	CDS	180841	181151	-
+pCDU1.tsv diguanylate phosphodiesterase	CDS	184144	185361	+
+pCDU1.tsv dihydrodipicolinate synthase family protein	CDS	19746	20636	-
+pCDU1.tsv DinB family protein	CDS	165637	166125	+
+pCDU1.tsv DMT family transporter	CDS	20666	21544	-
+pCDU1.tsv DNA/RNA non-specific endonuclease	CDS	138138	138404	+
+pCDU1.tsv DoxX family protein	CDS	7583	8011	+
+pCDU1.tsv dsbG	CDS	46993	47748	-
+pCDU1.tsv DUF1427 family protein	CDS	4140	4418	-
+pCDU1.tsv DUF1427 family protein	CDS	4415	4657	-
+pCDU1.tsv DUF2235 domain-containing protein	CDS	35286	36854	+
+pCDU1.tsv DUF2534 family protein	CDS	47792	48052	-
+pCDU1.tsv DUF2931 family protein	CDS	36851	37492	+
+pCDU1.tsv DUF2931 family protein	CDS	37773	38414	+
+pCDU1.tsv DUF4279 domain-containing protein	CDS	146973	147377	+
+pCDU1.tsv efflux RND transporter periplasmic adaptor subunit	CDS	160789	161940	+
+pCDU1.tsv efflux RND transporter periplasmic adaptor subunit	CDS	63911	65026	-
+pCDU1.tsv efflux RND transporter permease subunit	CDS	161937	165005	+
+pCDU1.tsv Exc2 family lipoprotein	CDS	83879	84277	-
+pCDU1.tsv glgX	CDS	97498	99573	-
+pCDU1.tsv glutathione S-transferase family protein	CDS	82651	83247	+
+pCDU1.tsv GNAT family N-acetyltransferase	CDS	192459	192992	-
+pCDU1.tsv GNAT family N-acetyltransferase	CDS	152430	152960	-
+pCDU1.tsv GntR family transcriptional regulator	CDS	13381	14100	-
+pCDU1.tsv HAMP domain-containing protein	CDS	188959	190878	-
+pCDU1.tsv Hcp family type VI secretion system effector	CDS	29470	29961	+
+pCDU1.tsv helix-turn-helix domain-containing protein	CDS	166664	167392	+
+pCDU1.tsv helix-turn-helix transcriptional regulator	CDS	193782	194507	+
+pCDU1.tsv helix-turn-helix transcriptional regulator	CDS	68276	68608	+
+pCDU1.tsv helix-turn-helix transcriptional regulator	CDS	105582	105866	-
+pCDU1.tsv hemagglutinin repeat-containing protein	CDS	123199	135534	+
+pCDU1.tsv histidine phosphatase family protein	CDS	149767	150390	+
+pCDU1.tsv histidine phosphatase family protein	CDS	73177	73737	-
+pCDU1.tsv histidine phosphatase family protein	CDS	148121	148405	+
+pCDU1.tsv hydrolase	CDS	4717	5403	-
+pCDU1.tsv hypothetical protein	CDS	40141	43572	+
+pCDU1.tsv hypothetical protein	CDS	169093	172299	-
+pCDU1.tsv hypothetical protein	CDS	172309	173721	-
+pCDU1.tsv hypothetical protein	CDS	39000	40157	+
+pCDU1.tsv hypothetical protein	CDS	151368	152426	+
+pCDU1.tsv hypothetical protein	CDS	18707	19645	+
+pCDU1.tsv hypothetical protein	CDS	16803	17615	-
+pCDU1.tsv hypothetical protein	CDS	78260	79063	+
+pCDU1.tsv hypothetical protein	CDS	154488	155030	+
+pCDU1.tsv hypothetical protein	CDS	155027	155569	+
+pCDU1.tsv hypothetical protein	CDS	135534	136073	+
+pCDU1.tsv hypothetical protein	CDS	137549	138022	+
+pCDU1.tsv hypothetical protein	CDS	83397	83816	+
+pCDU1.tsv hypothetical protein	CDS	193411	193809	+
+pCDU1.tsv hypothetical protein	CDS	145391	145786	+
+pCDU1.tsv hypothetical protein	CDS	142367	142759	+
+pCDU1.tsv hypothetical protein	CDS	191336	191722	+
+pCDU1.tsv hypothetical protein	CDS	156368	156751	+
+pCDU1.tsv hypothetical protein	CDS	149281	149652	+
+pCDU1.tsv hypothetical protein	CDS	139274	139627	+
+pCDU1.tsv hypothetical protein	CDS	145074	145418	+
+pCDU1.tsv hypothetical protein	CDS	138407	138742	+
+pCDU1.tsv hypothetical protein	CDS	142028	142363	+
+pCDU1.tsv hypothetical protein	CDS	141694	142026	+
+pCDU1.tsv hypothetical protein	CDS	181551	181862	+
+pCDU1.tsv hypothetical protein	CDS	140451	140759	-
+pCDU1.tsv hypothetical protein	CDS	143953	144261	-
+pCDU1.tsv hypothetical protein	CDS	183033	183332	-
+pCDU1.tsv hypothetical protein	CDS	146674	146964	+
+pCDU1.tsv hypothetical protein	CDS	181247	181528	+
+pCDU1.tsv hypothetical protein	CDS	182714	182992	-
+pCDU1.tsv hypothetical protein	CDS	79870	80145	+
+pCDU1.tsv hypothetical protein	CDS	142845	143111	+
+pCDU1.tsv hypothetical protein	CDS	183498	183737	-
+pCDU1.tsv hypothetical protein	CDS	139093	139263	+
+pCDU1.tsv hypothetical protein	CDS	94206	94373	+
+pCDU1.tsv hypothetical protein	CDS	149111	149275	+
+pCDU1.tsv hypothetical protein	CDS	140020	140175	+
+pCDU1.tsv hypothetical protein	CDS	143522	143677	+
+pCDU1.tsv hypothetical protein	CDS	148727	148870	+
+pCDU1.tsv iron chelate uptake ABC transporter family permease subunit	CDS	49805	50845	-
+pCDU1.tsv iucC	CDS	110908	112653	+
+pCDU1.tsv LysR family transcriptional regulator	CDS	178297	179217	-
+pCDU1.tsv LysR family transcriptional regulator	CDS	177330	178229	-
+pCDU1.tsv MafI family immunity protein	CDS	147611	147874	+
+pCDU1.tsv MCP four helix bundle domain-containing protein	CDS	80260	81912	-
+pCDU1.tsv MerR family transcriptional regulator	CDS	185597	186340	+
+pCDU1.tsv metallophosphoesterase	CDS	181849	182598	-
+pCDU1.tsv methyl-accepting chemotaxis protein	CDS	84508	86454	-
+pCDU1.tsv MFS transporter	CDS	7998	9611	+
+pCDU1.tsv MFS transporter	CDS	179321	180835	+
+pCDU1.tsv MFS transporter	CDS	65103	66587	-
+pCDU1.tsv MFS transporter	CDS	175239	176534	+
+pCDU1.tsv MFS transporter	CDS	52094	53329	+
+pCDU1.tsv MFS transporter	CDS	106876	108087	-
+pCDU1.tsv MFS transporter	CDS	153160	154365	+
+pCDU1.tsv MFS transporter	CDS	187694	188890	+
+pCDU1.tsv mgtA	CDS	89677	92388	-
+pCDU1.tsv MipA/OmpV family protein	CDS	67390	68175	+
+pCDU1.tsv MipA/OmpV family protein	CDS	157924	158703	-
+pCDU1.tsv multidrug efflux RND transporter permease subunit	CDS	60764	63880	-
+pCDU1.tsv N-acetyltransferase	CDS	68950	69441	+
+pCDU1.tsv NINE protein	CDS	14263	14556	-
+pCDU1.tsv nuclear transport factor 2 family protein	CDS	166162	166569	-
+pCDU1.tsv nuclear transport factor 2 family protein	CDS	14697	15044	+
+pCDU1.tsv NUDIX domain-containing protein	CDS	165010	165453	-
+pCDU1.tsv OmpA family protein	CDS	27764	29449	+
+pCDU1.tsv PAAR domain-containing protein	CDS	38730	38996	+
+pCDU1.tsv ParB/RepB/Spo0J family partition protein	CDS	116867	117835	-
+pCDU1.tsv PLP-dependent aminotransferase family protein	CDS	21650	22984	+
+pCDU1.tsv PTS transporter subunit EIIC	CDS	10542	11918	-
+pCDU1.tsv RepB family plasmid replication initiator protein	CDS	119856	120911	+
+pCDU1.tsv response regulator	CDS	3751	4128	-
+pCDU1.tsv response regulator transcription factor	CDS	158825	159517	+
+pCDU1.tsv response regulator transcription factor	CDS	194833	195450	+
+pCDU1.tsv rhomboid protein	CDS	150482	151249	+
+pCDU1.tsv RNA polymerase sigma factor	CDS	77748	78263	+
+pCDU1.tsv SDR family NAD(P)-dependent oxidoreductase	CDS	76275	77021	+
+pCDU1.tsv SDR family oxidoreductase	CDS	69700	70377	-
+pCDU1.tsv sensor domain-containing diguanylate cyclase	CDS	15183	16751	+
+pCDU1.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	121521	123185	+
+pCDU1.tsv SidA/IucD/PvdA family monooxygenase	CDS	112650	113972	+
+pCDU1.tsv siderophore-interacting protein	CDS	105989	106879	-
+pCDU1.tsv Starvation sensing protein RspA	CDS	12194	13393	+
+pCDU1.tsv substrate-binding domain-containing protein	CDS	176549	177355	+
+pCDU1.tsv tehA	CDS	186520	187527	+
+pCDU1.tsv TetR family transcriptional regulator	CDS	66695	67291	+
+pCDU1.tsv TetR family transcriptional regulator	CDS	168405	168983	+
+pCDU1.tsv thioredoxin fold domain-containing protein	CDS	191879	192424	+
+pCDU1.tsv TonB-dependent siderophore receptor	CDS	113997	116192	+
+pCDU1.tsv transcription regulator Mig-14	CDS	59781	60677	-
+pCDU1.tsv transcriptional regulator	CDS	156815	157705	-
+pCDU1.tsv treY	CDS	99642	102173	-
+pCDU1.tsv treZ	CDS	102170	103954	-
+pCDU1.tsv tssB	CDS	23687	24181	+
+pCDU1.tsv tssC	CDS	24214	25758	+
+pCDU1.tsv tssF	CDS	43619	45382	+
+pCDU1.tsv tssG	CDS	45337	46434	+
+pCDU1.tsv tssH	CDS	30110	32767	+
+pCDU1.tsv tssJ	CDS	46415	46942	+
+pCDU1.tsv tssK	CDS	25770	27110	+
+pCDU1.tsv tssL	CDS	27107	27760	+
+pCDU1.tsv two-component sensor histidine kinase	CDS	159514	160710	+
+pCDU1.tsv type II toxin-antitoxin system HipA family toxin	CDS	104260	105579	-
+pCDU1.tsv type VI secretion system tube protein Hcp	CDS	18206	18688	+
+pCDU1.tsv tyrosine-protein phosphatase	CDS	71718	73169	+
+pCDU1.tsv tyrosine-type recombinase/integrase	CDS	58723	59697	+
+pCDU1.tsv VENN motif pre-toxin domain-containing protein	CDS	136552	137349	+
+pCDU1.tsv VENN motif pre-toxin domain-containing protein	CDS	146112	146546	+
+pCDU1.tsv VENN motif pre-toxin domain-containing protein	CDS	140937	141356	+
+pCDU1.tsv vgrG	CDS	32764	35289	+
+pCDU1.tsv WYL domain-containing protein	CDS	173734	174675	-
+pCDU1.tsv YafY family transcriptional regulator	CDS	155617	156312	+
+pCDU1.tsv YceI family protein	CDS	79073	79639	-
+pCDU1.tsv YmjA family protein	CDS	48730	48975	+
+pCMA1.tsv AAA family ATPase	CDS	117248	118498	-
+pCMA1.tsv AAA family ATPase	CDS	20263	21462	-
+pCMA1.tsv AAA family ATPase	CDS	115908	116678	-
+pCMA1.tsv ABC transporter ATP-binding protein	CDS	95119	95877	-
+pCMA1.tsv ABC transporter six-transmembrane domain-containing protein	CDS	56372	57283	-
+pCMA1.tsv ABC transporter substrate-binding protein	CDS	96914	97921	-
+pCMA1.tsv acetyltransferase	CDS	12531	13478	+
+pCMA1.tsv aerobactin synthase IucA	CDS	10790	12538	+
+pCMA1.tsv alpha/beta hydrolase	CDS	72907	73728	+
+pCMA1.tsv antibiotic biosynthesis monooxygenase	CDS	71413	71736	+
+pCMA1.tsv arsC	CDS	83018	83422	-
+pCMA1.tsv arsenic transporter	CDS	83467	84750	-
+pCMA1.tsv ascB	CDS	102423	103814	+
+pCMA1.tsv autotransporter domain-containing protein	CDS	1	126500	+
+pCMA1.tsv bglF	CDS	100548	102407	+
+pCMA1.tsv bglG	CDS	99575	100408	+
+pCMA1.tsv cupin domain-containing protein	CDS	122000	123121	-
+pCMA1.tsv diguanylate phosphodiesterase	CDS	65032	66249	+
+pCMA1.tsv dihydrodipicolinate synthase family protein	CDS	85263	86150	-
+pCMA1.tsv DMT family transporter	CDS	86175	87053	-
+pCMA1.tsv dsbG	CDS	88542	89291	-
+pCMA1.tsv DUF2534 family protein	CDS	91859	92119	-
+pCMA1.tsv efflux RND transporter periplasmic adaptor subunit	CDS	50598	51749	+
+pCMA1.tsv efflux RND transporter permease subunit	CDS	51750	54809	+
+pCMA1.tsv Exc2 family lipoprotein	CDS	112975	113376	-
+pCMA1.tsv filamentous hemagglutinin N-terminal domain-containing protein	CDS	25641	29903	+
+pCMA1.tsv glgX	CDS	63	2138	-
+pCMA1.tsv glutathione S-transferase family protein	CDS	112344	112940	+
+pCMA1.tsv GNAT family N-acetyltransferase	CDS	42734	43264	-
+pCMA1.tsv GNAT family N-acetyltransferase	CDS	70796	71311	-
+pCMA1.tsv GNAT family N-acetyltransferase	CDS	55707	56138	-
+pCMA1.tsv GntR family transcriptional regulator	CDS	76615	77334	-
+pCMA1.tsv guaD	CDS	110446	111720	-
+pCMA1.tsv HAMP domain-containing protein	CDS	67313	69223	-
+pCMA1.tsv helix-turn-helix transcriptional regulator	CDS	8148	8429	-
+pCMA1.tsv hemagglutinin repeat-containing protein	CDS	31175	37867	+
+pCMA1.tsv histidine phosphatase family protein	CDS	40076	40699	+
+pCMA1.tsv histidine phosphatase family protein	CDS	106541	107101	-
+pCMA1.tsv hypothetical protein	CDS	75428	76627	+
+pCMA1.tsv hypothetical protein	CDS	41671	42729	+
+pCMA1.tsv hypothetical protein	CDS	82003	82941	+
+pCMA1.tsv hypothetical protein	CDS	46691	47581	-
+pCMA1.tsv hypothetical protein	CDS	80133	80948	-
+pCMA1.tsv hypothetical protein	CDS	44873	45415	+
+pCMA1.tsv hypothetical protein	CDS	91356	91814	-
+pCMA1.tsv hypothetical protein	CDS	39473	39907	+
+pCMA1.tsv hypothetical protein	CDS	71729	72127	+
+pCMA1.tsv hypothetical protein	CDS	69656	70042	+
+pCMA1.tsv hypothetical protein	CDS	46253	46636	+
+pCMA1.tsv hypothetical protein	CDS	37876	38211	+
+pCMA1.tsv hypothetical protein	CDS	61357	61677	-
+pCMA1.tsv hypothetical protein	CDS	62385	62696	+
+pCMA1.tsv hypothetical protein	CDS	63923	64222	-
+pCMA1.tsv hypothetical protein	CDS	107112	107393	-
+pCMA1.tsv hypothetical protein	CDS	63604	63882	-
+pCMA1.tsv hypothetical protein	CDS	29879	30103	+
+pCMA1.tsv hypothetical protein	CDS	123271	123438	+
+pCMA1.tsv iron ABC transporter permease	CDS	95874	96914	-
+pCMA1.tsv iucC	CDS	13475	15220	+
+pCMA1.tsv LysR family transcriptional regulator	CDS	60321	61220	-
+pCMA1.tsv MBL fold hydrolase	CDS	109630	110430	+
+pCMA1.tsv MCP four helix bundle domain-containing protein	CDS	107677	109335	-
+pCMA1.tsv MerR family transcriptional regulator	CDS	66484	67227	+
+pCMA1.tsv metallophosphoesterase	CDS	62730	63470	-
+pCMA1.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	84838	85170	-
+pCMA1.tsv methyl-accepting chemotaxis protein	CDS	113599	115545	-
+pCMA1.tsv methyltransferase	CDS	92516	93544	-
+pCMA1.tsv MFS transporter	CDS	58240	59547	+
+pCMA1.tsv MFS transporter	CDS	98161	99396	+
+pCMA1.tsv MFS transporter	CDS	9443	10654	-
+pCMA1.tsv MFS transporter	CDS	43562	44767	+
+pCMA1.tsv mgtA	CDS	118707	121421	-
+pCMA1.tsv MipA/OmpV family protein	CDS	47742	48512	-
+pCMA1.tsv NINE protein	CDS	77533	77826	-
+pCMA1.tsv nuclear transport factor 2 family protein	CDS	54801	55157	-
+pCMA1.tsv nuclear transport factor 2 family protein	CDS	77965	78312	+
+pCMA1.tsv NUDIX domain-containing protein	CDS	55238	55681	-
+pCMA1.tsv ParB/RepB/Spo0J family partition protein	CDS	19287	20255	-
+pCMA1.tsv PLP-dependent aminotransferase family protein	CDS	87146	88480	+
+pCMA1.tsv PTS transporter subunit EIIC	CDS	73775	75148	-
+pCMA1.tsv RepB family plasmid replication initiator protein	CDS	22310	23323	+
+pCMA1.tsv response regulator transcription factor	CDS	48637	49329	+
+pCMA1.tsv rhomboid protein	CDS	40791	41558	+
+pCMA1.tsv SDR family oxidoreductase	CDS	105820	106494	-
+pCMA1.tsv sensor domain-containing diguanylate cyclase	CDS	78462	80039	+
+pCMA1.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	23963	25627	+
+pCMA1.tsv SidA/IucD/PvdA family monooxygenase	CDS	15217	16539	+
+pCMA1.tsv siderophore-interacting protein	CDS	8562	9446	-
+pCMA1.tsv SMI1/KNR4 family protein	CDS	94162	94683	+
+pCMA1.tsv substrate-binding domain-containing protein	CDS	59540	60346	+
+pCMA1.tsv TetR family transcriptional regulator	CDS	57384	57941	+
+pCMA1.tsv TetR/AcrR family transcriptional regulator	CDS	61773	62363	+
+pCMA1.tsv thioredoxin family protein	CDS	89288	91309	-
+pCMA1.tsv thioredoxin fold domain-containing protein	CDS	70197	70757	+
+pCMA1.tsv TonB-dependent siderophore receptor	CDS	16562	18757	+
+pCMA1.tsv treY	CDS	2207	4738	-
+pCMA1.tsv treZ	CDS	4735	6519	-
+pCMA1.tsv two-component sensor histidine kinase	CDS	49326	50504	+
+pCMA1.tsv two-component-system connector protein YcgZ	CDS	64392	64631	-
+pCMA1.tsv type II toxin-antitoxin system HipA family toxin	CDS	6826	8145	-
+pCMA1.tsv type VI secretion system tube protein Hcp	CDS	81502	81984	+
+pCMA1.tsv tyrosine-type recombinase/integrase	CDS	104803	105786	+
+pCMA1.tsv VENN motif pre-toxin domain-containing protein	CDS	38457	38681	+
+pCMA1.tsv winged helix-turn-helix transcriptional regulator	CDS	72100	72825	+
+pCMA1.tsv YafY family transcriptional regulator	CDS	45501	46196	+
+pCMA1.tsv YmjA family protein	CDS	94800	95045	+
+pCMA2.tsv AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS	CDS	15964	16194	-
+pCMA2.tsv aquaporin CDS	CDS	26931	27176	-
+pCMA2.tsv arsA CDS	CDS	21702	23453	+
+pCMA2.tsv arsB CDS	CDS	23501	24790	+
+pCMA2.tsv arsC CDS	CDS	24803	25228	+
+pCMA2.tsv arsD CDS	CDS	21322	21684	+
+pCMA2.tsv arsR CDS	CDS	20920	21270	+
+pCMA2.tsv conjugal transfer protein CDS	CDS	6677	7048	+
+pCMA2.tsv conjugal transfer protein TraX CDS	CDS	13074	13799	-
+pCMA2.tsv copper resistance protein CDS	CDS	34846	35295	+
+pCMA2.tsv cusF CDS	CDS	43831	44184	-
+pCMA2.tsv DNA partition complex ParG CDS	CDS	3340	3579	-
+pCMA2.tsv DUF305 domain-containing protein CDS	CDS	48759	49109	+
+pCMA2.tsv DUF2933 domain-containing protein CDS	CDS	35935	36132	-
+pCMA2.tsv DUF4145 domain-containing protein CDS	CDS	11859	12596	+
+pCMA2.tsv DUF4225 domain-containing protein CDS	CDS	10062	10865	+
+pCMA2.tsv HNH endonuclease CDS	CDS	49516	50424	-
+pCMA2.tsv hypothetical protein CDS	CDS	1	52622	mixed
+pCMA2.tsv hypothetical protein CDS	CDS	19495	20580	-
+pCMA2.tsv hypothetical protein CDS	CDS	51646	52380	+
+pCMA2.tsv hypothetical protein CDS	CDS	14303	14902	-
+pCMA2.tsv hypothetical protein CDS	CDS	16672	17232	-
+pCMA2.tsv hypothetical protein CDS	CDS	15005	15502	-
+pCMA2.tsv hypothetical protein CDS	CDS	38742	39182	-
+pCMA2.tsv hypothetical protein CDS	CDS	25812	26165	-
+pCMA2.tsv hypothetical protein CDS	CDS	51244	51576	+
+pCMA2.tsv hypothetical protein CDS	CDS	10843	11166	-
+pCMA2.tsv hypothetical protein CDS	CDS	1616	1834	-
+pCMA2.tsv hypothetical protein CDS	CDS	16374	16586	+
+pCMA2.tsv hypothetical protein CDS	CDS	25261	25452	-
+pCMA2.tsv hypothetical protein CDS	CDS	7204	7368	+
+pCMA2.tsv M23 family metallopeptidase CDS	CDS	35518	35901	+
+pCMA2.tsv N-acetyltransferase CDS	CDS	26397	26881	+
+pCMA2.tsv ParA family protein CDS	CDS	3632	4249	-
+pCMA2.tsv pcoA CDS	CDS	32794	34611	-
+pCMA2.tsv pcoB CDS	CDS	31898	32788	-
+pCMA2.tsv pcoC CDS	CDS	31478	31858	-
+pCMA2.tsv pcoD CDS	CDS	30544	31473	-
+pCMA2.tsv pcoE CDS	CDS	27762	28196	-
+pCMA2.tsv pcoR CDS	CDS	29809	30489	-
+pCMA2.tsv pcoS CDS	CDS	28412	29812	-
+pCMA2.tsv phage integrase family protein CDS	CDS	856	1623	+
+pCMA2.tsv phage T7 exclusion protein CDS	CDS	17299	19494	-
+pCMA2.tsv RepB family plasmid replication initiator protein CDS	CDS	2003	2875	-
+pCMA2.tsv replication initiator protein RepA CDS	CDS	8254	9165	+
+pCMA2.tsv silA CDS	CDS	39268	42414	-
+pCMA2.tsv silB CDS	CDS	42425	43717	-
+pCMA2.tsv silC CDS	CDS	44213	45598	-
+pCMA2.tsv silE CDS	CDS	48182	48613	+
+pCMA2.tsv silP CDS	CDS	36173	38644	-
+pCMA2.tsv silR CDS	CDS	45788	46468	+
+pCMA2.tsv silS CDS	CDS	46461	47936	+
+pCMA2.tsv type I toxin-antitoxin system Hok family toxin CDS	CDS	5211	5369	+
+pCMA2.tsv type II toxin-antitoxin system RelE/ParE family toxin CDS	CDS	27285	27383	+
+pCMA2.tsv type II toxin-antitoxin system VapC family toxin CDS	CDS	15551	15967	-
+pCS1.tsv ABC transporter CDS	CDS	96170	96808	+
+pCS1.tsv ABC transporter CDS	CDS	88471	88752	+
+pCS1.tsv acetyltransferase CDS	CDS	14677	15216	-
+pCS1.tsv adenine methyltransferase CDS	CDS	69967	70560	+
+pCS1.tsv C-type natriuretic protein CDS	CDS	25680	25985	+
+pCS1.tsv chromosome partitioning protein ParB CDS	CDS	94807	95505	+
+pCS1.tsv chromosome partitioning protein ParB CDS	CDS	95505	96173	+
+pCS1.tsv DEAD/DEAH box helicase CDS	CDS	74758	77874	-
+pCS1.tsv dihydrofolate reductase CDS	CDS	65617	66093	+
+pCS1.tsv DNA helicase CDS	CDS	19279	20619	+
+pCS1.tsv DNA ligase CDS	CDS	23837	25159	+
+pCS1.tsv DNA modification methylase CDS	CDS	80977	82665	+
+pCS1.tsv DNA modification methylase CDS	CDS	74481	74696	+
+pCS1.tsv DNA polymerase III subunit alpha CDS	CDS	39754	43272	+
+pCS1.tsv DNA primase CDS	CDS	20770	21885	+
+pCS1.tsv DNA-binding protein CDS	CDS	98423	99064	+
+pCS1.tsv DNA-binding protein CDS	CDS	44690	45253	-
+pCS1.tsv exonuclease CDS	CDS	56033	57949	+
+pCS1.tsv exonuclease CDS	CDS	54718	55803	+
+pCS1.tsv exonuclease CDS	CDS	47428	48372	+
+pCS1.tsv exonuclease CDS	CDS	67230	67787	+
+pCS1.tsv GNAT family acetyltransferase CDS	CDS	54058	54543	+
+pCS1.tsv helicase CDS	CDS	93183	94742	-
+pCS1.tsv host specificity protein J CDS	CDS	4935	9092	+
+pCS1.tsv hypothetical protein CDS	CDS	100356	101930	+
+pCS1.tsv hypothetical protein CDS	CDS	83540	84739	+
+pCS1.tsv hypothetical protein CDS	CDS	17119	18285	+
+pCS1.tsv hypothetical protein CDS	CDS	101953	102846	+
+pCS1.tsv hypothetical protein CDS	CDS	97061	97951	+
+pCS1.tsv hypothetical protein CDS	CDS	104263	105096	+
+pCS1.tsv hypothetical protein CDS	CDS	67909	68712	+
+pCS1.tsv hypothetical protein CDS	CDS	22462	23256	+
+pCS1.tsv hypothetical protein CDS	CDS	57939	58685	+
+pCS1.tsv hypothetical protein CDS	CDS	106462	107208	+
+pCS1.tsv hypothetical protein CDS	CDS	18493	19218	+
+pCS1.tsv hypothetical protein CDS	CDS	13548	14240	+
+pCS1.tsv hypothetical protein CDS	CDS	69047	69724	-
+pCS1.tsv hypothetical protein CDS	CDS	90097	90747	-
+pCS1.tsv hypothetical protein CDS	CDS	9876	10523	+
+pCS1.tsv hypothetical protein CDS	CDS	53338	53982	+
+pCS1.tsv hypothetical protein CDS	CDS	66093	66737	+
+pCS1.tsv hypothetical protein CDS	CDS	73774	74352	+
+pCS1.tsv hypothetical protein CDS	CDS	58695	59264	+
+pCS1.tsv hypothetical protein CDS	CDS	27584	28114	+
+pCS1.tsv hypothetical protein CDS	CDS	10882	11394	-
+pCS1.tsv hypothetical protein CDS	CDS	88957	89439	+
+pCS1.tsv hypothetical protein CDS	CDS	72327	72803	+
+pCS1.tsv hypothetical protein CDS	CDS	105529	106002	+
+pCS1.tsv hypothetical protein CDS	CDS	43269	43712	+
+pCS1.tsv hypothetical protein CDS	CDS	103829	104263	+
+pCS1.tsv hypothetical protein CDS	CDS	45806	46237	+
+pCS1.tsv hypothetical protein CDS	CDS	43910	44329	+
+pCS1.tsv hypothetical protein CDS	CDS	49858	50277	+
+pCS1.tsv hypothetical protein CDS	CDS	66801	67220	+
+pCS1.tsv hypothetical protein CDS	CDS	21918	22334	+
+pCS1.tsv hypothetical protein CDS	CDS	65207	65620	+
+pCS1.tsv hypothetical protein CDS	CDS	87569	87964	+
+pCS1.tsv hypothetical protein CDS	CDS	34950	35336	-
+pCS1.tsv hypothetical protein CDS	CDS	106004	106387	+
+pCS1.tsv hypothetical protein CDS	CDS	88094	88468	+
+pCS1.tsv hypothetical protein CDS	CDS	16557	16916	+
+pCS1.tsv hypothetical protein CDS	CDS	105194	105538	+
+pCS1.tsv hypothetical protein CDS	CDS	50836	51174	+
+pCS1.tsv hypothetical protein CDS	CDS	13213	13536	+
+pCS1.tsv hypothetical protein CDS	CDS	107269	107586	+
+pCS1.tsv hypothetical protein CDS	CDS	87130	87441	+
+pCS1.tsv hypothetical protein CDS	CDS	44340	44639	+
+pCS1.tsv hypothetical protein CDS	CDS	92902	93180	-
+pCS1.tsv hypothetical protein CDS	CDS	50344	50619	+
+pCS1.tsv hypothetical protein CDS	CDS	48372	48638	+
+pCS1.tsv hypothetical protein CDS	CDS	97961	98227	+
+pCS1.tsv hypothetical protein CDS	CDS	96801	97055	+
+pCS1.tsv hypothetical protein CDS	CDS	14242	14493	+
+pCS1.tsv hypothetical protein CDS	CDS	30507	30758	+
+pCS1.tsv hypothetical protein CDS	CDS	23557	23802	+
+pCS1.tsv hypothetical protein CDS	CDS	68833	69075	-
+pCS1.tsv hypothetical protein CDS	CDS	86157	86399	-
+pCS1.tsv hypothetical protein CDS	CDS	55803	56036	+
+pCS1.tsv hypothetical protein CDS	CDS	107703	107936	+
+pCS1.tsv hypothetical protein CDS	CDS	70760	70990	+
+pCS1.tsv hypothetical protein CDS	CDS	14426	14647	+
+pCS1.tsv hypothetical protein CDS	CDS	86771	86989	+
+pCS1.tsv hypothetical protein CDS	CDS	25319	25534	+
+pCS1.tsv hypothetical protein CDS	CDS	86545	86760	+
+pCS1.tsv hypothetical protein CDS	CDS	35594	35806	+
+pCS1.tsv hypothetical protein CDS	CDS	51174	51386	+
+pCS1.tsv hypothetical protein CDS	CDS	91064	91261	-
+pCS1.tsv hypothetical protein CDS	CDS	72813	73001	+
+pCS1.tsv hypothetical protein CDS	CDS	50660	50839	+
+pCS1.tsv integrase CDS	CDS	33852	34955	+
+pCS1.tsv phage capsid protein CDS	CDS	102872	103753	+
+pCS1.tsv phage tail protein CDS	CDS	3518	4315	+
+pCS1.tsv phage tail protein CDS	CDS	2827	3528	+
+pCS1.tsv phage tail protein CDS	CDS	4303	4914	+
+pCS1.tsv phage tail protein CDS	CDS	2403	2738	+
+pCS1.tsv phage tail tape measure protein CDS	CDS	1	110093	+
+pCS1.tsv phosphoribosyl-ATP pyrophosphohydrolase CDS	CDS	63045	63920	+
+pCS1.tsv plasmid stability protein CDS	CDS	15892	16557	+
+pCS1.tsv porphyrin biosynthesis protein CDS	CDS	35913	38243	+
+pCS1.tsv porphyrin biosynthesis protein CDS	CDS	38338	39573	+
+pCS1.tsv recombinase CDS	CDS	48641	49720	+
+pCS1.tsv regulator CDS	CDS	46357	47367	+
+pCS1.tsv replication protein A CDS	CDS	51915	53015	-
+pCS1.tsv restriction endonuclease CDS	CDS	79199	80755	-
+pCS1.tsv restriction endonuclease subunit M CDS	CDS	77991	79202	-
+pCS1.tsv ribonuclease H CDS	CDS	71584	72183	+
+pCS1.tsv ribonucleotide-diphosphate reductase subunit alpha CDS	CDS	59341	61689	+
+pCS1.tsv ribonucleotide-diphosphate reductase subunit beta CDS	CDS	61821	62963	+
+pCS1.tsv TciA CDS	CDS	73067	73492	+
+pCS1.tsv terminase CDS	CDS	99067	100323	+
+pCS1.tsv thymidylate synthase CDS	CDS	64102	65205	+
+pCS1.tsv toxin-antitoxin system, antitoxin component CDS	CDS	15220	15489	-
+pCS1.tsv transcriptional regulator CDS	CDS	91373	91894	-
+pCS1.tsv transposase CDS	CDS	32139	33215	+
+pCS1.tsv transposase CDS	CDS	28256	29080	-
+pCS1.tsv transposase CDS	CDS	30998	31300	+
+pCS1.tsv transposase CDS	CDS	29113	29376	-
+pCS2.tsv AAA family ATPase	CDS	102242	103442	-
+pCS2.tsv AAA family ATPase	CDS	71397	72167	-
+pCS2.tsv ABC transporter ATP-binding protein	CDS	48469	49227	-
+pCS2.tsv ABC transporter six-transmembrane domain-containing protein	CDS	5720	6607	-
+pCS2.tsv ABC transporter substrate-binding protein	CDS	50264	51247	-
+pCS2.tsv acetyltransferase	CDS	94510	95457	+
+pCS2.tsv aerobactin synthase IucA	CDS	92769	94517	+
+pCS2.tsv alpha/beta hydrolase	CDS	21496	22317	+
+pCS2.tsv antibiotic biosynthesis monooxygenase	CDS	20002	20325	+
+pCS2.tsv arsC	CDS	33507	33911	-
+pCS2.tsv arsenic transporter	CDS	33955	35238	-
+pCS2.tsv autotransporter domain-containing protein	CDS	79047	81983	+
+pCS2.tsv cupin domain-containing protein	CDS	77484	78605	-
+pCS2.tsv diguanylate phosphodiesterase	CDS	14345	15562	+
+pCS2.tsv dihydrodipicolinate synthase family protein	CDS	35751	36638	-
+pCS2.tsv DMT family transporter	CDS	36663	37541	-
+pCS2.tsv dsbG	CDS	43112	43861	-
+pCS2.tsv DUF2534 family protein	CDS	46429	46689	-
+pCS2.tsv DUF4440 domain-containing protein	CDS	26553	26900	+
+pCS2.tsv efflux RND transporter periplasmic adaptor subunit	CDS	1	117795	+
+pCS2.tsv efflux RND transporter permease subunit	CDS	1085	4135	+
+pCS2.tsv Exc2 family lipoprotein	CDS	68462	68863	-
+pCS2.tsv glgX	CDS	82045	84120	-
+pCS2.tsv glutathione S-transferase family protein	CDS	67826	68422	+
+pCS2.tsv GNAT family N-acetyltransferase	CDS	108342	108872	-
+pCS2.tsv GNAT family N-acetyltransferase	CDS	19385	19900	-
+pCS2.tsv GNAT family N-acetyltransferase	CDS	5033	5464	-
+pCS2.tsv GntR family transcriptional regulator	CDS	25206	25925	-
+pCS2.tsv guaD	CDS	65937	67253	-
+pCS2.tsv HAMP domain-containing protein	CDS	16619	18529	-
+pCS2.tsv helix-turn-helix domain-containing protein	CDS	90129	90410	-
+pCS2.tsv histidine phosphatase family protein	CDS	105672	106289	+
+pCS2.tsv histidine phosphatase family protein	CDS	62027	62596	-
+pCS2.tsv hypothetical protein	CDS	58138	61299	+
+pCS2.tsv hypothetical protein	CDS	72739	73995	-
+pCS2.tsv hypothetical protein	CDS	55111	56334	+
+pCS2.tsv hypothetical protein	CDS	24019	25218	+
+pCS2.tsv hypothetical protein	CDS	107279	108337	+
+pCS2.tsv hypothetical protein	CDS	30613	31551	+
+pCS2.tsv hypothetical protein	CDS	28711	29526	-
+pCS2.tsv hypothetical protein	CDS	65115	65915	+
+pCS2.tsv hypothetical protein	CDS	106388	107155	+
+pCS2.tsv hypothetical protein	CDS	111873	112415	+
+pCS2.tsv hypothetical protein	CDS	112412	112951	+
+pCS2.tsv hypothetical protein	CDS	45926	46384	-
+pCS2.tsv hypothetical protein	CDS	20318	20716	+
+pCS2.tsv hypothetical protein	CDS	47017	47406	+
+pCS2.tsv hypothetical protein	CDS	18962	19348	+
+pCS2.tsv hypothetical protein	CDS	113735	114118	+
+pCS2.tsv hypothetical protein	CDS	10672	10992	-
+pCS2.tsv hypothetical protein	CDS	11700	12011	+
+pCS2.tsv hypothetical protein	CDS	13236	13535	-
+pCS2.tsv hypothetical protein	CDS	62609	62878	-
+pCS2.tsv hypothetical protein	CDS	100885	101112	-
+pCS2.tsv hypothetical protein	CDS	78755	78922	+
+pCS2.tsv iron ABC transporter permease	CDS	49224	50264	-
+pCS2.tsv iucC	CDS	95454	97199	+
+pCS2.tsv LysR family transcriptional regulator	CDS	9645	10544	-
+pCS2.tsv MCP four helix bundle domain-containing protein	CDS	63162	64820	-
+pCS2.tsv MerR family transcriptional regulator	CDS	15797	16540	+
+pCS2.tsv metallophosphoesterase	CDS	12046	12786	-
+pCS2.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	35326	35661	-
+pCS2.tsv methyl-accepting chemotaxis protein	CDS	69087	71033	-
+pCS2.tsv MFS transporter	CDS	7564	8871	+
+pCS2.tsv MFS transporter	CDS	51511	52746	+
+pCS2.tsv MFS transporter	CDS	91422	92633	-
+pCS2.tsv MFS transporter	CDS	109162	110370	+
+pCS2.tsv mgtA	CDS	74202	76916	-
+pCS2.tsv MipA/OmpV family protein	CDS	115223	115993	-
+pCS2.tsv NINE protein	CDS	26121	26414	-
+pCS2.tsv nuclear transport factor 2 family protein	CDS	4127	4483	-
+pCS2.tsv NUDIX domain-containing protein	CDS	4564	5007	-
+pCS2.tsv omptin family outer membrane protease	CDS	110686	111624	+
+pCS2.tsv ParB/RepB/Spo0J family partition protein	CDS	101266	102234	-
+pCS2.tsv phospholipase D family protein	CDS	56328	58145	+
+pCS2.tsv PLP-dependent aminotransferase family protein	CDS	37633	38967	+
+pCS2.tsv PTS transporter subunit EIIC	CDS	22364	23740	-
+pCS2.tsv RepB family plasmid replication initiator protein	CDS	104249	105304	+
+pCS2.tsv response regulator transcription factor	CDS	116118	116810	+
+pCS2.tsv SDR family oxidoreductase	CDS	61306	61980	-
+pCS2.tsv sensor domain-containing diguanylate cyclase	CDS	27050	28627	+
+pCS2.tsv SidA/IucD/PvdA family monooxygenase	CDS	97196	98518	+
+pCS2.tsv siderophore-interacting protein	CDS	90541	91425	-
+pCS2.tsv SMI1/KNR4 family protein	CDS	47509	48030	+
+pCS2.tsv substrate-binding domain-containing protein	CDS	8864	9670	+
+pCS2.tsv TetR family transcriptional regulator	CDS	6708	7265	+
+pCS2.tsv TetR/AcrR family transcriptional regulator	CDS	11088	11678	+
+pCS2.tsv thioredoxin family protein	CDS	43858	45879	-
+pCS2.tsv TonB-dependent siderophore receptor	CDS	98541	100736	+
+pCS2.tsv transcriptional regulator	CDS	114171	115061	-
+pCS2.tsv treY	CDS	84189	86720	-
+pCS2.tsv treZ	CDS	86717	88501	-
+pCS2.tsv Trk system potassium uptake protein TrkG	CDS	31970	33445	+
+pCS2.tsv tssB	CDS	39656	40152	+
+pCS2.tsv tssC	CDS	40187	41728	+
+pCS2.tsv tssJ	CDS	42551	43078	+
+pCS2.tsv tssK	CDS	41739	42176	+
+pCS2.tsv two-component-system connector protein AriR	CDS	12920	13198	-
+pCS2.tsv two-component-system connector protein YcgZ	CDS	13705	13944	-
+pCS2.tsv type II toxin-antitoxin system HipA family toxin	CDS	88807	90126	-
+pCS2.tsv type VI secretion system baseplate subunit TssG	CDS	42127	42570	+
+pCS2.tsv type VI secretion system tube protein Hcp	CDS	30112	30594	+
+pCS2.tsv tyrosine-type recombinase/integrase	CDS	54039	55016	+
+pCS2.tsv winged helix-turn-helix transcriptional regulator	CDS	20689	21414	+
+pCS2.tsv YafY family transcriptional regulator	CDS	112983	113678	+
+pCS2.tsv YmjA family protein	CDS	48148	48393	+
+pCS3.tsv abortive infection protein	CDS	44138	44479	+
+pCS3.tsv acyl carrier protein	CDS	48674	48967	+
+pCS3.tsv cation transporter	CDS	26298	29444	+
+pCS3.tsv chromosome partitioning protein ParA	CDS	5421	6038	+
+pCS3.tsv CopG family transcriptional regulator	CDS	41887	42147	-
+pCS3.tsv copper ABC transporter substrate-binding protein	CDS	24528	24881	+
+pCS3.tsv copper oxidase	CDS	34524	36341	+
+pCS3.tsv copper resistance protein	CDS	24995	26287	+
+pCS3.tsv copper resistance protein	CDS	33840	34289	-
+pCS3.tsv copper resistance protein CopB	CDS	36341	37237	+
+pCS3.tsv copper resistance protein CopC	CDS	37277	37657	+
+pCS3.tsv copper resistance protein CopD	CDS	37662	38591	+
+pCS3.tsv copper-binding protein	CDS	40939	41373	+
+pCS3.tsv copper-binding protein	CDS	20094	20525	-
+pCS3.tsv diguanylate cyclase	CDS	16656	17630	-
+pCS3.tsv DNA partition complex ParG	CDS	6091	6330	+
+pCS3.tsv haloacid dehalogenase	CDS	30098	32542	+
+pCS3.tsv histidine kinase	CDS	20776	22251	-
+pCS3.tsv histidine kinase	CDS	39323	40723	+
+pCS3.tsv HNH endonuclease	CDS	18268	19176	+
+pCS3.tsv hypothetical protein	CDS	23114	24499	+
+pCS3.tsv hypothetical protein	CDS	11531	12904	+
+pCS3.tsv hypothetical protein	CDS	44663	45664	-
+pCS3.tsv hypothetical protein	CDS	42422	43348	+
+pCS3.tsv hypothetical protein	CDS	1753	2571	-
+pCS3.tsv hypothetical protein	CDS	49111	49815	-
+pCS3.tsv hypothetical protein	CDS	8865	9497	-
+pCS3.tsv hypothetical protein	CDS	14424	14999	+
+pCS3.tsv hypothetical protein	CDS	48225	48680	+
+pCS3.tsv hypothetical protein	CDS	29530	29970	+
+pCS3.tsv hypothetical protein	CDS	19596	19946	-
+pCS3.tsv hypothetical protein	CDS	1426	1749	+
+pCS3.tsv hypothetical protein	CDS	9564	9866	-
+pCS3.tsv hypothetical protein	CDS	51658	51942	-
+pCS3.tsv hypothetical protein	CDS	43398	43652	+
+pCS3.tsv hypothetical protein	CDS	7836	8054	+
+pCS3.tsv hypothetical protein	CDS	32583	32780	+
+pCS3.tsv integrase	CDS	3835	4332	-
+pCS3.tsv nucleotidyltransferase	CDS	13088	14416	+
+pCS3.tsv peptidase M23	CDS	32814	33551	-
+pCS3.tsv plasmid stabilization protein ParE	CDS	41604	41900	-
+pCS3.tsv protein RepA	CDS	6795	7667	+
+pCS3.tsv resolvase	CDS	8047	8835	-
+pCS3.tsv transcriptional regulator	CDS	10432	11520	+
+pCS3.tsv transcriptional regulator	CDS	22244	22924	-
+pCS3.tsv transcriptional regulator	CDS	38646	39326	+
+pCS3.tsv transposase	CDS	4692	4955	-
+pCS3.tsv twitching motility protein PilT	CDS	241	657	+
+pCS3.tsv virulence factor	CDS	14	244	+
+pCSA2.tsv hypothetical protein	CDS	175	402	+
+pCSA2.tsv MbeB family mobilization protein	CDS	3770	4261	+
+pCSA2.tsv MbeD family mobilization/exclusion protein	CDS	4268	4483	+
+pCSA2.tsv MobC family plasmid mobilization relaxosome protein	CDS	2769	3092	+
+pCSA2.tsv PAS domain-containing methyl-accepting chemotaxis protein	CDS	456	1760	+
+pCSA2.tsv relaxase/mobilization nuclease domain-containingprotein	CDS	3031	3795	+
+pCTU1.tsv arbF	CDS	51021	52895	+
+pCTU1.tsv arbG	CDS	50018	50899	+
+pCTU1.tsv ariR	CDS	16907	17185	-
+pCTU1.tsv arsB	CDS	38538	39821	-
+pCTU1.tsv arsC	CDS	38080	38493	-
+pCTU1.tsv arsR	CDS	39910	40287	-
+pCTU1.tsv Arylesterase	CDS	27809	28630	+
+pCTU1.tsv casB	CDS	52911	54302	+
+pCTU1.tsv dsbG	CDS	43612	44367	-
+pCTU1.tsv fecE	CDS	45608	46366	-
+pCTU1.tsv glgX	CDS	88039	90117	-
+pCTU1.tsv guaD	CDS	71849	73201	-
+pCTU1.tsv hcp1	CDS	34824	35306	+
+pCTU1.tsv hipA	CDS	94803	96122	-
+pCTU1.tsv hypothetical protein	CDS	113660	124639	+
+pCTU1.tsv hypothetical protein	CDS	59390	62542	+
+pCTU1.tsv hypothetical protein	CDS	85173	87980	+
+pCTU1.tsv hypothetical protein	CDS	90186	92717	-
+pCTU1.tsv hypothetical protein	CDS	75049	76995	-
+pCTU1.tsv hypothetical protein	CDS	66928	68847	+
+pCTU1.tsv hypothetical protein	CDS	57580	59397	+
+pCTU1.tsv hypothetical protein	CDS	69060	70718	-
+pCTU1.tsv hypothetical protein	CDS	112144	113646	+
+pCTU1.tsv hypothetical protein	CDS	32706	34187	+
+pCTU1.tsv hypothetical protein	CDS	64590	66041	+
+pCTU1.tsv hypothetical protein	CDS	14738	16168	+
+pCTU1.tsv hypothetical protein	CDS	28680	30056	-
+pCTU1.tsv hypothetical protein	CDS	42211	43551	+
+pCTU1.tsv hypothetical protein	CDS	78698	79954	-
+pCTU1.tsv hypothetical protein	CDS	48651	49886	+
+pCTU1.tsv hypothetical protein	CDS	56363	57586	+
+pCTU1.tsv hypothetical protein	CDS	97425	98636	-
+pCTU1.tsv hypothetical protein	CDS	30336	31535	+
+pCTU1.tsv hypothetical protein	CDS	4038	5225	+
+pCTU1.tsv hypothetical protein	CDS	2146	3204	+
+pCTU1.tsv hypothetical protein	CDS	46363	47403	-
+pCTU1.tsv hypothetical protein	CDS	63272	64306	-
+pCTU1.tsv hypothetical protein	CDS	128258	129271	+
+pCTU1.tsv hypothetical protein	CDS	47403	48410	-
+pCTU1.tsv hypothetical protein	CDS	55319	56275	+
+pCTU1.tsv hypothetical protein	CDS	130734	131690	+
+pCTU1.tsv hypothetical protein	CDS	13642	14583	-
+pCTU1.tsv hypothetical protein	CDS	35325	36263	+
+pCTU1.tsv hypothetical protein	CDS	96541	97461	-
+pCTU1.tsv hypothetical protein	CDS	11379	12269	-
+pCTU1.tsv hypothetical protein	CDS	40335	41222	-
+pCTU1.tsv hypothetical protein	CDS	41247	42125	-
+pCTU1.tsv hypothetical protein	CDS	7641	8504	-
+pCTU1.tsv hypothetical protein	CDS	71023	71814	+
+pCTU1.tsv hypothetical protein	CDS	1267	2034	+
+pCTU1.tsv hypothetical protein	CDS	31523	32290	-
+pCTU1.tsv hypothetical protein	CDS	27002	27727	+
+pCTU1.tsv hypothetical protein	CDS	62549	63223	-
+pCTU1.tsv hypothetical protein	CDS	135631	136305	+
+pCTU1.tsv hypothetical protein	CDS	6491	7147	+
+pCTU1.tsv hypothetical protein	CDS	531	1175	+
+pCTU1.tsv hypothetical protein	CDS	133221	133814	+
+pCTU1.tsv hypothetical protein	CDS	134143	134709	+
+pCTU1.tsv hypothetical protein	CDS	66051	66614	-
+pCTU1.tsv hypothetical protein	CDS	12391	12948	+
+pCTU1.tsv hypothetical protein	CDS	135073	135618	+
+pCTU1.tsv hypothetical protein	CDS	5341	5883	+
+pCTU1.tsv hypothetical protein	CDS	25699	26241	-
+pCTU1.tsv hypothetical protein	CDS	5880	6419	+
+pCTU1.tsv hypothetical protein	CDS	136968	137477	+
+pCTU1.tsv hypothetical protein	CDS	10852	11340	+
+pCTU1.tsv hypothetical protein	CDS	10259	10744	-
+pCTU1.tsv hypothetical protein	CDS	77645	78130	-
+pCTU1.tsv hypothetical protein	CDS	25178	25660	+
+pCTU1.tsv hypothetical protein	CDS	126026	126508	+
+pCTU1.tsv hypothetical protein	CDS	131691	132173	+
+pCTU1.tsv hypothetical protein	CDS	127816	128241	+
+pCTU1.tsv hypothetical protein	CDS	73929	74348	+
+pCTU1.tsv hypothetical protein	CDS	13247	13657	+
+pCTU1.tsv hypothetical protein	CDS	74416	74817	-
+pCTU1.tsv hypothetical protein	CDS	26631	27029	+
+pCTU1.tsv hypothetical protein	CDS	24559	24945	+
+pCTU1.tsv hypothetical protein	CDS	7204	7587	+
+pCTU1.tsv hypothetical protein	CDS	129925	130296	+
+pCTU1.tsv hypothetical protein	CDS	132463	132828	+
+pCTU1.tsv hypothetical protein	CDS	9821	10177	-
+pCTU1.tsv hypothetical protein	CDS	137480	137815	+
+pCTU1.tsv hypothetical protein	CDS	26315	26638	+
+pCTU1.tsv hypothetical protein	CDS	3363	3674	-
+pCTU1.tsv hypothetical protein	CDS	17226	17525	-
+pCTU1.tsv hypothetical protein	CDS	20543	20833	-
+pCTU1.tsv hypothetical protein	CDS	77361	77645	-
+pCTU1.tsv hypothetical protein	CDS	96125	96406	-
+pCTU1.tsv hypothetical protein	CDS	106975	107190	-
+pCTU1.tsv hypothetical protein	CDS	125811	126008	+
+pCTU1.tsv hypothetical protein	CDS	82862	83056	+
+pCTU1.tsv hypothetical protein	CDS	16623	16805	+
+pCTU1.tsv hypothetical protein	CDS	78473	78646	-
+pCTU1.tsv hypothetical protein	CDS	125256	125429	+
+pCTU1.tsv hypothetical protein	CDS	16406	16576	+
+pCTU1.tsv hypothetical protein	CDS	132228	132398	-
+pCTU1.tsv hypothetical protein	CDS	66691	66858	-
+pCTU1.tsv hypothetical protein	CDS	84749	84916	+
+pCTU1.tsv hypothetical protein	CDS	138167	138334	+
+pCTU1.tsv hypothetical protein	CDS	79965	80129	-
+pCTU1.tsv hypothetical protein	CDS	6	167	+
+pCTU1.tsv hypothetical protein	CDS	109786	109944	+
+pCTU1.tsv hypothetical protein	CDS	126915	127073	-
+pCTU1.tsv hypothetical protein	CDS	44942	45091	+
+pCTU1.tsv hypothetical protein	CDS	16177	16317	-
+pCTU1.tsv hypothetical protein	CDS	66882	67022	+
+pCTU1.tsv hypothetical protein	CDS	55111	55242	+
+pCTU1.tsv hypothetical protein	CDS	78127	78255	-
+pCTU1.tsv hypothetical protein	CDS	111723	111851	+
+pCTU1.tsv hypothetical protein	CDS	3209	3334	-
+pCTU1.tsv hypothetical protein	CDS	129797	129919	+
+pCTU1.tsv hypothetical protein	CDS	44794	44910	+
+pCTU1.tsv hypothetical protein	CDS	127213	127329	-
+pCTU1.tsv hypothetical protein	CDS	24121	24234	+
+pCTU1.tsv hypothetical protein	CDS	54735	54848	-
+pCTU1.tsv iucA	CDS	98772	100520	+
+pCTU1.tsv iucB	CDS	100582	101460	+
+pCTU1.tsv iucC	CDS	101454	103202	+
+pCTU1.tsv iucD	CDS	103196	104521	+
+pCTU1.tsv iutA	CDS	104540	106741	+
+pCTU1.tsv mgtB	CDS	80161	82875	-
+pCTU1.tsv parA	CDS	108306	109502	-
+pCTU1.tsv parB	CDS	107330	108298	-
+pCTU1.tsv repA	CDS	110399	111367	+
+pCTU1.tsv tar	CDS	22208	24118	-
+pCTU1.tsv tehA	CDS	21143	22150	+
+pCTU1.tsv treZ	CDS	92714	94546	-
+pCTU1.tsv trkG	CDS	36548	38023	+
+pCTU1.tsv ycfD	CDS	83478	84632	-
+pCTU1.tsv ycgE	CDS	19745	20518	+
+pCTU1.tsv ycgF	CDS	18325	19542	+
+pCTU1.tsv ycgZ	CDS	17694	17933	-
+pCTU1.tsv ygjM	CDS	9233	9652	+
+pCTU1.tsv ygjN	CDS	8925	9236	+
+pCTU1.tsv ymjA	CDS	45289	45534	+
+pCTU1.tsv ynaJ	CDS	44424	44684	-
+pCTU2_edited.tsv Membrane protein	CDS	1267	2034	+
+pCTU2_edited.tsv transcriptional regulator	CDS	7917	8505	+
+pCTU3.tsv arsA	CDS	23855	25303	+
+pCTU3.tsv arsB	CDS	25679	26968	+
+pCTU3.tsv arsC	CDS	26981	27406	+
+pCTU3.tsv arsD	CDS	23499	23861	+
+pCTU3.tsv arsR	CDS	23037	23447	+
+pCTU3.tsv C	CDS	46402	47898	-
+pCTU3.tsv cusF	CDS	46020	46373	-
+pCTU3.tsv hypothetical protein	CDS	19475	21118	-
+pCTU3.tsv hypothetical protein	CDS	21672	22769	-
+pCTU3.tsv hypothetical protein	CDS	10429	11340	+
+pCTU3.tsv hypothetical protein	CDS	473	1315	+
+pCTU3.tsv hypothetical protein	CDS	34985	35803	-
+pCTU3.tsv hypothetical protein	CDS	12235	13038	+
+pCTU3.tsv hypothetical protein	CDS	8970	9728	+
+pCTU3.tsv hypothetical protein	CDS	14029	14769	+
+pCTU3.tsv hypothetical protein	CDS	15247	15981	-
+pCTU3.tsv hypothetical protein	CDS	16479	17150	-
+pCTU3.tsv hypothetical protein	CDS	51709	52335	-
+pCTU3.tsv hypothetical protein	CDS	4104	4700	-
+pCTU3.tsv hypothetical protein	CDS	18848	19408	-
+pCTU3.tsv hypothetical protein	CDS	28545	29072	+
+pCTU3.tsv hypothetical protein	CDS	21120	21623	-
+pCTU3.tsv hypothetical protein	CDS	17181	17678	-
+pCTU3.tsv hypothetical protein	CDS	40932	41378	-
+pCTU3.tsv hypothetical protein	CDS	27439	27873	-
+pCTU3.tsv hypothetical protein	CDS	17727	18143	-
+pCTU3.tsv hypothetical protein	CDS	37709	38092	+
+pCTU3.tsv hypothetical protein	CDS	53421	53801	+
+pCTU3.tsv hypothetical protein	CDS	25254	25631	+
+pCTU3.tsv hypothetical protein	CDS	37036	37410	+
+pCTU3.tsv hypothetical protein	CDS	27990	28343	-
+pCTU3.tsv hypothetical protein	CDS	13016	13339	-
+pCTU3.tsv hypothetical protein	CDS	50977	51300	+
+pCTU3.tsv hypothetical protein	CDS	7165	7449	+
+pCTU3.tsv hypothetical protein	CDS	13585	13827	-
+pCTU3.tsv hypothetical protein	CDS	29122	29364	-
+pCTU3.tsv hypothetical protein	CDS	3812	4051	-
+pCTU3.tsv hypothetical protein	CDS	13326	13562	-
+pCTU3.tsv hypothetical protein	CDS	14962	15189	-
+pCTU3.tsv hypothetical protein	CDS	2086	2304	-
+pCTU3.tsv hypothetical protein	CDS	18550	18762	+
+pCTU3.tsv hypothetical protein	CDS	48650	48862	+
+pCTU3.tsv hypothetical protein	CDS	8765	8968	-
+pCTU3.tsv hypothetical protein	CDS	38126	38323	-
+pCTU3.tsv hypothetical protein	CDS	194	385	+
+pCTU3.tsv hypothetical protein	CDS	29611	29802	+
+pCTU3.tsv hypothetical protein	CDS	2473	2658	-
+pCTU3.tsv hypothetical protein	CDS	22835	23020	-
+pCTU3.tsv hypothetical protein	CDS	11978	12142	+
+pCTU3.tsv hypothetical protein	CDS	5866	6021	-
+pCTU3.tsv hypothetical protein	CDS	9780	9932	-
+pCTU3.tsv hypothetical protein	CDS	5619	5759	+
+pCTU3.tsv hypothetical protein	CDS	52709	52849	+
+pCTU3.tsv hypothetical protein	CDS	16038	16175	-
+pCTU3.tsv hypothetical protein	CDS	11618	11746	+
+pCTU3.tsv hypothetical protein	CDS	29455	29574	+
+pCTU3.tsv hypothetical protein	CDS	45857	45976	+
+pCTU3.tsv hypothetical protein	CDS	29843	29956	+
+pCTU3.tsv pcoA	CDS	35710	36807	-
+pCTU3.tsv pcoB	CDS	34089	34985	-
+pCTU3.tsv pcoC	CDS	33669	34049	-
+pCTU3.tsv pcoD	CDS	32735	33664	-
+pCTU3.tsv pcoE	CDS	29953	30387	-
+pCTU3.tsv pcoR	CDS	32000	32695	-
+pCTU3.tsv pcoS	CDS	30603	32027	-
+pCTU3.tsv repA	CDS	2655	3347	-
+pCTU3.tsv resD	CDS	1239	2093	+
+pCTU3.tsv silA	CDS	41458	44604	-
+pCTU3.tsv silB	CDS	44615	45700	-
+pCTU3.tsv silE	CDS	50397	50804	+
+pCTU3.tsv silP	CDS	38364	40706	-
+pCTU3.tsv silR	CDS	47953	48657	+
+pCTU3.tsv silS	CDS	48888	50126	+
+pCTU3.tsv vagC	CDS	18140	18370	-
+pCUNV1.tsv AAA family ATPase	CDS	72374	73630	+
+pCUNV1.tsv AAA family ATPase	CDS	42917	44116	+
+pCUNV1.tsv AAA family ATPase	CDS	74197	74967	+
+pCUNV1.tsv ABC transporter ATP-binding protein	CDS	96574	97332	+
+pCUNV1.tsv ABC transporter six-transmembrane domain-containing protein	CDS	10831	11742	+
+pCUNV1.tsv ABC transporter substrate-binding protein	CDS	94530	95537	+
+pCUNV1.tsv acetyltransferase	CDS	50882	51829	-
+pCUNV1.tsv aerobactin synthase IucA	CDS	51822	53573	-
+pCUNV1.tsv alpha/beta hydrolase	CDS	121659	122480	-
+pCUNV1.tsv alpha/beta hydrolase	CDS	110854	111666	-
+pCUNV1.tsv antibiotic biosynthesis monooxygenase	CDS	123651	123974	-
+pCUNV1.tsv arsC	CDS	106621	107034	+
+pCUNV1.tsv arsenic transporter	CDS	105293	106576	+
+pCUNV1.tsv ascB	CDS	88658	90049	-
+pCUNV1.tsv autotransporter domain-containing protein	CDS	64364	67303	-
+pCUNV1.tsv bglF	CDS	90065	91903	-
+pCUNV1.tsv bglG	CDS	92041	92874	-
+pCUNV1.tsv copper-binding protein	CDS	99442	99867	+
+pCUNV1.tsv cupin domain-containing protein	CDS	67745	68866	+
+pCUNV1.tsv cytochrome b	CDS	84263	84847	-
+pCUNV1.tsv diguanylate phosphodiesterase	CDS	1	129777	-
+pCUNV1.tsv dihydrodipicolinate synthase family protein	CDS	103894	104781	+
+pCUNV1.tsv DinB family protein	CDS	11781	12269	-
+pCUNV1.tsv DMT family transporter	CDS	102991	103869	+
+pCUNV1.tsv dsbG	CDS	100753	101502	+
+pCUNV1.tsv DUF2534 family protein	CDS	99104	99364	+
+pCUNV1.tsv Exc2 family lipoprotein	CDS	77460	77861	+
+pCUNV1.tsv glgX	CDS	62227	64302	+
+pCUNV1.tsv glyoxalase	CDS	125345	125731	-
+pCUNV1.tsv GNAT family N-acetyltransferase	CDS	124075	124635	+
+pCUNV1.tsv GNAT family N-acetyltransferase	CDS	20221	20751	+
+pCUNV1.tsv GntR family transcriptional regulator	CDS	118047	118766	+
+pCUNV1.tsv HAMP domain-containing protein	CDS	126173	128080	+
+pCUNV1.tsv helix-turn-helix domain-containing protein	CDS	111782	112780	+
+pCUNV1.tsv helix-turn-helix domain-containing protein	CDS	13468	13887	-
+pCUNV1.tsv helix-turn-helix domain-containing protein	CDS	108869	109057	-
+pCUNV1.tsv helix-turn-helix transcriptional regulator	CDS	55939	56220	+
+pCUNV1.tsv hemagglutinin repeat-containing protein	CDS	26613	38762	-
+pCUNV1.tsv histidine phosphatase family protein	CDS	85378	85923	+
+pCUNV1.tsv histidine phosphatase family protein	CDS	22786	22953	-
+pCUNV1.tsv hypothetical protein	CDS	20756	21814	-
+pCUNV1.tsv hypothetical protein	CDS	113171	114109	-
+pCUNV1.tsv hypothetical protein	CDS	115208	116023	+
+pCUNV1.tsv hypothetical protein	CDS	82923	83726	-
+pCUNV1.tsv hypothetical protein	CDS	16763	17305	-
+pCUNV1.tsv hypothetical protein	CDS	107621	108097	+
+pCUNV1.tsv hypothetical protein	CDS	26136	26603	-
+pCUNV1.tsv hypothetical protein	CDS	77929	78348	-
+pCUNV1.tsv hypothetical protein	CDS	123260	123658	-
+pCUNV1.tsv hypothetical protein	CDS	23096	23491	-
+pCUNV1.tsv hypothetical protein	CDS	98386	98775	-
+pCUNV1.tsv hypothetical protein	CDS	15544	15927	-
+pCUNV1.tsv hypothetical protein	CDS	24972	25325	-
+pCUNV1.tsv hypothetical protein	CDS	25329	25673	-
+pCUNV1.tsv hypothetical protein	CDS	3967	4287	+
+pCUNV1.tsv hypothetical protein	CDS	2938	3249	-
+pCUNV1.tsv hypothetical protein	CDS	109923	110234	-
+pCUNV1.tsv hypothetical protein	CDS	1412	1711	+
+pCUNV1.tsv hypothetical protein	CDS	1752	2030	+
+pCUNV1.tsv hypothetical protein	CDS	81856	82131	-
+pCUNV1.tsv hypothetical protein	CDS	85071	85337	+
+pCUNV1.tsv hypothetical protein	CDS	67428	67595	-
+pCUNV1.tsv hypothetical protein	CDS	25747	25842	-
+pCUNV1.tsv iron ABC transporter permease	CDS	95537	96577	+
+pCUNV1.tsv iucC	CDS	49140	50885	-
+pCUNV1.tsv LysR family transcriptional regulator	CDS	6894	7793	+
+pCUNV1.tsv LysR family transcriptional regulator	CDS	5898	6791	+
+pCUNV1.tsv MBL fold hydrolase	CDS	79033	79824	-
+pCUNV1.tsv MCP four helix bundle domain-containing protein	CDS	80097	81755	+
+pCUNV1.tsv MerR family transcriptional regulator	CDS	128183	128926	-
+pCUNV1.tsv metallophosphoesterase	CDS	2163	2903	+
+pCUNV1.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	104871	105206	+
+pCUNV1.tsv methyl-accepting chemotaxis protein	CDS	75338	77284	+
+pCUNV1.tsv MFS transporter	CDS	4247	5782	-
+pCUNV1.tsv MFS transporter	CDS	8567	9874	-
+pCUNV1.tsv MFS transporter	CDS	93054	94289	-
+pCUNV1.tsv MFS transporter	CDS	53709	54920	+
+pCUNV1.tsv MFS transporter	CDS	18717	19922	-
+pCUNV1.tsv mgtA	CDS	69453	72167	+
+pCUNV1.tsv NAD(P)H-dependent oxidoreductase	CDS	110250	110873	-
+pCUNV1.tsv nuclear transport factor 2 family protein	CDS	12945	13301	+
+pCUNV1.tsv NUDIX domain-containing protein	CDS	12420	12863	+
+pCUNV1.tsv omptin family outer membrane protease	CDS	17433	18371	-
+pCUNV1.tsv ParB/RepB/Spo0J family partition protein	CDS	44124	45092	+
+pCUNV1.tsv PLP-dependent aminotransferase family protein	CDS	101564	102898	-
+pCUNV1.tsv PTS transporter subunit EIIC	CDS	120233	121609	+
+pCUNV1.tsv RepB family plasmid replication initiator protein	CDS	41055	42068	-
+pCUNV1.tsv response regulator transcription factor	CDS	108137	108715	+
+pCUNV1.tsv rhomboid protein	CDS	21927	22694	-
+pCUNV1.tsv RNA polymerase sigma factor	CDS	83723	84238	-
+pCUNV1.tsv SDR family oxidoreductase	CDS	85969	86643	+
+pCUNV1.tsv sensor domain-containing diguanylate cyclase	CDS	116116	117693	-
+pCUNV1.tsv ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	38776	40440	-
+pCUNV1.tsv SidA/IucD/PvdA family monooxygenase	CDS	47821	49143	-
+pCUNV1.tsv siderophore-interacting protein	CDS	54917	55804	+
+pCUNV1.tsv SMI1/KNR4 family protein	CDS	97761	98282	-
+pCUNV1.tsv Starvation sensing protein RspA	CDS	118754	119953	-
+pCUNV1.tsv substrate-binding domain-containing protein	CDS	7768	8574	-
+pCUNV1.tsv TetR family transcriptional regulator	CDS	10173	10730	-
+pCUNV1.tsv TetR/AcrR family transcriptional regulator	CDS	3246	3872	-
+pCUNV1.tsv thioredoxin family protein	CDS	99914	100756	+
+pCUNV1.tsv thioredoxin fold domain-containing protein	CDS	124629	125189	-
+pCUNV1.tsv TonB-dependent siderophore receptor	CDS	45603	47798	-
+pCUNV1.tsv transcriptional regulator	CDS	14599	15489	+
+pCUNV1.tsv treY	CDS	59627	62158	+
+pCUNV1.tsv treZ	CDS	57846	59630	+
+pCUNV1.tsv two-component-system connector protein YcgZ	CDS	1003	1242	+
+pCUNV1.tsv type II toxin-antitoxin system HigB family toxin	CDS	13884	14195	-
+pCUNV1.tsv type II toxin-antitoxin system HipA family toxin	CDS	56223	57542	+
+pCUNV1.tsv type VI secretion system tube protein Hcp	CDS	114128	114610	-
+pCUNV1.tsv tyrosine-type recombinase/integrase	CDS	86673	87656	-
+pCUNV1.tsv winged helix-turn-helix transcriptional regulator	CDS	122562	123287	-
+pCUNV1.tsv YafY family transcriptional regulator	CDS	15984	16679	-
+pCUNV1.tsv YceI family protein	CDS	82342	82908	+
+pCUNV1.tsv YmjA family protein	CDS	97399	97644	-
+pCUNV1.tsv zinc ABC transporter substrate-binding protein	CDS	23670	23972	-
+pCsaCS09a.tsv AAA family ATPase	CDS	99599	100783	-
+pCsaCS09a.tsv ABC transporter ATP-binding protein	CDS	75323	76081	-
+pCsaCS09a.tsv ABC transporter substrate-binding protein	CDS	77118	78101	-
+pCsaCS09a.tsv AcrB/AcrD/AcrF family protein	CDS	14903	17953	+
+pCsaCS09a.tsv aerobactin synthase IucA	CDS	119633	121381	+
+pCsaCS09a.tsv alpha/beta hydrolase	CDS	35309	36130	+
+pCsaCS09a.tsv amino acid-binding protein	CDS	34131	34529	+
+pCsaCS09a.tsv antibiotic biosynthesis monooxygenase	CDS	33815	34138	+
+pCsaCS09a.tsv arsC	CDS	47531	47944	-
+pCsaCS09a.tsv arsenical efflux pump membrane protein ArsB	CDS	47989	49272	-
+pCsaCS09a.tsv ArsR family transcriptional regulator	CDS	34502	35227	+
+pCsaCS09a.tsv autotransporter domain-containing protein	CDS	105908	108847	+
+pCsaCS09a.tsv cell envelope biogenesis protein OmpA	CDS	57772	59475	+
+pCsaCS09a.tsv clpV	CDS	60133	62793	+
+pCsaCS09a.tsv copper-binding protein	CDS	72781	73239	-
+pCsaCS09a.tsv CpmJ protein	CDS	7546	8088	+
+pCsaCS09a.tsv CpmK protein	CDS	8133	8624	+
+pCsaCS09a.tsv cupin domain-containing protein	CDS	104345	105466	-
+pCsaCS09a.tsv darcynin	CDS	24484	24804	-
+pCsaCS09a.tsv diguanylate cyclase	CDS	18975	19460	+
+pCsaCS09a.tsv diguanylate phosphodiesterase	CDS	28157	29374	+
+pCsaCS09a.tsv dihydrodipicolinate synthase family protein	CDS	49785	50672	-
+pCsaCS09a.tsv DNA-binding response regulator	CDS	11793	12485	+
+pCsaCS09a.tsv drug:proton antiporter	CDS	9409	9792	+
+pCsaCS09a.tsv DUF255 domain-containing protein	CDS	70713	72734	-
+pCsaCS09a.tsv DUF2534 domain-containing protein	CDS	73284	73544	-
+pCsaCS09a.tsv DUF2543 domain-containing protein	CDS	75003	75248	+
+pCsaCS09a.tsv DUF2931 domain-containing protein	CDS	67767	68414	+
+pCsaCS09a.tsv EamA/RhaT family transporter	CDS	50697	51575	-
+pCsaCS09a.tsv efflux RND transporter periplasmic adaptor subunit	CDS	13754	14902	+
+pCsaCS09a.tsv four-helix bundle copper-binding protein	CDS	45554	45880	+
+pCsaCS09a.tsv GGDEF domain-containing protein	CDS	40978	42441	+
+pCsaCS09a.tsv glgX	CDS	108909	110984	-
+pCsaCS09a.tsv glutathione S-transferase family protein	CDS	94690	95286	+
+pCsaCS09a.tsv glyoxalase	CDS	32774	33160	+
+pCsaCS09a.tsv GntR family transcriptional regulator	CDS	39020	39739	-
+pCsaCS09a.tsv guaD	CDS	92791	94110	-
+pCsaCS09a.tsv Hcp1 family type VI secretion system effector	CDS	43893	44375	+
+pCsaCS09a.tsv helicase	CDS	84994	88155	+
+pCsaCS09a.tsv helix-turn-helix-type transcriptional regulator	CDS	29609	30352	+
+pCsaCS09a.tsv histidine phosphatase family protein	CDS	1338	1955	+
+pCsaCS09a.tsv histidine phosphatase family protein	CDS	88883	89452	-
+pCsaCS09a.tsv hypothetical protein	CDS	83184	85001	+
+pCsaCS09a.tsv hypothetical protein	CDS	81967	83190	+
+pCsaCS09a.tsv hypothetical protein	CDS	2945	4003	+
+pCsaCS09a.tsv hypothetical protein	CDS	44394	45332	+
+pCsaCS09a.tsv hypothetical protein	CDS	19501	20430	-
+pCsaCS09a.tsv hypothetical protein	CDS	42524	43339	-
+pCsaCS09a.tsv hypothetical protein	CDS	68754	69542	+
+pCsaCS09a.tsv hypothetical protein	CDS	98258	99028	-
+pCsaCS09a.tsv hypothetical protein	CDS	2054	2821	+
+pCsaCS09a.tsv hypothetical protein	CDS	66992	67672	+
+pCsaCS09a.tsv hypothetical protein	CDS	63369	63800	+
+pCsaCS09a.tsv hypothetical protein	CDS	73872	74261	+
+pCsaCS09a.tsv hypothetical protein	CDS	95326	95652	-
+pCsaCS09a.tsv hypothetical protein	CDS	25512	25823	+
+pCsaCS09a.tsv hypothetical protein	CDS	27048	27347	-
+pCsaCS09a.tsv hypothetical protein	CDS	89465	89734	-
+pCsaCS09a.tsv hypothetical protein	CDS	43559	43804	+
+pCsaCS09a.tsv hypothetical protein	CDS	73652	73849	+
+pCsaCS09a.tsv hypothetical protein	CDS	127766	127960	-
+pCsaCS09a.tsv integrase	CDS	80898	81872	+
+pCsaCS09a.tsv iron ABC transporter permease	CDS	76078	77118	-
+pCsaCS09a.tsv IucA/IucC family siderophore biosynthesis protein	CDS	122318	124063	+
+pCsaCS09a.tsv lysine 6-monooxygenase	CDS	124060	125382	+
+pCsaCS09a.tsv LysR family transcriptional regulator	CDS	23449	24348	-
+pCsaCS09a.tsv MBL fold metallo-hydrolase	CDS	91970	92770	+
+pCsaCS09a.tsv metallophosphoesterase	CDS	25858	26598	-
+pCsaCS09a.tsv methyl-accepting chemotaxis protein	CDS	95951	97897	-
+pCsaCS09a.tsv methyl-accepting chemotaxis protein	CDS	30431	32341	-
+pCsaCS09a.tsv methyl-accepting chemotaxis protein	CDS	90018	91676	-
+pCsaCS09a.tsv MFS transporter	CDS	21368	22675	+
+pCsaCS09a.tsv MFS transporter	CDS	78365	79600	+
+pCsaCS09a.tsv MFS transporter	CDS	118286	119497	-
+pCsaCS09a.tsv MFS transporter	CDS	4835	6043	+
+pCsaCS09a.tsv mgtA	CDS	101063	103777	-
+pCsaCS09a.tsv MipA/OmpV family protein	CDS	10898	11668	-
+pCsaCS09a.tsv molybdenum ABC transporter substrate-binding protein	CDS	22668	23474	+
+pCsaCS09a.tsv N-acetyltransferase	CDS	121374	122321	+
+pCsaCS09a.tsv N-acetyltransferase	CDS	4008	4538	-
+pCsaCS09a.tsv N-acetyltransferase	CDS	33198	33713	-
+pCsaCS09a.tsv NINE protein	CDS	39935	40228	-
+pCsaCS09a.tsv nuclear transport factor 2 family protein	CDS	17945	18301	-
+pCsaCS09a.tsv nuclear transport factor 2 family protein	CDS	40367	40714	+
+pCsaCS09a.tsv NUDIX domain-containing protein	CDS	18382	18825	-
+pCsaCS09a.tsv omptin family outer membrane protease	CDS	6359	7297	+
+pCsaCS09a.tsv PAAR domain-containing protein	CDS	68484	68750	+
+pCsaCS09a.tsv ParA family protein	CDS	129103	130302	-
+pCsaCS09a.tsv ParB/RepB/Spo0J family partition protein	CDS	128127	129095	-
+pCsaCS09a.tsv PLP-dependent aminotransferase family protein	CDS	51667	53001	+
+pCsaCS09a.tsv potassium transporter TrkG	CDS	46003	47478	+
+pCsaCS09a.tsv PTS sugar transporter	CDS	36177	37553	-
+pCsaCS09a.tsv RepB family plasmid replication initiator protein	CDS	1	131195	+
+pCsaCS09a.tsv SDR family oxidoreductase	CDS	88162	88836	-
+pCsaCS09a.tsv siderophore-interacting protein	CDS	117405	118289	-
+pCsaCS09a.tsv SMI1/KNR4 family protein	CDS	74364	74885	+
+pCsaCS09a.tsv starvation-sensing protein RspA	CDS	37833	39032	+
+pCsaCS09a.tsv TetR family transcriptional regulator	CDS	20512	21069	+
+pCsaCS09a.tsv TetR/AcrR family transcriptional regulator	CDS	24900	25490	+
+pCsaCS09a.tsv thiol:disulfide interchange protein DsbG	CDS	69967	70716	-
+pCsaCS09a.tsv TonB-dependent siderophore receptor	CDS	125405	127600	+
+pCsaCS09a.tsv transcriptional regulator	CDS	9846	10736	-
+pCsaCS09a.tsv transcriptional regulator	CDS	49360	49695	-
+pCsaCS09a.tsv transcriptional regulator	CDS	116993	117274	-
+pCsaCS09a.tsv treY	CDS	111053	113584	-
+pCsaCS09a.tsv treZ	CDS	113581	115365	-
+pCsaCS09a.tsv tssB	CDS	53694	54191	+
+pCsaCS09a.tsv tssC	CDS	54232	55767	+
+pCsaCS09a.tsv tssJ	CDS	69544	69933	+
+pCsaCS09a.tsv tssK	CDS	55778	57118	+
+pCsaCS09a.tsv two-component sensor histidine kinase	CDS	12482	13660	+
+pCsaCS09a.tsv two-component-system connector protein AriR	CDS	26732	27010	-
+pCsaCS09a.tsv two-component-system connector protein YcgZ	CDS	27517	27756	-
+pCsaCS09a.tsv type II toxin-antitoxin system HipA family toxin	CDS	115671	116990	-
+pCsaCS09a.tsv type IV secretion protein Rhs	CDS	62786	63339	+
+pCsaCS09a.tsv type VI secretion system protein ImpK	CDS	57115	57768	+
+pCsaCS09a.tsv type VI secretion system tip protein VgrG	CDS	64086	66995	+
+pCsaCS09a.tsv type VI secretion system tube protein Hcp	CDS	59490	59981	+
+pCsaCS09a.tsv YafY family transcriptional regulator	CDS	8657	9352	+
+pESA2.tsv cag pathogenicity island Cag12 family protein	CDS	29877	30275	+
+pESA2.tsv cupin domain-containing protein	CDS	10536	10892	-
+pESA2.tsv DNA cytosine methyltransferase	CDS	6477	7724	-
+pESA2.tsv DUF86 domain-containing protein	CDS	10882	11283	-
+pESA2.tsv EexN family lipoprotein	CDS	24400	24627	+
+pESA2.tsv helix-turn-helix transcriptional regulator	CDS	18344	18700	-
+pESA2.tsv hypothetical protein	CDS	5552	6475	-
+pESA2.tsv hypothetical protein	CDS	2497	3246	+
+pESA2.tsv hypothetical protein	CDS	9458	9958	-
+pESA2.tsv hypothetical protein	CDS	14703	15182	+
+pESA2.tsv hypothetical protein	CDS	9090	9461	-
+pESA2.tsv hypothetical protein	CDS	3814	4158	+
+pESA2.tsv hypothetical protein	CDS	9955	10281	-
+pESA2.tsv hypothetical protein	CDS	30302	30607	+
+pESA2.tsv hypothetical protein	CDS	30887	31192	+
+pESA2.tsv hypothetical protein	CDS	4197	4430	-
+pESA2.tsv hypothetical protein	CDS	19691	19912	+
+pESA2.tsv hypothetical protein	CDS	19472	19687	+
+pESA2.tsv lytic transglycosylase domain-containing protein	CDS	19928	20638	+
+pESA2.tsv nucleotidyltransferase	CDS	11280	11570	-
+pESA2.tsv ParA family protein	CDS	4471	5118	-
+pESA2.tsv phosphoribosyltransferase	CDS	15496	16236	-
+pESA2.tsv recombinase family protein	CDS	8539	9096	-
+pESA2.tsv RepA protein	CDS	17182	17835	-
+pESA2.tsv thermonuclease family protein	CDS	3284	3757	+
+pESA2.tsv Tn3-like element ISPa38 family transposase	CDS	11729	14695	+
+pESA2.tsv transcriptional antiterminator NusG	CDS	18948	19397	+
+pESA2.tsv TrbC/VirB2 family protein	CDS	20635	20913	+
+pESA2.tsv type IV secretion system DNA-binding domain-containing protein	CDS	752	2488	+
+pESA2.tsv type IV secretion system protein	CDS	24639	25715	+
+pESA2.tsv type IV secretion system protein	CDS	23686	24390	+
+pESA2.tsv type IV secretion system protein	CDS	25923	26606	+
+pESA2.tsv type VI secretion protein	CDS	27554	28858	+
+pESA2.tsv VirB3 family type IV secretion system protein	CDS	20926	23670	+
+pESA2.tsv virB9	CDS	26603	27511	+
+pESA2.tsv virB11	CDS	28855	29880	+
+pESA3.tsv 2-dehydro-3-deoxy-6-phosphogalactonate aldolase	CDS	37453	38652	+
+pESA3.tsv AAA family ATPase	CDS	99219	100475	-
+pESA3.tsv AAA family ATPase	CDS	128723	129922	-
+pESA3.tsv AAA family ATPase	CDS	97878	98648	-
+pESA3.tsv ABC transporter ATP-binding protein	CDS	74943	75701	-
+pESA3.tsv ABC transporter six-transmembrane domain-containing protein	CDS	19120	20031	-
+pESA3.tsv ABC transporter substrate-binding protein	CDS	76738	77721	-
+pESA3.tsv acetyltransferase	CDS	120994	121941	+
+pESA3.tsv aerobactin synthase IucA	CDS	119253	121001	+
+pESA3.tsv alpha/beta hydrolase	CDS	34929	35750	+
+pESA3.tsv amino acid-binding protein	CDS	33751	34149	+
+pESA3.tsv antibiotic biosynthesis monooxygenase	CDS	33435	33758	+
+pESA3.tsv arsC	CDS	47151	47564	-
+pESA3.tsv arsenic transporter	CDS	47609	48892	-
+pESA3.tsv autotransporter domain-containing protein	CDS	105528	108467	+
+pESA3.tsv cupin domain-containing protein	CDS	103965	105086	-
+pESA3.tsv diguanylate phosphodiesterase	CDS	27777	28994	+
+pESA3.tsv dihydrodipicolinate synthase family protein	CDS	49405	50292	-
+pESA3.tsv DinB family protein	CDS	18594	19079	+
+pESA3.tsv DMT family transporter	CDS	50317	51195	-
+pESA3.tsv drug:proton antiporter	CDS	9028	9411	+
+pESA3.tsv dsbG	CDS	69587	70336	-
+pESA3.tsv DUF2534 family protein	CDS	72904	73164	-
+pESA3.tsv DUF2931 family protein	CDS	67387	68034	+
+pESA3.tsv DUF4440 domain-containing protein	CDS	39987	40334	+
+pESA3.tsv efflux RND transporter periplasmic adaptor subunit	CDS	13373	14521	+
+pESA3.tsv efflux RND transporter permease subunit	CDS	14522	17572	+
+pESA3.tsv exc2	CDS	94946	95347	-
+pESA3.tsv four-helix bundle copper-binding protein	CDS	45174	45500	+
+pESA3.tsv glgX	CDS	108529	110604	-
+pESA3.tsv glutathione S-transferase family protein	CDS	94310	94906	+
+pESA3.tsv GNAT family N-acetyltransferase	CDS	32818	33357	-
+pESA3.tsv GNAT family N-acetyltransferase	CDS	3627	4157	-
+pESA3.tsv GntR family transcriptional regulator	CDS	38640	39359	-
+pESA3.tsv guaD	CDS	92411	93727	-
+pESA3.tsv HAMP domain-containing protein	CDS	30051	31961	-
+pESA3.tsv Hcp family type VI secretion system effector	CDS	59110	59601	+
+pESA3.tsv helicase	CDS	84614	87775	+
+pESA3.tsv helix-turn-helix domain-containing protein	CDS	116613	116894	-
+pESA3.tsv histidine phosphatase family protein	CDS	957	1574	+
+pESA3.tsv histidine phosphatase family protein	CDS	88503	89072	-
+pESA3.tsv hypothetical protein	CDS	81587	82810	+
+pESA3.tsv hypothetical protein	CDS	2564	3622	+
+pESA3.tsv hypothetical protein	CDS	44014	44952	+
+pESA3.tsv hypothetical protein	CDS	9465	10355	-
+pESA3.tsv hypothetical protein	CDS	68374	69198	+
+pESA3.tsv hypothetical protein	CDS	42144	42959	-
+pESA3.tsv hypothetical protein	CDS	66669	67292	+
+pESA3.tsv hypothetical protein	CDS	7165	7707	+
+pESA3.tsv hypothetical protein	CDS	7704	8243	+
+pESA3.tsv hypothetical protein	CDS	72401	72859	-
+pESA3.tsv hypothetical protein	CDS	62989	63420	+
+pESA3.tsv hypothetical protein	CDS	73492	73881	+
+pESA3.tsv hypothetical protein	CDS	32394	32780	+
+pESA3.tsv hypothetical protein	CDS	24104	24424	-
+pESA3.tsv hypothetical protein	CDS	25132	25443	+
+pESA3.tsv hypothetical protein	CDS	26668	26967	-
+pESA3.tsv hypothetical protein	CDS	89085	89354	-
+pESA3.tsv hypothetical protein	CDS	105236	105403	+
+pESA3.tsv iron ABC transporter permease	CDS	75698	76738	-
+pESA3.tsv iucC	CDS	121938	123683	+
+pESA3.tsv LysR family transcriptional regulator	CDS	23069	23968	-
+pESA3.tsv MBL fold metallo-hydrolase	CDS	91590	92390	+
+pESA3.tsv MCP four helix bundle domain-containing protein	CDS	89638	91296	-
+pESA3.tsv membrane protein	CDS	1673	2440	+
+pESA3.tsv MerR family transcriptional regulator	CDS	29229	29972	+
+pESA3.tsv metallophosphoesterase	CDS	25478	26218	-
+pESA3.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	48980	49315	-
+pESA3.tsv methyl-accepting chemotaxis protein	CDS	95571	97517	-
+pESA3.tsv MFS transporter	CDS	20988	22295	+
+pESA3.tsv MFS transporter	CDS	77985	79220	+
+pESA3.tsv MFS transporter	CDS	117906	119117	-
+pESA3.tsv MFS transporter	CDS	4454	5662	+
+pESA3.tsv mgtA	CDS	100683	103397	-
+pESA3.tsv MipA/OmpV family protein	CDS	10517	11287	-
+pESA3.tsv NINE protein	CDS	39555	39848	-
+pESA3.tsv nuclear transport factor 2 family protein	CDS	17564	17920	-
+pESA3.tsv NUDIX domain-containing protein	CDS	18001	18444	-
+pESA3.tsv OmpA family protein	CDS	57392	59095	+
+pESA3.tsv omptin family outer membrane protease	CDS	5978	6916	+
+pESA3.tsv PAAR domain-containing protein	CDS	68104	68370	+
+pESA3.tsv ParB/RepB/Spo0J family partition protein	CDS	127747	128715	-
+pESA3.tsv phospholipase D family protein	CDS	82804	84621	+
+pESA3.tsv PLP-dependent aminotransferase family protein	CDS	51287	52621	+
+pESA3.tsv potassium transporter TrkG	CDS	45623	47098	+
+pESA3.tsv PTS transporter subunit EIIC	CDS	35797	37173	-
+pESA3.tsv RepB family plasmid replication initiator protein	CDS	1	131196	+
+pESA3.tsv response regulator transcription factor	CDS	11412	12104	+
+pESA3.tsv SDR family oxidoreductase	CDS	87782	88456	-
+pESA3.tsv sensor domain-containing diguanylate cyclase	CDS	40484	42061	+
+pESA3.tsv SidA/IucD/PvdA family monooxygenase	CDS	123680	125002	+
+pESA3.tsv siderophore-interacting protein	CDS	117025	117909	-
+pESA3.tsv SMI1/KNR4 family protein	CDS	73984	74505	+
+pESA3.tsv substrate-binding domain-containing protein	CDS	22288	23094	+
+pESA3.tsv TetR family transcriptional regulator	CDS	20132	20689	+
+pESA3.tsv TetR/AcrR family transcriptional regulator	CDS	24520	25110	+
+pESA3.tsv thioredoxin family protein	CDS	70333	72354	-
+pESA3.tsv TonB-dependent siderophore receptor	CDS	125025	127220	+
+pESA3.tsv treY	CDS	110673	113204	-
+pESA3.tsv treZ	CDS	113201	114985	-
+pESA3.tsv tssB	CDS	53314	53811	+
+pESA3.tsv tssC	CDS	53846	55387	+
+pESA3.tsv tssH	CDS	59753	62413	+
+pESA3.tsv tssJ	CDS	69164	69553	+
+pESA3.tsv tssK	CDS	55398	56738	+
+pESA3.tsv two-component sensor histidine kinase	CDS	12101	13279	+
+pESA3.tsv two-component-system connector protein AriR	CDS	26352	26630	-
+pESA3.tsv two-component-system connector protein YcgZ	CDS	27137	27376	-
+pESA3.tsv type II toxin-antitoxin system HipA family toxin	CDS	115291	116610	-
+pESA3.tsv type IV secretion protein Rhs	CDS	62406	62959	+
+pESA3.tsv type VI secretion system protein TssL, short form	CDS	56735	57388	+
+pESA3.tsv type VI secretion system tube protein Hcp	CDS	43513	43995	+
+pESA3.tsv tyrosine-type recombinase/integrase	CDS	80518	81492	+
+pESA3.tsv vgrG	CDS	63706	66615	+
+pESA3.tsv winged helix-turn-helix transcriptional regulator	CDS	34122	34847	+
+pESA3.tsv YafY family transcriptional regulator	CDS	8276	8971	+
+pESA3.tsv YmjA family protein	CDS	74623	74868	+
+pGK1025_3.tsv cobalamin biosynthesis protein CbiX	CDS	9	188	+
+pGK1025_3.tsv hypothetical protein	CDS	372	605	-
+pGK1025_3.tsv StbC;pseudo	CDS	911	1277	-
+pGK1025_3.tsv StdB protein	CDS	1279	1803	-
+pGK1025_3.tsv plasmid stabilization protein	CDS	1796	1993	-
+pGK1025_3.tsv hypothetical protein	CDS	2002	2433	-
+pGK1025_3.tsv traK protein	CDS	2957	3373	+
+pGK1025_3.tsv type IV secretion system DNA-binding domain-containing protein	CDS	3375	4904	+
+pGK1025_3.tsv conjugative relaxase;pseudo	CDS	4904	8131	+
+pGK1025_3.tsv hypothetical protein	CDS	8131	8751	+
+pGK1025_3.tsv hypothetical protein	CDS	8790	9128	+
+pGK1025_3.tsv phospholipase D family protein	CDS	9308	9841	-
+pGK1025_3.tsv P-type DNA transfer ATPase VirB11	CDS	9841	10836	-
+pGK1025_3.tsv type IV secretion system protein VirB10;pseudo	CDS	10878	12040	-
+pGK1025_3.tsv TrbG/VirB9 family P-type conjugative transfer protein	CDS	12040	12924	-
+pGK1025_3.tsv type IV secretion system protein	CDS	12935	13633	-
+pGK1025_3.tsv type IV secretion system protein	CDS	13852	14889	-
+pGK1025_3.tsv IncN-type entry exclusion lipoprotein EexN	CDS	14905	15129	-
+pGK1025_3.tsv type IV secretion system protein	CDS	15137	15850	-
+pGK1025_3.tsv VirB4 family type IV secretion/conjugal transfer ATPase;pseudo	CDS	15868	18469	-
+pGK1025_3.tsv VirB3 family type IV secretion system protein	CDS	18469	18786	-
+pGK1025_3.tsv conjugal transfer protein TraM	CDS	18836	19126	-
+pGK1025_3.tsv transcriptional regulator	CDS	19136	19417	-
+pGK1025_3.tsv lytic transglycosylase domain-containing protein	CDS	19426	20160	-
+pGK1025_3.tsv H-NS histone family protein	CDS	20269	20574	+
+pGK1025_3.tsv hypothetical protein	CDS	20590	20934	+
+pGK1025_3.tsv IncN plasmid KikA protein	CDS	20931	21245	+
+pGK1025_3.tsv hypothetical protein	CDS	21291	21602	+
+pGK1025_3.tsv restriction endonuclease	CDS	21657	22229	+
+pGK1025_3.tsv hypothetical protein	CDS	22206	22442	-
+pGK1025_3.tsv hypothetical protein	CDS	22533	22871	-
+pGK1025_3.tsv type II toxin-antitoxin system PemK/MazF family toxin	CDS	22944	23198	-
+pGK1025_3.tsv AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	23199	23429	-
+pGK1025_3.tsv recombinase family protein	CDS	23655	24224	+
+pGK1025_3.tsv replication initiation protein	CDS	25262	25981	-
+pGK1025_3.tsv transcriptional regulator KorA	CDS	26542	26868	+
+pGK1025_3.tsv hypothetical protein	CDS	26971	27189	+
+pGK1025_3.tsv SprT-like domain-containing protein	CDS	27205	27987	-
+pGK1025_3.tsv translesion error-prone DNA polymerase V subunit MucB;pseudo	CDS	28138	29402	-
+pGK1025_3.tsv translesion error-prone DNA polymerase V autoproteolytic subunit	CDS	29390	29830	-
+pGK1025_3.tsv hypothetical protein	CDS	30368	30745	+
+pGK1025_3.tsv DGQHR domain-containing protein	CDS	30797	32071	+
+pGK1025_3.tsv hypothetical protein	CDS	32132	32440	+
+pGK1025_3.tsv antirestriction protein	CDS	32567	32992	+
+pGK1025_3.tsv antirestriction protein ArdR	CDS	33119	33460	+
+pGK1025_3.tsv hypothetical protein	CDS	33465	34181	+
+pGK1025_3.tsv cobalamin biosynthesis protein CbiX	CDS	34979	35281	+
+pGK1025_3.tsv DUF905 domain-containing protein	CDS	35318	35524	+
+pGK1025_3.tsv hypothetical protein	CDS	36011	36778	+
+pGK1025_3.tsv cobalamin biosynthesis protein CbiX	CDS	36934	37218	+
+pGK1025_3.tsv hypothetical protein	CDS	37345	37584	+
+pGK1025_3.tsv recombinase family protein	CDS	38093	38650	-
+pGK1025_3.tsv hypothetical protein	CDS	38644	39015	-
+pGK1025_3.tsv transposase	CDS	39012	39512	-
+pGK1025_3.tsv hypothetical protein	CDS	39509	39835	-
+pGK1025_3.tsv cupin domain-containing protein	CDS	40090	40446	-
+pGK1025_3.tsv DUF86 domain-containing protein	CDS	40436	40837	-
+pGK1025_3.tsv nucleotidyltransferase	CDS	40834	41124	-
+pGK1025_3.tsv Tn3-like element ISPa38 family transposase	CDS	41245	44247	+
+pGK1025_3.tsv hypothetical protein	CDS	44365	44853	+
+pGK1025_3.tsv hypothetical protein	CDS	44942	45274	+
+pGW1.tsv 2-oxo-tetronate isomerase	CDS	6259	6837	+
+pGW1.tsv AAA family ATPase	CDS	251869	252927	-
+pGW1.tsv AAA family ATPase	CDS	50948	51490	+
+pGW1.tsv aac(3)-IId	CDS	50075	50935	+
+pGW1.tsv aac(3)-IIg	CDS	335389	336198	+
+pGW1.tsv aac(6')-IIc	CDS	332723	333304	+
+pGW1.tsv alpha-2-macroglobulin family protein	CDS	11797	12591	-
+pGW1.tsv aminoglycoside O-phosphotransferase APH(3')-Ia	CDS	106293	107108	-
+pGW1.tsv aminoglycoside O-phosphotransferase APH(6)-Id	CDS	68912	69748	+
+pGW1.tsv ampR	CDS	14036	14911	+
+pGW1.tsv ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	CDS	45809	46600	-
+pGW1.tsv aph(3'')-Ib	CDS	68109	68912	+
+pGW1.tsv arsC	CDS	97720	98145	-
+pGW1.tsv arsenic transporter	CDS	98158	99447	-
+pGW1.tsv arsH	CDS	99900	100604	+
+pGW1.tsv ATP-dependent helicase	CDS	187137	188807	+
+pGW1.tsv ATP-dependent helicase	CDS	209843	210223	+
+pGW1.tsv ATP-grasp domain-containing protein	CDS	219419	220477	+
+pGW1.tsv cation transporter	CDS	157639	158562	-
+pGW1.tsv chrA	CDS	37206	38411	+
+pGW1.tsv class A broad-spectrum beta-lactamase TEM-1	CDS	55907	56767	+
+pGW1.tsv class A extended-spectrum beta-lactamase SFO-1	CDS	26538	27425	-
+pGW1.tsv class C beta-lactamase DHA-1	CDS	12786	13925	-
+pGW1.tsv conjugal transfer protein TraG N-terminal domain-containing protein	CDS	126048	129998	-
+pGW1.tsv conjugal transfer protein TraM	CDS	76897	77106	+
+pGW1.tsv conjugal transfer protein TraX	CDS	32665	33435	+
+pGW1.tsv cupin domain-containing protein	CDS	192159	192515	-
+pGW1.tsv cysteine protease StiP family protein	CDS	222397	223476	+
+pGW1.tsv cytochrome b/b6 domain-containing protein	CDS	158762	159334	-
+pGW1.tsv Dam family site-specific DNA-(adenine-N6)-methyltransferase	CDS	301891	302703	-
+pGW1.tsv DDE-type integrase/transposase/recombinase	CDS	206730	208412	-
+pGW1.tsv dfrA12	CDS	47008	47505	-
+pGW1.tsv dfrA19	CDS	65766	66335	+
+pGW1.tsv DNA cytosine methyltransferase	CDS	89495	90922	-
+pGW1.tsv DNA cytosine methyltransferase	CDS	71705	73108	-
+pGW1.tsv DsbA family protein	CDS	119688	120497	-
+pGW1.tsv DUF86 domain-containing protein	CDS	192505	192906	-
+pGW1.tsv DUF421 domain-containing protein	CDS	5865	6311	+
+pGW1.tsv DUF957 domain-containing protein	CDS	168471	168782	-
+pGW1.tsv DUF1010 domain-containing protein	CDS	46606	46896	-
+pGW1.tsv DUF1173 family protein	CDS	87925	89244	-
+pGW1.tsv DUF3085 domain-containing protein	CDS	167975	168466	-
+pGW1.tsv DUF3150 domain-containing protein	CDS	250373	251500	-
+pGW1.tsv DUF3330 domain-containing protein	CDS	203571	203891	+
+pGW1.tsv DUF3883 domain-containing protein	CDS	52465	53601	+
+pGW1.tsv DUF4102 domain-containing protein	CDS	180384	180560	+
+pGW1.tsv DUF4165 domain-containing protein	CDS	308177	310633	+
+pGW1.tsv DUF4225 domain-containing protein	CDS	33868	34674	-
+pGW1.tsv DUF4236 domain-containing protein	CDS	224443	225651	+
+pGW1.tsv DUF4400 domain-containing protein	CDS	142679	143341	+
+pGW1.tsv DUF4942 domain-containing protein	CDS	304484	306175	+
+pGW1.tsv DUF4942 domain-containing protein	CDS	85625	86443	+
+pGW1.tsv DUF5417 domain-containing protein	CDS	153107	154051	+
+pGW1.tsv EAL domain-containing protein	CDS	22004	22672	+
+pGW1.tsv ere(A) CDS	337620	338660	+
+pGW1.tsv EreA family erythromycin esterase	CDS	333510	333698	+
+pGW1.tsv ethidium bromide resistance protein	CDS	15173	15508	+
+pGW1.tsv flavin reductase	CDS	317872	318909	+
+pGW1.tsv GNAT family N-acetyltransferase	CDS	43837	44337	-
+pGW1.tsv H-NS histone family protein	CDS	75446	75796	-
+pGW1.tsv helix-turn-helix domain containing protein	CDS	110969	111364	-
+pGW1.tsv helix-turn-helix domain-containing protein	CDS	184794	184859	-
+pGW1.tsv helix-turn-helix transcriptional regulator	CDS	38422	38727	+
+pGW1.tsv HNH endonuclease	CDS	124348	125409	+
+pGW1.tsv HNH endonuclease	CDS	329589	329990	+
+pGW1.tsv HpcH/HpaI aldolase/citrate lyase family protein	CDS	223476	224432	+
+pGW1.tsv htdT	CDS	287144	287896	-
+pGW1.tsv hypA	CDS	14915	15280	-
+pGW1.tsv hypothetical protein	CDS	262997	264508	-
+pGW1.tsv hypothetical protein	CDS	86440	87645	+
+pGW1.tsv hypothetical protein	CDS	150819	152003	-
+pGW1.tsv hypothetical protein	CDS	303073	304236	+
+pGW1.tsv hypothetical protein	CDS	141583	142692	+
+pGW1.tsv hypothetical protein	CDS	232992	234074	-
+pGW1.tsv hypothetical protein	CDS	298031	299083	+
+pGW1.tsv hypothetical protein	CDS	273258	274295	-
+pGW1.tsv hypothetical protein	CDS	186154	187140	+
+pGW1.tsv hypothetical protein	CDS	252985	253962	-
+pGW1.tsv hypothetical protein	CDS	237209	238171	-
+pGW1.tsv hypothetical protein	CDS	240774	241730	-
+pGW1.tsv hypothetical protein	CDS	241902	242840	-
+pGW1.tsv hypothetical protein	CDS	243896	244831	-
+pGW1.tsv hypothetical protein	CDS	242907	243827	-
+pGW1.tsv hypothetical protein	CDS	236294	237199	-
+pGW1.tsv hypothetical protein	CDS	91655	92551	+
+pGW1.tsv hypothetical protein	CDS	170200	171093	-
+pGW1.tsv hypothetical protein	CDS	244901	245779	-
+pGW1.tsv hypothetical protein	CDS	254458	255330	-
+pGW1.tsv hypothetical protein	CDS	257689	258561	+
+pGW1.tsv hypothetical protein	CDS	275603	276439	+
+pGW1.tsv hypothetical protein	CDS	300272	301105	+
+pGW1.tsv hypothetical protein	CDS	133564	134364	-
+pGW1.tsv hypothetical protein	CDS	324456	325247	+
+pGW1.tsv hypothetical protein	CDS	221622	222395	+
+pGW1.tsv hypothetical protein	CDS	135606	136343	+
+pGW1.tsv hypothetical protein	CDS	149456	150157	-
+pGW1.tsv hypothetical protein	CDS	108715	109347	+
+pGW1.tsv hypothetical protein	CDS	307178	307804	-
+pGW1.tsv hypothetical protein	CDS	58525	59148	-
+pGW1.tsv hypothetical protein	CDS	120604	121215	+
+pGW1.tsv hypothetical protein	CDS	320690	321298	+
+pGW1.tsv hypothetical protein	CDS	164687	165292	-
+pGW1.tsv hypothetical protein	CDS	154147	154749	+
+pGW1.tsv hypothetical protein	CDS	239600	240190	-
+pGW1.tsv hypothetical protein	CDS	123667	124224	+
+pGW1.tsv hypothetical protein	CDS	147939	148475	-
+pGW1.tsv hypothetical protein	CDS	238725	239261	-
+pGW1.tsv hypothetical protein	CDS	245858	246379	-
+pGW1.tsv hypothetical protein	CDS	276432	276953	+
+pGW1.tsv hypothetical protein	CDS	133050	133562	-
+pGW1.tsv hypothetical protein	CDS	5352	5855	+
+pGW1.tsv hypothetical protein	CDS	65266	65766	+
+pGW1.tsv hypothetical protein	CDS	177388	177888	-
+pGW1.tsv hypothetical protein	CDS	191081	191581	-
+pGW1.tsv hypothetical protein	CDS	272746	273246	-
+pGW1.tsv hypothetical protein	CDS	31820	32315	+
+pGW1.tsv hypothetical protein	CDS	135124	135609	+
+pGW1.tsv hypothetical protein	CDS	289850	290311	-
+pGW1.tsv hypothetical protein	CDS	212332	212787	-
+pGW1.tsv hypothetical protein	CDS	306397	306852	+
+pGW1.tsv hypothetical protein	CDS	270687	271139	-
+pGW1.tsv hypothetical protein	CDS	148543	148980	-
+pGW1.tsv hypothetical protein	CDS	82957	83391	+
+pGW1.tsv hypothetical protein	CDS	319784	320212	+
+pGW1.tsv hypothetical protein	CDS	270272	270697	-
+pGW1.tsv hypothetical protein	CDS	121275	121697	-
+pGW1.tsv hypothetical protein	CDS	288015	288437	-
+pGW1.tsv hypothetical protein	CDS	114799	115206	+
+pGW1.tsv hypothetical protein	CDS	121731	122123	-
+pGW1.tsv hypothetical protein	CDS	276950	277339	+
+pGW1.tsv hypothetical protein	CDS	238262	238645	-
+pGW1.tsv hypothetical protein	CDS	59206	59586	-
+pGW1.tsv hypothetical protein	CDS	254023	254400	-
+pGW1.tsv hypothetical protein	CDS	319315	319692	+
+pGW1.tsv hypothetical protein	CDS	190713	191084	-
+pGW1.tsv hypothetical protein	CDS	147345	147713	-
+pGW1.tsv hypothetical protein	CDS	145553	145906	-
+pGW1.tsv hypothetical protein	CDS	201839	202192	+
+pGW1.tsv hypothetical protein	CDS	292752	293105	-
+pGW1.tsv hypothetical protein	CDS	29136	29486	+
+pGW1.tsv hypothetical protein	CDS	154809	155159	+
+pGW1.tsv hypothetical protein	CDS	75086	75430	-
+pGW1.tsv hypothetical protein	CDS	211467	211808	+
+pGW1.tsv hypothetical protein	CDS	326585	326914	+
+pGW1.tsv hypothetical protein	CDS	33567	33893	+
+pGW1.tsv hypothetical protein	CDS	191578	191904	-
+pGW1.tsv hypothetical protein	CDS	323577	323903	+
+pGW1.tsv hypothetical protein	CDS	169299	169619	-
+pGW1.tsv hypothetical protein	CDS	323014	323334	+
+pGW1.tsv hypothetical protein	CDS	112980	113297	+
+pGW1.tsv hypothetical protein	CDS	115257	115574	-
+pGW1.tsv hypothetical protein	CDS	92599	92913	+
+pGW1.tsv hypothetical protein	CDS	74428	74739	-
+pGW1.tsv hypothetical protein	CDS	166166	166477	-
+pGW1.tsv hypothetical protein	CDS	329032	329343	+
+pGW1.tsv hypothetical protein	CDS	56915	57223	-
+pGW1.tsv hypothetical protein	CDS	113320	113625	+
+pGW1.tsv hypothetical protein	CDS	146613	146912	-
+pGW1.tsv hypothetical protein	CDS	149025	149321	-
+pGW1.tsv hypothetical protein	CDS	145972	146256	-
+pGW1.tsv hypothetical protein	CDS	76606	76887	+
+pGW1.tsv hypothetical protein	CDS	150472	150753	-
+pGW1.tsv hypothetical protein	CDS	165509	165790	-
+pGW1.tsv hypothetical protein	CDS	306839	307120	+
+pGW1.tsv hypothetical protein	CDS	94569	94844	+
+pGW1.tsv hypothetical protein	CDS	240235	240510	-
+pGW1.tsv hypothetical protein	CDS	92987	93244	+
+pGW1.tsv hypothetical protein	CDS	320277	320534	+
+pGW1.tsv hypothetical protein	CDS	323969	324226	+
+pGW1.tsv hypothetical protein	CDS	210226	210480	-
+pGW1.tsv hypothetical protein	CDS	328730	328969	+
+pGW1.tsv hypothetical protein	CDS	169798	170028	-
+pGW1.tsv hypothetical protein	CDS	52187	52414	+
+pGW1.tsv hypothetical protein	CDS	166940	167164	-
+pGW1.tsv hypothetical protein	CDS	180038	180262	+
+pGW1.tsv hypothetical protein	CDS	247995	248216	-
+pGW1.tsv hypothetical protein	CDS	66736	66951	+
+pGW1.tsv hypothetical protein	CDS	199606	199818	-
+pGW1.tsv hypothetical protein	CDS	234435	234647	-
+pGW1.tsv hypothetical protein	CDS	73520	73726	-
+pGW1.tsv hypothetical protein	CDS	16538	16741	+
+pGW1.tsv hypothetical protein	CDS	87709	87912	-
+pGW1.tsv hypothetical protein	CDS	155206	155409	+
+pGW1.tsv hypothetical protein	CDS	167219	167422	-
+pGW1.tsv hypothetical protein	CDS	236014	236217	-
+pGW1.tsv hypothetical protein	CDS	166700	166900	-
+pGW1.tsv hypothetical protein	CDS	299103	299303	+
+pGW1.tsv hypothetical protein	CDS	325298	325498	+
+pGW1.tsv hypothetical protein	CDS	94231	94428	+
+pGW1.tsv hypothetical protein	CDS	329340	329534	+
+pGW1.tsv hypothetical protein	CDS	51972	52163	-
+pGW1.tsv hypothetical protein	CDS	211900	212091	+
+pGW1.tsv hypothetical protein	CDS	152420	152596	-
+pGW1.tsv hypothetical protein	CDS	165936	166112	-
+pGW1.tsv hypothetical protein	CDS	306172	306348	+
+pGW1.tsv hypothetical protein	CDS	251564	251737	-
+pGW1.tsv hypothetical protein	CDS	85253	85420	-
+pGW1.tsv hypothetical protein	CDS	89267	89434	-
+pGW1.tsv hypothetical protein	CDS	24875	25039	+
+pGW1.tsv hypothetical protein	CDS	280784	280945	-
+pGW1.tsv hypothetical protein	CDS	178678	178818	+
+pGW1.tsv hypothetical protein	CDS	330760	330900	+
+pGW1.tsv Ig-like domain repeat protein	CDS	314907	316811	-
+pGW1.tsv intI1	CDS	47650	48663	+
+pGW1.tsv intI1	CDS	66938	67951	-
+pGW1.tsv intI1	CDS	331547	332560	-
+pGW1.tsv iron-containing alcohol dehydrogenase	CDS	103912	105069	-
+pGW1.tsv IS1 family transposase	CDS	116942	117639	-
+pGW1.tsv IS1 family transposase	CDS	301116	301813	-
+pGW1.tsv IS1 family transposase	CDS	73237	73509	+
+pGW1.tsv IS3 family transposase	CDS	296087	297207	+
+pGW1.tsv IS3-like element ISKpn8 family transposase	CDS	162985	164354	-
+pGW1.tsv IS5 family transposase	CDS	80386	81354	-
+pGW1.tsv IS5 family transposase	CDS	115740	116654	-
+pGW1.tsv IS5-like element IS903B family transposase	CDS	102260	103228	-
+pGW1.tsv IS5-like element IS903B family transposase	CDS	107269	108237	-
+pGW1.tsv IS5-like element IS903B family transposase	CDS	271744	272712	-
+pGW1.tsv IS5-like element IS903B family transposase	CDS	316870	317838	-
+pGW1.tsv IS5-like element IS903B family transposase	CDS	325500	326468	+
+pGW1.tsv IS5-like element ISKpn26 family transposase	CDS	57499	58479	-
+pGW1.tsv IS5-like element ISKpn26 family transposase	CDS	294922	295902	+
+pGW1.tsv IS5/IS1182 family transposase	CDS	108269	108640	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	24062	24766	+
+pGW1.tsv IS6-like element IS26 family transposase	CDS	43057	43761	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	49138	49842	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	63744	64448	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	77155	77859	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	171403	172107	+
+pGW1.tsv IS6-like element IS26 family transposase	CDS	175749	176453	+
+pGW1.tsv IS6-like element IS26 family transposase	CDS	177968	178672	+
+pGW1.tsv IS6-like element IS26 family transposase	CDS	184912	185616	-
+pGW1.tsv IS6-like element IS26 family transposase	CDS	330050	330754	+
+pGW1.tsv IS6-like element IS6100 family transposase	CDS	38954	39718	+
+pGW1.tsv IS6-like element IS6100 family transposase	CDS	69855	70196	+
+pGW1.tsv IS91 family transposase	CDS	1	340723	+
+pGW1.tsv IS110 family transposase	CDS	159810	161048	-
+pGW1.tsv IS110-like element IS4321 family transposase	CDS	189079	190083	-
+pGW1.tsv IS110-like element IS4321 family transposase	CDS	208562	209566	+
+pGW1.tsv IS110-like element IS5075 family transposase	CDS	16923	17927	-
+pGW1.tsv IS110-like element IS5075 family transposase	CDS	35974	36978	-
+pGW1.tsv IS110-like element IS5075 family transposase	CDS	180742	181746	-
+pGW1.tsv IS110-like element IS5075 family transposase	CDS	193638	194642	-
+pGW1.tsv IS110-like element IS5075 family transposase	CDS	200392	201396	-
+pGW1.tsv IS1182-like element ISCfr1 family transposase	CDS	53716	55086	+
+pGW1.tsv IS1380-like element IS1247 family transposase	CDS	333792	335147	+
+pGW1.tsv ISNCY family transposase	CDS	100637	102040	-
+pGW1.tsv ISNCY family transposase	CDS	111413	112759	-
+pGW1.tsv ISNCY family transposase	CDS	161470	162810	-
+pGW1.tsv ISNCY-like element ISKpn21 family transposase	CDS	109376	110779	-
+pGW1.tsv KikA	CDS	74775	75089	-
+pGW1.tsv kinase	CDS	231327	232826	+
+pGW1.tsv LysR family transcriptional regulator	CDS	105263	106156	+
+pGW1.tsv LysR family transcriptional regulator	CDS	27558	28433	+
+pGW1.tsv lytic transglycosylase domain-containing protein	CDS	75860	76597	+
+pGW1.tsv lytic transglycosylase domain-containing protein	CDS	123045	123584	+
+pGW1.tsv merA	CDS	196054	197763	+
+pGW1.tsv merB	CDS	198533	199171	+
+pGW1.tsv merB	CDS	202207	202845	+
+pGW1.tsv merC	CDS	19187	19609	+
+pGW1.tsv mercuric transport protein MerT	CDS	18512	18862	+
+pGW1.tsv mercuric transport protein MerT	CDS	195227	195577	+
+pGW1.tsv mercury resistance transcriptional regulator MerR	CDS	194721	195155	-
+pGW1.tsv mercury resistance transcriptional regulator MerR	CDS	201475	201909	-
+pGW1.tsv mercury(II) reductase	CDS	19661	21355	+
+pGW1.tsv merD	CDS	202957	203322	+
+pGW1.tsv merD	CDS	21373	21735	+
+pGW1.tsv merD	CDS	199168	199515	+
+pGW1.tsv merE	CDS	21732	21968	+
+pGW1.tsv merE	CDS	203319	203555	+
+pGW1.tsv merG	CDS	197799	198452	+
+pGW1.tsv merP	CDS	18876	19151	+
+pGW1.tsv merP	CDS	195591	195866	+
+pGW1.tsv merR	CDS	18006	18440	-
+pGW1.tsv metallophosphoesterase	CDS	274659	275606	+
+pGW1.tsv MFS transporter	CDS	40795	42033	-
+pGW1.tsv MFS transporter	CDS	103250	103834	-
+pGW1.tsv mph(A) CDS	42030	42935	-
+pGW1.tsv NAD(+)--rifampin ADP-ribosyltransferase	CDS	336326	336739	+
+pGW1.tsv NERD domain-containing protein	CDS	144535	145266	+
+pGW1.tsv nickel/cobalt efflux protein RcnA	CDS	83649	84764	-
+pGW1.tsv nuclear transport factor 2 family protein	CDS	337102	337533	+
+pGW1.tsv nucleotidyltransferase	CDS	192903	193193	-
+pGW1.tsv ParA family protein	CDS	278402	279655	-
+pGW1.tsv ParB N-terminal domain-containing protein	CDS	277401	278405	-
+pGW1.tsv pcoS	CDS	81393	82739	+
+pGW1.tsv peptide ABC transporter permease	CDS	1477	1935	-
+pGW1.tsv phosphoadenosine phosphosulfate reductase	CDS	327029	328480	+
+pGW1.tsv phosphoethanolamine--lipid A transferase MCR-9.1	CDS	78578	80197	-
+pGW1.tsv phosphoribosyltransferase domain-containing protein	CDS	220487	221629	+
+pGW1.tsv pilus assembly protein	CDS	291584	292372	-
+pGW1.tsv plasmid transfer protein	CDS	269709	270263	-
+pGW1.tsv plasmid transfer protein	CDS	292384	292734	-
+pGW1.tsv protein phosphatase 2C domain-containing protein	CDS	229664	231301	+
+pGW1.tsv pspA	CDS	9890	10558	+
+pGW1.tsv pspB	CDS	10613	10837	+
+pGW1.tsv pspC	CDS	10837	11196	+
+pGW1.tsv pspD	CDS	11205	11435	+
+pGW1.tsv pspF	CDS	8745	9734	-
+pGW1.tsv quaternary ammonium compound efflux SMR transporter QacE delta 1	CDS	45298	45645	-
+pGW1.tsv quaternary ammonium compound efflux SMR transporter QacE delta 1	CDS	338843	339190	+
+pGW1.tsv quinolone resistance pentapeptide repeat proteinQnrB4	CDS	8018	8662	-
+pGW1.tsv rcnR	CDS	84887	85159	+
+pGW1.tsv recombinase family protein	CDS	179304	180041	+
+pGW1.tsv recombinase family protein	CDS	203930	204544	-
+pGW1.tsv recombinase family protein	CDS	190162	190719	-
+pGW1.tsv relB	CDS	157137	157376	-
+pGW1.tsv relE	CDS	156850	157137	-
+pGW1.tsv RepB family plasmid replication initiator protein	CDS	294254	294814	-
+pGW1.tsv RepB family plasmid replication initiator protein	CDS	297237	297554	-
+pGW1.tsv repHI2	CDS	311741	312829	+
+pGW1.tsv replication initiation protein	CDS	35554	35694	-
+pGW1.tsv restriction endonuclease	CDS	73731	74372	-
+pGW1.tsv rsp	CDS	265285	269589	-
+pGW1.tsv S-(hydroxymethyl)glutathione dehydrogenase/classIII alcohol dehydrogenase	CDS	172597	173706	-
+pGW1.tsv S-formylglutathione hydrolase	CDS	172159	172575	-
+pGW1.tsv S49 family peptidase	CDS	143352	144533	+
+pGW1.tsv sapA	CDS	2884	4527	-
+pGW1.tsv sapB	CDS	1922	2887	-
+pGW1.tsv SDR family oxidoreductase	CDS	7014	7922	+
+pGW1.tsv site-specific DNA-methyltransferase	CDS	321469	322719	+
+pGW1.tsv sul1	CDS	15502	16341	+
+pGW1.tsv sul1	CDS	44465	45304	-
+pGW1.tsv sul1	CDS	339184	340023	+
+pGW1.tsv SulP family inorganic anion transporter	CDS	95336	96814	+
+pGW1.tsv tellurite resistance TerB family protein	CDS	216882	217337	-
+pGW1.tsv tellurium resistance-associated protein TerZ	CDS	218517	219098	-
+pGW1.tsv terC	CDS	215819	216859	-
+pGW1.tsv terD	CDS	215192	215770	-
+pGW1.tsv TerD family protein	CDS	217360	218517	-
+pGW1.tsv TerD family protein	CDS	227260	227901	+
+pGW1.tsv TerD family protein	CDS	214548	215123	-
+pGW1.tsv terW	CDS	225669	226136	+
+pGW1.tsv tet(D) CDS	173801	174985	-
+pGW1.tsv tetR(D) CDS	175081	175737	+
+pGW1.tsv TetR/AcrR family transcriptional regulator	CDS	40211	40795	-
+pGW1.tsv thermonuclease family protein	CDS	91137	91652	+
+pGW1.tsv thermonuclease family protein	CDS	31313	31807	+
+pGW1.tsv thioredoxin family protein	CDS	131412	132458	-
+pGW1.tsv thioredoxin fold domain-containing protein	CDS	122148	122897	-
+pGW1.tsv Tn3 family transposase	CDS	60548	63555	-
+pGW1.tsv Tn3 family transposase	CDS	181825	184791	-
+pGW1.tsv Tn3 family transposase	CDS	30139	31308	-
+pGW1.tsv TniB family NTP-binding protein	CDS	205819	206727	-
+pGW1.tsv TniQ family protein	CDS	204605	205822	-
+pGW1.tsv toprim domain-containing protein	CDS	246649	247881	-
+pGW1.tsv toxic anion resistance protein	CDS	171083	171426	-
+pGW1.tsv TraC family protein	CDS	283494	286175	-
+pGW1.tsv traD	CDS	139499	141583	+
+pGW1.tsv TraI domain-containing protein	CDS	136353	139499	+
+pGW1.tsv transcriptional regulator	CDS	99493	99813	-
+pGW1.tsv transposase	CDS	22747	23997	+
+pGW1.tsv transposase	CDS	64512	65000	+
+pGW1.tsv transposase	CDS	25699	25920	+
+pGW1.tsv transposase	CDS	60341	60511	+
+pGW1.tsv transposase	CDS	26279	26416	+
+pGW1.tsv transposase	CDS	29807	29944	-
+pGW1.tsv trhB	CDS	288505	289860	-
+pGW1.tsv trhF	CDS	264495	265007	-
+pGW1.tsv trhH	CDS	130007	131422	-
+pGW1.tsv trhI	CDS	255725	257509	-
+pGW1.tsv trhN	CDS	258590	261778	-
+pGW1.tsv trhU	CDS	261797	262852	-
+pGW1.tsv trhV	CDS	286184	287134	-
+pGW1.tsv trypsin-like peptidase domain-containing protein	CDS	113670	114341	+
+pGW1.tsv type A-2 chloramphenicol O-acetyltransferase CatII	CDS	176597	177238	-
+pGW1.tsv type I restriction-modification system subunit MN-terminal domain-containing protein	CDS	210606	210841	-
+pGW1.tsv type I toxin-antitoxin system Hok family toxin	CDS	156620	156778	-
+pGW1.tsv type II site-specific deoxyribonuclease	CDS	70457	71671	+
+pGW1.tsv type-F conjugative transfer system secretin TraK	CDS	290313	291584	-
+pGW1.tsv tyrosine-type recombinase/integrase	CDS	234817	235992	+
+pGW1.tsv umuC	CDS	118383	119642	+
+pGW1.tsv umuD	CDS	117965	118399	+
+pGW1.tsv universal stress protein	CDS	96833	97660	+
+pGW1.tsv VWA domain-containing protein	CDS	248289	250295	-
+pGW1.tsv VWA domain-containing protein	CDS	212878	214119	-
+pGW1.tsv VWA domain-containing protein	CDS	228624	229664	+
+pGW1.tsv VWA domain-containing protein	CDS	226599	227237	+
+pGW1.tsv VWA domain-containing protein	CDS	227901	228539	+
+pGW1.tsv WbuC family cupin fold metalloprotein	CDS	78025	78501	-
+pGW1.tsv YdeI family stress tolerance OB fold protein	CDS	4828	5220	-
+pGW1.tsv YrhA family protein	CDS	125419	125925	+
+pGW1.tsv zinc finger-like domain-containing protein	CDS	299300	300016	+
+pGW2.tsv AAA family ATPase	CDS	5068	6324	forward
+pGW2.tsv AAA family ATPase	CDS	110922	112121	forward
+pGW2.tsv AAA family ATPase	CDS	6895	7665	forward
+pGW2.tsv ABC transporter ATP-binding protein	CDS	29844	30602	forward
+pGW2.tsv ABC transporter six-transmembrane domain-containing protein	CDS	90089	91000	forward
+pGW2.tsv ABC transporter substrate-binding protein	CDS	27800	28807	forward
+pGW2.tsv acetyltransferase	CDS	118906	119853	-
+pGW2.tsv aerobactin synthase IucA	CDS	119846	121594	-
+pGW2.tsv alpha/beta hydrolase	CDS	74371	75192	-
+pGW2.tsv antibiotic biosynthesis monooxygenase	CDS	76363	76686	-
+pGW2.tsv arsC	CDS	62761	63174	forward
+pGW2.tsv arsenic transporter	CDS	61434	62717	forward
+pGW2.tsv autotransporter domain-containing protein	CDS	132380	135298	-
+pGW2.tsv copper-binding protein	CDS	32686	33144	forward
+pGW2.tsv cupin domain-containing protein	CDS	456	1577	forward
+pGW2.tsv darcynin	CDS	85696	86016	forward
+pGW2.tsv diguanylate cyclase	CDS	91040	91147	-
+pGW2.tsv diguanylate phosphodiesterase	CDS	81126	82343	-
+pGW2.tsv dihydrodipicolinate synthase family protein	CDS	60034	60921	forward
+pGW2.tsv DMT family transporter	CDS	59131	60009	forward
+pGW2.tsv drug:proton antiporter	CDS	100725	101108	-
+pGW2.tsv dsbG	CDS	35209	35958	forward
+pGW2.tsv DUF2534 family protein	CDS	32381	32641	forward
+pGW2.tsv DUF2931 family protein	CDS	42440	43087	-
+pGW2.tsv efflux RND transporter periplasmic adaptor subunit	CDS	95613	96764	-
+pGW2.tsv efflux RND transporter permease subunit	CDS	92562	95612	-
+pGW2.tsv exc2	CDS	10197	10598	forward
+pGW2.tsv glgX	CDS	130243	132318	forward
+pGW2.tsv glutathione S-transferase family protein	CDS	10638	11234	-
+pGW2.tsv GNAT family N-acetyltransferase	CDS	105491	106021	forward
+pGW2.tsv GNAT family N-acetyltransferase	CDS	76788	77303	forward
+pGW2.tsv GNAT family N-acetyltransferase	CDS	91232	91663	forward
+pGW2.tsv GntR family transcriptional regulator	CDS	70765	71484	forward
+pGW2.tsv guaD	CDS	11818	13134	forward
+pGW2.tsv HAMP domain-containing protein	CDS	78159	80069	forward
+pGW2.tsv Hcp family type VI secretion system effector	CDS	50720	51213	-
+pGW2.tsv helicase	CDS	17771	20932	-
+pGW2.tsv helix-turn-helix domain-containing protein	CDS	123953	124234	forward
+pGW2.tsv histidine phosphatase family protein	CDS	108074	108691	-
+pGW2.tsv histidine phosphatase family protein	CDS	16474	17043	forward
+pGW2.tsv hypothetical protein	CDS	22736	23959	-
+pGW2.tsv hypothetical protein	CDS	106026	107084	-
+pGW2.tsv hypothetical protein	CDS	40942	41961	-
+pGW2.tsv hypothetical protein	CDS	65121	66068	-
+pGW2.tsv hypothetical protein	CDS	67155	67970	forward
+pGW2.tsv hypothetical protein	CDS	107208	107975	-
+pGW2.tsv hypothetical protein	CDS	43182	43862	-
+pGW2.tsv hypothetical protein	CDS	101944	102486	-
+pGW2.tsv hypothetical protein	CDS	47056	47487	-
+pGW2.tsv hypothetical protein	CDS	75972	76370	-
+pGW2.tsv hypothetical protein	CDS	31664	32053	-
+pGW2.tsv hypothetical protein	CDS	77340	77726	-
+pGW2.tsv hypothetical protein	CDS	84677	84988	-
+pGW2.tsv hypothetical protein	CDS	83153	83452	forward
+pGW2.tsv hypothetical protein	CDS	16192	16461	forward
+pGW2.tsv hypothetical protein	CDS	113252	113479	forward
+pGW2.tsv hypothetical protein	CDS	139	306	-
+pGW2.tsv iron ABC transporter permease	CDS	28807	29847	forward
+pGW2.tsv iucC	CDS	117164	118909	-
+pGW2.tsv LysR family transcriptional regulator	CDS	86152	87051	forward
+pGW2.tsv MBL fold metallo-hydrolase	CDS	13156	13956	-
+pGW2.tsv MCP four helix bundle domain-containing protein	CDS	14250	15908	forward
+pGW2.tsv MerR family transcriptional regulator	CDS	80148	80891	-
+pGW2.tsv metallophosphoesterase	CDS	83903	84643	forward
+pGW2.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	61011	61346	forward
+pGW2.tsv methyl-accepting chemotaxis protein	CDS	8027	9973	forward
+pGW2.tsv MFS transporter	CDS	87825	89132	-
+pGW2.tsv MFS transporter	CDS	26324	27559	-
+pGW2.tsv MFS transporter	CDS	121730	122941	forward
+pGW2.tsv MFS transporter	CDS	103989	105197	-
+pGW2.tsv mgtA	CDS	2145	4859	forward
+pGW2.tsv MipA/OmpV family protein	CDS	98850	99620	forward
+pGW2.tsv NINE protein	CDS	70274	70567	forward
+pGW2.tsv nuclear transport factor 2 family protein	CDS	92214	92570	forward
+pGW2.tsv nuclear transport factor 2 family protein	CDS	69788	70135	-
+pGW2.tsv NUDIX domain-containing protein	CDS	91689	92132	forward
+pGW2.tsv OmpA family protein	CDS	51228	52931	-
+pGW2.tsv omptin family outer membrane protease	CDS	102735	103673	-
+pGW2.tsv PAAR domain-containing protein	CDS	42103	42369	-
+pGW2.tsv ParB/RepB/Spo0J family partition protein	CDS	112129	113097	forward
+pGW2.tsv phospholipase D family protein	CDS	20925	22742	-
+pGW2.tsv PLP-dependent aminotransferase family protein	CDS	57704	59038	-
+pGW2.tsv potassium transporter TrkG	CDS	63227	64702	-
+pGW2.tsv PTS transporter subunit EIIC	CDS	72951	74324	forward
+pGW2.tsv RepB family plasmid replication initiator protein	CDS	109060	110115	-
+pGW2.tsv response regulator transcription factor	CDS	98033	98725	-
+pGW2.tsv SDR family oxidoreductase	CDS	17090	17764	forward
+pGW2.tsv sensor domain-containing diguanylate cyclase	CDS	67957	69639	-
+pGW2.tsv SidA/IucD/PvdA family monooxygenase	CDS	115845	117167	-
+pGW2.tsv siderophore-interacting protein	CDS	122938	123822	forward
+pGW2.tsv SMI1/KNR4 family protein	CDS	31040	31561	-
+pGW2.tsv starvation-sensing protein RspA	CDS	71472	72671	-
+pGW2.tsv substrate-binding domain-containing protein	CDS	87026	87832	-
+pGW2.tsv TetR family transcriptional regulator	CDS	89431	89988	-
+pGW2.tsv TetR/AcrR family transcriptional regulator	CDS	85010	85600	-
+pGW2.tsv thioredoxin family protein	CDS	33191	35212	forward
+pGW2.tsv TonB-dependent siderophore receptor	CDS	113627	115822	-
+pGW2.tsv transcriptional regulator	CDS	99782	100672	forward
+pGW2.tsv treY	CDS	127643	130174	forward
+pGW2.tsv treZ	CDS	125862	127646	forward
+pGW2.tsv tssB	CDS	56512	57009	-
+pGW2.tsv tssC	CDS	54936	56477	-
+pGW2.tsv tssF	CDS	37552	39237	-
+pGW2.tsv tssG	CDS	36500	37597	-
+pGW2.tsv tssH	CDS	47869	50568	-
+pGW2.tsv tssJ	CDS	35992	36519	-
+pGW2.tsv tssK	CDS	53585	54925	-
+pGW2.tsv two-component sensor histidine kinase	CDS	96858	98036	-
+pGW2.tsv two-component-system connector protein AriR	CDS	83491	83769	forward
+pGW2.tsv two-component-system connector protein YcgZ	CDS	82744	82983	forward
+pGW2.tsv type II toxin-antitoxin system HipA family toxin	CDS	124237	125556	forward
+pGW2.tsv type VI secretion protein	CDS	47517	47903	-
+pGW2.tsv type VI secretion protein VasK	CDS	39219	40958	-
+pGW2.tsv type VI secretion system protein TssL, short form	CDS	52935	53588	-
+pGW2.tsv type VI secretion system tube protein Hcp	CDS	66087	66569	-
+pGW2.tsv tyrosine-type recombinase/integrase	CDS	24053	25027	-
+pGW2.tsv vgrG	CDS	43859	46770	-
+pGW2.tsv winged helix-turn-helix transcriptional regulator	CDS	75274	75999	-
+pGW2.tsv YafY family transcriptional regulator	CDS	101165	101860	-
+pGW2.tsv YmjA family protein	CDS	30677	30922	-
+pH322_1.tsv ABC transporter, ATP-binding protein	CDS	33326	33964	-
+pH322_1.tsv Chromosome partitioning protein ParA	CDS	12011	12676	-
+pH322_1.tsv CobS-like protein	CDS	89525	90760	-
+pH322_1.tsv Dihydrofolate reductase (EC 1.5.1.3) CDS	65996	66472	-
+pH322_1.tsv DNA modification methylase	CDS	33961	34629	-
+pH322_1.tsv DNA polymerase I 5'-3' exonuclease domain	CDS	80726	81670	-
+pH322_1.tsv DNA polymerase III alpha subunit (EC 2.7.7.7) CDS	85826	89332	-
+pH322_1.tsv DNA polymerase III epsilon subunit (EC 2.7.7.7) CDS	64317	64859	-
+pH322_1.tsv DNA primase (EC 2.7.7.-) CDS	6683	7798	-
+pH322_1.tsv DNA replication protein	CDS	76062	77162	+
+pH322_1.tsv FIG001353: Acetyltransferase	CDS	13352	13891	+
+pH322_1.tsv FIG032766: hypothetical protein	CDS	13079	13348	+
+pH322_1.tsv FIG00925047: hypothetical protein	CDS	15032	15355	-
+pH322_1.tsv FIG01048214: hypothetical protein	CDS	56078	56293	-
+pH322_1.tsv FIG01048569: hypothetical protein	CDS	9350	10075	-
+pH322_1.tsv FIG01048983: hypothetical protein	CDS	41695	41868	-
+pH322_1.tsv FIG01048983: hypothetical protein	CDS	41474	41617	-
+pH322_1.tsv FIG01049711: hypothetical protein	CDS	62049	62852	-
+pH322_1.tsv FIG01049755: hypothetical protein	CDS	64869	65330	-
+pH322_1.tsv FIG01049758: hypothetical protein	CDS	41065	41346	-
+pH322_1.tsv Glycosaminoglycan attachment site	CDS	10283	11446	-
+pH322_1.tsv hypothetical protein	CDS	90855	93185	-
+pH322_1.tsv hypothetical protein	CDS	46915	48603	-
+pH322_1.tsv hypothetical protein	CDS	28204	29778	-
+pH322_1.tsv hypothetical protein	CDS	7949	9289	-
+pH322_1.tsv hypothetical protein	CDS	3409	4731	-
+pH322_1.tsv hypothetical protein	CDS	29811	31067	-
+pH322_1.tsv hypothetical protein	CDS	63176	64282	+
+pH322_1.tsv hypothetical protein	CDS	27288	28181	-
+pH322_1.tsv hypothetical protein	CDS	32183	33073	-
+pH322_1.tsv hypothetical protein	CDS	26381	27262	-
+pH322_1.tsv hypothetical protein	CDS	68169	69044	-
+pH322_1.tsv hypothetical protein	CDS	25038	25871	-
+pH322_1.tsv hypothetical protein	CDS	5312	6106	-
+pH322_1.tsv hypothetical protein	CDS	37318	38097	-
+pH322_1.tsv hypothetical protein	CDS	22926	23672	-
+pH322_1.tsv hypothetical protein	CDS	34626	35309	-
+pH322_1.tsv hypothetical protein	CDS	39071	39721	+
+pH322_1.tsv hypothetical protein	CDS	18045	18692	-
+pH322_1.tsv hypothetical protein	CDS	65352	65996	-
+pH322_1.tsv hypothetical protein	CDS	75095	75739	-
+pH322_1.tsv hypothetical protein	CDS	31070	31711	-
+pH322_1.tsv hypothetical protein	CDS	61079	61714	+
+pH322_1.tsv hypothetical protein	CDS	44876	45490	+
+pH322_1.tsv hypothetical protein	CDS	56422	57000	-
+pH322_1.tsv hypothetical protein	CDS	454	984	-
+pH322_1.tsv hypothetical protein	CDS	74484	74987	+
+pH322_1.tsv hypothetical protein	CDS	40376	40858	-
+pH322_1.tsv hypothetical protein	CDS	57971	58447	-
+pH322_1.tsv hypothetical protein	CDS	84769	85245	-
+pH322_1.tsv hypothetical protein	CDS	24132	24605	-
+pH322_1.tsv hypothetical protein	CDS	4766	5230	-
+pH322_1.tsv hypothetical protein	CDS	44122	44574	-
+pH322_1.tsv hypothetical protein	CDS	85386	85829	-
+pH322_1.tsv hypothetical protein	CDS	25871	26305	-
+pH322_1.tsv hypothetical protein	CDS	82861	83292	-
+pH322_1.tsv hypothetical protein	CDS	57283	57708	-
+pH322_1.tsv hypothetical protein	CDS	42853	43272	+
+pH322_1.tsv hypothetical protein	CDS	78822	79241	-
+pH322_1.tsv hypothetical protein	CDS	6234	6650	-
+pH322_1.tsv hypothetical protein	CDS	66469	66882	-
+pH322_1.tsv hypothetical protein	CDS	93762	94148	+
+pH322_1.tsv hypothetical protein	CDS	23747	24130	-
+pH322_1.tsv hypothetical protein	CDS	11652	12011	-
+pH322_1.tsv hypothetical protein	CDS	96966	97322	-
+pH322_1.tsv hypothetical protein	CDS	24596	24940	-
+pH322_1.tsv hypothetical protein	CDS	77925	78263	-
+pH322_1.tsv hypothetical protein	CDS	45959	46285	-
+pH322_1.tsv hypothetical protein	CDS	22548	22865	-
+pH322_1.tsv hypothetical protein	CDS	43747	44055	-
+pH322_1.tsv hypothetical protein	CDS	41995	42300	-
+pH322_1.tsv hypothetical protein	CDS	97610	97909	-
+pH322_1.tsv hypothetical protein	CDS	19077	19364	-
+pH322_1.tsv hypothetical protein	CDS	36954	37232	+
+pH322_1.tsv hypothetical protein	CDS	46293	46571	-
+pH322_1.tsv hypothetical protein	CDS	78480	78755	-
+pH322_1.tsv hypothetical protein	CDS	22198	22467	-
+pH322_1.tsv hypothetical protein	CDS	31907	32173	-
+pH322_1.tsv hypothetical protein	CDS	45534	45800	-
+pH322_1.tsv hypothetical protein	CDS	80460	80726	-
+pH322_1.tsv hypothetical protein	CDS	33079	33333	-
+pH322_1.tsv hypothetical protein	CDS	14075	14326	-
+pH322_1.tsv hypothetical protein	CDS	97377	97616	-
+pH322_1.tsv hypothetical protein	CDS	72940	73173	-
+pH322_1.tsv hypothetical protein	CDS	59772	60002	-
+pH322_1.tsv hypothetical protein	CDS	3034	3249	-
+pH322_1.tsv hypothetical protein	CDS	77713	77925	-
+pH322_1.tsv hypothetical protein	CDS	93292	93504	-
+pH322_1.tsv hypothetical protein	CDS	1091	1282	+
+pH322_1.tsv hypothetical protein	CDS	57773	57961	-
+pH322_1.tsv hypothetical protein	CDS	98200	98388	-
+pH322_1.tsv hypothetical protein	CDS	3233	3409	-
+pH322_1.tsv hypothetical protein	CDS	13921	14082	-
+pH322_1.tsv hypothetical protein	CDS	57128	57283	-
+pH322_1.tsv hypothetical protein	CDS	2885	3037	-
+pH322_1.tsv hypothetical protein	CDS	40896	41048	-
+pH322_1.tsv hypothetical protein	CDS	78309	78455	+
+pH322_1.tsv hypothetical protein	CDS	89319	89462	-
+pH322_1.tsv hypothetical protein	CDS	72806	72943	-
+pH322_1.tsv hypothetical protein	CDS	38902	39033	+
+pH322_1.tsv hypothetical protein	CDS	68029	68157	+
+pH322_1.tsv hypothetical protein	CDS	77294	77422	-
+pH322_1.tsv hypothetical protein	CDS	39989	40114	+
+pH322_1.tsv hypothetical protein	CDS	1529	1645	+
+pH322_1.tsv hypothetical protein	CDS	39772	39888	-
+pH322_1.tsv hypothetical protein	CDS	342	440	+
+pH322_1.tsv Insertion element IS407 (Burkholderia multivorans) transposase	CDS	99942	100205	+
+pH322_1.tsv Integrase	CDS	94143	95246	-
+pH322_1.tsv Mobile element protein	CDS	98426	98704	+
+pH322_1.tsv Phage exonuclease	CDS	73173	74258	-
+pH322_1.tsv Phage tail fiber, side tail fiber protein Stf	CDS	15445	17973	-
+pH322_1.tsv putative C-type natriuretic protein	CDS	2583	2888	-
+pH322_1.tsv putative DNA methylase	CDS	60202	60795	-
+pH322_1.tsv Putative DNA-binding protein	CDS	83845	84408	+
+pH322_1.tsv Putative helicase	CDS	35392	36951	+
+pH322_1.tsv putative lipoprotein	CDS	84459	84758	-
+pH322_1.tsv putative membrane protein	CDS	19476	22190	-
+pH322_1.tsv Putative regulatory protein	CDS	81731	82741	-
+pH322_1.tsv RecA-like protein	CDS	79378	80457	-
+pH322_1.tsv Ribonuclease HI (EC 3.1.26.4) CDS	58591	59187	-
+pH322_1.tsv Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1) CDS	70400	72748	-
+pH322_1.tsv Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1) CDS	69126	70268	-
+pH322_1.tsv Structural protein P5	CDS	14328	15020	-
+pH322_1.tsv Thymidylate synthase (EC 2.1.1.45) CDS	66884	67987	-
+pH322_1.tsv Transcriptional regulator	CDS	38240	38761	+
+pH322_1.tsv Transposase	CDS	98761	99573	+
+pH322_1.tsv Transposase	CDS	100232	100741	+
+pH322_1.tsv Transposase	CDS	1	312	+
+pH322_1.tsv Transposase InsN for insertion sequence element IS911	CDS	49726	50028	+
+pH322_1.tsv Transposase InsN for insertion sequence element IS911	CDS	96424	96726	-
+pH322_1.tsv Transposase InsO for insertion sequence element IS911	CDS	95558	96397	-
+pH322_1.tsv Transposase InsO for insertion sequence element IS911	CDS	50055	50525	+
+pH322_1.tsv Transposase InsO for insertion sequence element IS911	CDS	50522	50896	+
+pH322_1.tsv type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) CDS	48825	49745	+
+pH322_1.tsv type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) CDS	50991	51635	+
+pH322_1.tsv type I restriction-modification system, restriction subunit R (EC 3.1.21.3) CDS	52900	56016	+
+pH322_1.tsv type I restriction-modification system, specificity subunit S	CDS	51632	52783	+
+pH322_2.tsv 3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17) CDS	25374	26114	-
+pH322_2.tsv Acetyltransferase	CDS	3998	4528	-
+pH322_2.tsv Acetyltransferase	CDS	32729	33244	-
+pH322_2.tsv Aerobactin siderophore receptor IutA @ TonB-dependent siderophore receptor	CDS	112397	114592	+
+pH322_2.tsv Aerobactin synthase (EC 6.3.2.39), aerobactin biosynthesis protein IucC	CDS	109310	111055	+
+pH322_2.tsv Antibiotic biosynthesis monooxygenase	CDS	33346	33669	+
+pH322_2.tsv Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, glutaredoxin-like family	CDS	47112	47525	-
+pH322_2.tsv Arsenical resistance operon repressor	CDS	48941	49276	-
+pH322_2.tsv Arsenite/antimonite:H+ antiporter ArsB	CDS	47570	48853	-
+pH322_2.tsv Blue light- and temperature-regulated antirepressor BluF	CDS	27676	28893	+
+pH322_2.tsv Chromosome (plasmid) partitioning protein ParA	CDS	116098	117294	-
+pH322_2.tsv Chromosome (plasmid) partitioning protein ParB	CDS	115122	116090	-
+pH322_2.tsv Cobalt ABC transporter, ATP-binding protein CbtL	CDS	65288	66046	-
+pH322_2.tsv Cobalt ABC transporter, permease protein CbtK	CDS	66043	67083	-
+pH322_2.tsv Cobalt ABC transporter, substrate-binding protein CbtJ	CDS	67083	68090	-
+pH322_2.tsv CpmJ protein	CDS	7533	8075	+
+pH322_2.tsv Dihydrodipicolinate synthase family	CDS	49366	50253	-
+pH322_2.tsv DNA replication protein	CDS	3	959	+
+pH322_2.tsv FIG00553445: hypothetical protein	CDS	43966	44913	+
+pH322_2.tsv FIG00553515: hypothetical protein	CDS	40394	41971	+
+pH322_2.tsv FIG00553537: hypothetical protein	CDS	2935	3993	+
+pH322_2.tsv FIG00553587: hypothetical protein	CDS	8911	9294	+
+pH322_2.tsv FIG00554127: hypothetical protein	CDS	26567	26866	-
+pH322_2.tsv FIG00554149: hypothetical protein	CDS	92607	92774	+
+pH322_2.tsv FIG00554159: hypothetical protein	CDS	82312	82638	-
+pH322_2.tsv FIG00554570: hypothetical protein	CDS	86588	87844	-
+pH322_2.tsv Glutathione S-transferase (EC 2.5.1.18) CDS	81676	82272	+
+pH322_2.tsv Guanine deaminase (EC 3.5.4.3) CDS	79775	81091	-
+pH322_2.tsv HipB protein @ Antitoxin HigA	CDS	103985	104266	-
+pH322_2.tsv Histone acetyltransferase HPA2 and related acetyltransferases	CDS	18352	18783	-
+pH322_2.tsv HTH-type transcriptional repressor YcgE	CDS	29128	29871	+
+pH322_2.tsv Hypothetical ABC transport system, periplasmic component	CDS	22184	22990	+
+pH322_2.tsv hypothetical protein	CDS	92899	95838	+
+pH322_2.tsv hypothetical protein	CDS	74375	76387	+
+pH322_2.tsv hypothetical protein	CDS	13255	14403	+
+pH322_2.tsv hypothetical protein	CDS	42064	42879	-
+pH322_2.tsv hypothetical protein	CDS	78953	79753	+
+pH322_2.tsv hypothetical protein	CDS	85247	86017	-
+pH322_2.tsv hypothetical protein	CDS	64330	64851	+
+pH322_2.tsv hypothetical protein	CDS	33662	34060	+
+pH322_2.tsv hypothetical protein	CDS	63766	64158	-
+pH322_2.tsv hypothetical protein	CDS	17446	17802	-
+pH322_2.tsv hypothetical protein	CDS	39897	40244	+
+pH322_2.tsv hypothetical protein	CDS	24000	24320	-
+pH322_2.tsv hypothetical protein	CDS	25028	25339	+
+pH322_2.tsv hypothetical protein	CDS	76452	76718	-
+pH322_2.tsv hypothetical protein	CDS	114740	114967	-
+pH322_2.tsv hypothetical protein	CDS	117846	118049	-
+pH322_2.tsv hypothetical protein	CDS	90702	90869	+
+pH322_2.tsv hypothetical protein	CDS	39262	39405	-
+pH322_2.tsv hypothetical protein	CDS	86463	86603	+
+pH322_2.tsv hypothetical protein	CDS	37216	37350	+
+pH322_2.tsv hypothetical protein	CDS	43137	43262	-
+pH322_2.tsv hypothetical protein	CDS	39717	39836	+
+pH322_2.tsv hypothetical protein	CDS	117644	117760	-
+pH322_2.tsv hypothetical protein	CDS	70306	70419	-
+pH322_2.tsv hypothetical protein	CDS	81194	81304	+
+pH322_2.tsv Integrase/recombinase	CDS	70864	71838	+
+pH322_2.tsv Iron-chelator utilization protein	CDS	104397	105281	-
+pH322_2.tsv L-lysine 6-monooxygenase [NADPH] (EC 1.14.13.59), aerobactin biosynthesis protein IucD @ Siderophore biosynthesis protein, monooxygenase	CDS	111052	112374	+
+pH322_2.tsv Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196) CDS	95901	97976	-
+pH322_2.tsv LSU ribosomal protein L16p arginine hydroxylase	CDS	91336	92457	-
+pH322_2.tsv LysR family transcriptional regulator KPN 02280	CDS	22965	23864	-
+pH322_2.tsv Malto-oligosyltrehalose synthase (EC 5.4.99.15) CDS	98045	100576	-
+pH322_2.tsv Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141) CDS	100573	102357	-
+pH322_2.tsv Membrane protein, suppressor for copper-sensitivity ScsB	CDS	60677	62698	-
+pH322_2.tsv Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	29950	31860	-
+pH322_2.tsv Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	82937	84550	-
+pH322_2.tsv Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	84541	84885	-
+pH322_2.tsv Methyl-accepting chemotaxis sensor/transducer protein	CDS	77000	78658	-
+pH322_2.tsv Mg(2+) transport ATPase, P-type (EC 3.6.3.2) CDS	88052	90742	-
+pH322_2.tsv N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase (EC 6.3.2.38), aerobactin biosynthesis protein IucA	CDS	106625	108373	+
+pH322_2.tsv N6-hydroxylysine O-acetyltransferase (EC 2.3.1.102), aerobactin biosynthesis protein IucB @ Siderophore synthetase small component, acetyltransferase	CDS	108363	109313	+
+pH322_2.tsv Non-heme chloroperoxidase (EC 1.11.1.10) CDS	34840	35661	+
+pH322_2.tsv NUDIX hydrolase	CDS	17883	18326	-
+pH322_2.tsv Outer membrane protein V	CDS	10399	11169	-
+pH322_2.tsv Oxidoreductase, short-chain dehydrogenase/reductase family	CDS	71868	72542	-
+pH322_2.tsv Permease of the drug/metabolite transporter (DMT) superfamily	CDS	50278	51156	-
+pH322_2.tsv Phosphoglycerate mutase	CDS	1328	1945	+
+pH322_2.tsv Possible H+-antiporter clustered with aerobactin genes	CDS	105278	106489	-
+pH322_2.tsv probable integral membrane protein NMA1777	CDS	19016	19927	-
+pH322_2.tsv Probable transcription regulator Mig-14	CDS	9347	10237	-
+pH322_2.tsv Probable two-component-system connector protein AriR	CDS	26248	26514	-
+pH322_2.tsv Probable two-component-system connector protein YcgZ	CDS	27036	27275	-
+pH322_2.tsv Prolyl endopeptidase (EC 3.4.21.26) CDS	32293	32679	+
+pH322_2.tsv Protease VII (Omptin) precursor (EC 3.4.23.49) @ Outer membrane protease PgtE	CDS	6346	7284	+
+pH322_2.tsv Protein tyrosine phosphatase	CDS	72914	73945	+
+pH322_2.tsv PTS system, beta-glucoside-specific IIB component / PTS system, beta-glucoside-specific IIC component	CDS	35707	37083	-
+pH322_2.tsv Rhomboid family protein	CDS	2044	2811	+
+pH322_2.tsv RND efflux system, inner membrane transporter	CDS	14404	17454	+
+pH322_2.tsv Starvation sensing protein RspA	CDS	37363	38562	+
+pH322_2.tsv Suppression of copper sensitivity: putative copper binding protein ScsA	CDS	62745	63203	-
+pH322_2.tsv T6SS component Hcp	CDS	43465	43947	+
+pH322_2.tsv T6SS component TssB (ImpB/VipA) CDS	53276	53773	+
+pH322_2.tsv T6SS component TssC (ImpC/VipB) CDS	53814	55349	+
+pH322_2.tsv T6SS component TssF (ImpG/VasA) CDS	56573	58336	+
+pH322_2.tsv T6SS component TssG (ImpH/VasB) CDS	58300	59388	+
+pH322_2.tsv T6SS component TssK (ImpJ/VasE) CDS	55360	55884	+
+pH322_2.tsv T6SS component TssM (IcmF/VasK) CDS	55913	56524	+
+pH322_2.tsv T6SS secretion lipoprotein TssJ (VasD) CDS	59369	59896	+
+pH322_2.tsv Thiol:disulfide interchange protein DsbG precursor	CDS	59931	60680	-
+pH322_2.tsv Toxin HigB / Protein kinase domain of HipA	CDS	102663	103982	-
+pH322_2.tsv Transcriptional regulator, AcrR family	CDS	19974	20585	+
+pH322_2.tsv Transcriptional regulator, AcrR family	CDS	24416	25006	+
+pH322_2.tsv Transcriptional regulator, ArsR family	CDS	34033	34758	+
+pH322_2.tsv Transcriptional regulator, DeoR family	CDS	8159	8854	+
+pH322_2.tsv Transcriptional regulator, GntR family	CDS	38550	39269	-
+pH322_2.tsv Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1) CDS	51249	52583	+
+pH322_2.tsv Trk potassium uptake system protein TrkG	CDS	45584	47059	+
+pH322_2.tsv Two-component system sensor histidine kinase	CDS	11983	13161	+
+pH322_2.tsv Two-component transcriptional response regulator, LuxR family	CDS	11294	11986	+
+pH322_2.tsv Uncharacterized cysteine-rich DUF326 protein bsYhjQ/STM1261	CDS	45135	45461	+
+pH322_2.tsv Uncharacterized inner membrane protein YnaJ	CDS	63249	63509	-
+pH322_2.tsv Uncharacterized MFS-type transporter	CDS	20884	22191	+
+pH322_2.tsv Uncharacterized MFS-type transporter	CDS	68331	69566	+
+pH322_2.tsv Uncharacterized MFS-type transporter	CDS	4822	6030	+
+pH322_2.tsv Uncharacterized protein Bsu1883a	CDS	39465	39758	-
+pH322_2.tsv Uncharacterized protein YmjA	CDS	64969	65214	+
+pSP291-1.tsv AAA family ATPase	CDS	115663	116862	-
+pSP291-1.tsv AAA family ATPase	CDS	84821	85591	-
+pSP291-1.tsv ABC transporter ATP-binding protein	CDS	61894	62652	-
+pSP291-1.tsv ABC transporter six-transmembrane domain-containing protein	CDS	19150	20036	-
+pSP291-1.tsv ABC transporter substrate-binding protein	CDS	63689	64672	-
+pSP291-1.tsv acetyltransferase	CDS	107932	108879	+
+pSP291-1.tsv aerobactin synthase IucA	CDS	106191	107939	+
+pSP291-1.tsv alpha/beta hydrolase	CDS	34924	35745	+
+pSP291-1.tsv antibiotic biosynthesis monooxygenase	CDS	33430	33753	+
+pSP291-1.tsv arsC	CDS	46934	47338	-
+pSP291-1.tsv arsenic transporter	CDS	47382	48665	-
+pSP291-1.tsv autotransporter domain-containing protein	CDS	92469	95405	+
+pSP291-1.tsv cupin domain-containing protein	CDS	90906	92027	-
+pSP291-1.tsv diguanylate phosphodiesterase	CDS	27773	28990	+
+pSP291-1.tsv dihydrodipicolinate synthase family protein	CDS	49178	50065	-
+pSP291-1.tsv DMT family transporter	CDS	50090	50968	-
+pSP291-1.tsv dsbG	CDS	56539	57288	-
+pSP291-1.tsv DUF2534 family protein	CDS	59856	60116	-
+pSP291-1.tsv DUF4440 domain-containing protein	CDS	39980	40327	+
+pSP291-1.tsv efflux RND transporter periplasmic adaptor subunit	CDS	13363	14514	+
+pSP291-1.tsv efflux RND transporter permease subunit	CDS	14515	17565	+
+pSP291-1.tsv Exc2 family lipoprotein	CDS	81886	82287	-
+pSP291-1.tsv glgX	CDS	95467	97542	-
+pSP291-1.tsv glutathione S-transferase family protein	CDS	81250	81846	+
+pSP291-1.tsv GNAT family N-acetyltransferase	CDS	3626	4156	-
+pSP291-1.tsv GNAT family N-acetyltransferase	CDS	32813	33328	-
+pSP291-1.tsv GNAT family N-acetyltransferase	CDS	18463	18894	-
+pSP291-1.tsv GntR family transcriptional regulator	CDS	38633	39352	-
+pSP291-1.tsv guaD	CDS	79362	80677	-
+pSP291-1.tsv HAMP domain-containing protein	CDS	30047	31957	-
+pSP291-1.tsv helix-turn-helix domain-containing protein	CDS	103551	103832	-
+pSP291-1.tsv histidine phosphatase family protein	CDS	956	1573	+
+pSP291-1.tsv histidine phosphatase family protein	CDS	75452	76021	-
+pSP291-1.tsv hypothetical protein	CDS	71563	74724	+
+pSP291-1.tsv hypothetical protein	CDS	86163	87419	-
+pSP291-1.tsv hypothetical protein	CDS	68536	69759	+
+pSP291-1.tsv hypothetical protein	CDS	37446	38645	+
+pSP291-1.tsv hypothetical protein	CDS	2563	3621	+
+pSP291-1.tsv hypothetical protein	CDS	44040	44978	+
+pSP291-1.tsv hypothetical protein	CDS	42138	42953	-
+pSP291-1.tsv hypothetical protein	CDS	78540	79340	+
+pSP291-1.tsv hypothetical protein	CDS	1672	2439	+
+pSP291-1.tsv hypothetical protein	CDS	7157	7699	+
+pSP291-1.tsv hypothetical protein	CDS	7696	8235	+
+pSP291-1.tsv hypothetical protein	CDS	59353	59811	-
+pSP291-1.tsv hypothetical protein	CDS	33746	34144	+
+pSP291-1.tsv hypothetical protein	CDS	60444	60832	+
+pSP291-1.tsv hypothetical protein	CDS	32390	32776	+
+pSP291-1.tsv hypothetical protein	CDS	9019	9402	+
+pSP291-1.tsv hypothetical protein	CDS	24101	24421	-
+pSP291-1.tsv hypothetical protein	CDS	25129	25440	+
+pSP291-1.tsv hypothetical protein	CDS	26665	26964	-
+pSP291-1.tsv hypothetical protein	CDS	76034	76303	-
+pSP291-1.tsv hypothetical protein	CDS	114307	114534	-
+pSP291-1.tsv hypothetical protein	CDS	92177	92344	+
+pSP291-1.tsv iron ABC transporter permease	CDS	62649	63689	-
+pSP291-1.tsv iucC	CDS	108876	110621	+
+pSP291-1.tsv LysR family transcriptional regulator	CDS	23074	23973	-
+pSP291-1.tsv MCP four helix bundle domain-containing protein	CDS	76587	78245	-
+pSP291-1.tsv MerR family transcriptional regulator	CDS	29225	29968	+
+pSP291-1.tsv metallophosphoesterase	CDS	25475	26215	-
+pSP291-1.tsv metalloregulator ArsR/SmtB family transcription factor	CDS	48753	49088	-
+pSP291-1.tsv methyl-accepting chemotaxis protein	CDS	82511	84457	-
+pSP291-1.tsv MFS transporter	CDS	20993	22300	+
+pSP291-1.tsv MFS transporter	CDS	64936	66171	+
+pSP291-1.tsv MFS transporter	CDS	104844	106055	-
+pSP291-1.tsv MFS transporter	CDS	4446	5654	+
+pSP291-1.tsv mgtA	CDS	87626	90340	-
+pSP291-1.tsv MipA/OmpV family protein	CDS	10507	11277	-
+pSP291-1.tsv NINE protein	CDS	39548	39841	-
+pSP291-1.tsv nuclear transport factor 2 family protein	CDS	17557	17913	-
+pSP291-1.tsv NUDIX domain-containing protein	CDS	17994	18437	-
+pSP291-1.tsv omptin family outer membrane protease	CDS	5970	6908	+
+pSP291-1.tsv ParB/RepB/Spo0J family partition protein	CDS	114687	115655	-
+pSP291-1.tsv phospholipase D family protein	CDS	69753	71570	+
+pSP291-1.tsv PLP-dependent aminotransferase family protein	CDS	51060	52394	+
+pSP291-1.tsv PTS transporter subunit EIIC	CDS	35792	37168	-
+pSP291-1.tsv RepB family plasmid replication initiator protein	CDS	1	118136	+
+pSP291-1.tsv response regulator transcription factor	CDS	11402	12094	+
+pSP291-1.tsv SDR family oxidoreductase	CDS	74731	75405	-
+pSP291-1.tsv sensor domain-containing diguanylate cyclase	CDS	40477	42054	+
+pSP291-1.tsv SidA/IucD/PvdA family monooxygenase	CDS	110618	111940	+
+pSP291-1.tsv siderophore-interacting protein	CDS	103963	104847	-
+pSP291-1.tsv SMI1/KNR4 family protein	CDS	60935	61455	+
+pSP291-1.tsv substrate-binding domain-containing protein	CDS	22293	23099	+
+pSP291-1.tsv TetR family transcriptional regulator	CDS	20137	20694	+
+pSP291-1.tsv TetR/AcrR family transcriptional regulator	CDS	24517	25107	+
+pSP291-1.tsv thioredoxin family protein	CDS	57285	59306	-
+pSP291-1.tsv TonB-dependent siderophore receptor	CDS	111963	114158	+
+pSP291-1.tsv transcriptional regulator	CDS	9455	10345	-
+pSP291-1.tsv treY	CDS	97611	100142	-
+pSP291-1.tsv treZ	CDS	100139	101923	-
+pSP291-1.tsv Trk system potassium uptake protein TrkG	CDS	45397	46872	+
+pSP291-1.tsv tssB	CDS	53083	53579	+
+pSP291-1.tsv tssC	CDS	53614	55155	+
+pSP291-1.tsv tssJ	CDS	55978	56505	+
+pSP291-1.tsv tssK	CDS	55166	55603	+
+pSP291-1.tsv two-component sensor histidine kinase	CDS	12091	13269	+
+pSP291-1.tsv two-component-system connector protein AriR	CDS	26349	26627	-
+pSP291-1.tsv two-component-system connector protein YcgZ	CDS	27134	27372	-
+pSP291-1.tsv type II toxin-antitoxin system HipA family toxin	CDS	102229	103548	-
+pSP291-1.tsv type VI secretion system baseplate subunit TssG	CDS	55554	55997	+
+pSP291-1.tsv type VI secretion system tube protein Hcp	CDS	43539	44021	+
+pSP291-1.tsv tyrosine-type recombinase/integrase	CDS	67464	68441	+
+pSP291-1.tsv winged helix-turn-helix transcriptional regulator	CDS	34117	34842	+
+pSP291-1.tsv YafY family transcriptional regulator	CDS	8267	8962	+
+pSP291-1.tsv YmjA family protein	CDS	61573	61818	+
+pSP291-2.tsv AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	38684	38914	-
+pSP291-2.tsv cusF	CDS	15283	15636	-
+pSP291-2.tsv DUF305 domain-containing protein	CDS	20218	20568	+
+pSP291-2.tsv DUF1493 family protein	CDS	43341	43634	-
+pSP291-2.tsv DUF2933 domain-containing protein	CDS	7387	7584	-
+pSP291-2.tsv DUF4225 domain-containing protein	CDS	36405	37175	+
+pSP291-2.tsv DUF4238 domain-containing protein	CDS	46644	47645	+
+pSP291-2.tsv glutathione S-transferase C-terminal domain-containing protein	CDS	35607	36014	-
+pSP291-2.tsv HNH endonuclease	CDS	20986	21893	-
+pSP291-2.tsv hypothetical protein	CDS	27250	28623	-
+pSP291-2.tsv hypothetical protein	CDS	28634	29722	-
+pSP291-2.tsv hypothetical protein	CDS	48958	49884	-
+pSP291-2.tsv hypothetical protein	CDS	42494	43197	+
+pSP291-2.tsv hypothetical protein	CDS	30656	31288	+
+pSP291-2.tsv hypothetical protein	CDS	43628	44083	-
+pSP291-2.tsv hypothetical protein	CDS	5878	6327	+
+pSP291-2.tsv hypothetical protein	CDS	10195	10635	-
+pSP291-2.tsv hypothetical protein	CDS	47829	48170	-
+pSP291-2.tsv hypothetical protein	CDS	37179	37502	-
+pSP291-2.tsv hypothetical protein	CDS	30287	30589	+
+pSP291-2.tsv hypothetical protein	CDS	37559	37852	-
+pSP291-2.tsv hypothetical protein	CDS	48654	48908	-
+pSP291-2.tsv hypothetical protein	CDS	33823	34062	-
+pSP291-2.tsv hypothetical protein	CDS	24485	24706	+
+pSP291-2.tsv hypothetical protein	CDS	32099	32317	-
+pSP291-2.tsv hypothetical protein	CDS	44328	44507	-
+pSP291-2.tsv MFS transporter	CDS	44554	45573	+
+pSP291-2.tsv nucleotidyltransferase	CDS	25739	27066	-
+pSP291-2.tsv ParA family protein	CDS	34115	34732	-
+pSP291-2.tsv pcoA	CDS	3827	5643	-
+pSP291-2.tsv pcoB	CDS	2931	3821	-
+pSP291-2.tsv pcoC	CDS	2511	2891	-
+pSP291-2.tsv pcoD	CDS	1577	2506	-
+pSP291-2.tsv pcoE	CDS	50933	51367	-
+pSP291-2.tsv pcoR	CDS	843	1522	-
+pSP291-2.tsv pcoS	CDS	1	52134	-
+pSP291-2.tsv peptidoglycan DD-metalloendopeptidase family protein	CDS	6616	7353	+
+pSP291-2.tsv phage integrase family protein	CDS	31318	32106	+
+pSP291-2.tsv protein TraE	CDS	41167	41473	+
+pSP291-2.tsv RepB family plasmid replication initiator protein	CDS	32486	33358	-
+pSP291-2.tsv sensor domain-containing diguanylate cyclase	CDS	22531	23523	+
+pSP291-2.tsv silA	CDS	10721	13867	-
+pSP291-2.tsv silB	CDS	13878	15169	-
+pSP291-2.tsv silC	CDS	15665	17050	-
+pSP291-2.tsv silE	CDS	19639	20070	+
+pSP291-2.tsv silP	CDS	7625	10097	-
+pSP291-2.tsv silR	CDS	17240	17920	+
+pSP291-2.tsv silS	CDS	17913	19388	+
+pSP291-2.tsv SLATT domain-containing protein	CDS	25156	25731	-
+pSP291-2.tsv thioredoxin domain-containing protein	CDS	41427	41825	+
+pSP291-2.tsv type I toxin-antitoxin system Hok family toxin	CDS	39362	39520	+
+pSP291-2.tsv type II toxin-antitoxin system ParD family antitoxin	CDS	50159	50419	+
+pSP291-2.tsv type II toxin-antitoxin system RelE/ParE family toxin	CDS	50406	50702	+
+pSP291-2.tsv type II toxin-antitoxin system VapC family toxin	CDS	38271	38687	-
+pSP291-3.tsv hypothetical protein	CDS	2875	3336	+
+pSP291-3.tsv hypothetical protein	CDS	2326	2541	-
+pSP291-3.tsv MbeB family mobilization protein	CDS	926	1417	+
+pSP291-3.tsv MbeD family mobilization/exclusion protein	CDS	1424	1639	+
+pSP291-3.tsv MobC family plasmid mobilization relaxosome protein	CDS	1	4422	+
+pSP291-3.tsv relaxase/mobilization nuclease domain-containingprotein	CDS	239	913	+

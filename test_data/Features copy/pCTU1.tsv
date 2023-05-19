@@ -1,0 +1,137 @@
+name	type	start	stop	strand
+arbF	CDS	51021	52895	+
+arbG	CDS	50018	50899	+
+ariR	CDS	16907	17185	-
+arsB	CDS	38538	39821	-
+arsC	CDS	38080	38493	-
+arsR	CDS	39910	40287	-
+Arylesterase	CDS	27809	28630	+
+casB	CDS	52911	54302	+
+dsbG	CDS	43612	44367	-
+fecE	CDS	45608	46366	-
+glgX	CDS	88039	90117	-
+guaD	CDS	71849	73201	-
+hcp1	CDS	34824	35306	+
+hipA	CDS	94803	96122	-
+hypothetical protein	CDS	113660	124639	+
+hypothetical protein	CDS	59390	62542	+
+hypothetical protein	CDS	85173	87980	+
+hypothetical protein	CDS	90186	92717	-
+hypothetical protein	CDS	75049	76995	-
+hypothetical protein	CDS	66928	68847	+
+hypothetical protein	CDS	57580	59397	+
+hypothetical protein	CDS	69060	70718	-
+hypothetical protein	CDS	112144	113646	+
+hypothetical protein	CDS	32706	34187	+
+hypothetical protein	CDS	64590	66041	+
+hypothetical protein	CDS	14738	16168	+
+hypothetical protein	CDS	28680	30056	-
+hypothetical protein	CDS	42211	43551	+
+hypothetical protein	CDS	78698	79954	-
+hypothetical protein	CDS	48651	49886	+
+hypothetical protein	CDS	56363	57586	+
+hypothetical protein	CDS	97425	98636	-
+hypothetical protein	CDS	30336	31535	+
+hypothetical protein	CDS	4038	5225	+
+hypothetical protein	CDS	2146	3204	+
+hypothetical protein	CDS	46363	47403	-
+hypothetical protein	CDS	63272	64306	-
+hypothetical protein	CDS	128258	129271	+
+hypothetical protein	CDS	47403	48410	-
+hypothetical protein	CDS	55319	56275	+
+hypothetical protein	CDS	130734	131690	+
+hypothetical protein	CDS	13642	14583	-
+hypothetical protein	CDS	35325	36263	+
+hypothetical protein	CDS	96541	97461	-
+hypothetical protein	CDS	11379	12269	-
+hypothetical protein	CDS	40335	41222	-
+hypothetical protein	CDS	41247	42125	-
+hypothetical protein	CDS	7641	8504	-
+hypothetical protein	CDS	71023	71814	+
+hypothetical protein	CDS	1267	2034	+
+hypothetical protein	CDS	31523	32290	-
+hypothetical protein	CDS	27002	27727	+
+hypothetical protein	CDS	62549	63223	-
+hypothetical protein	CDS	135631	136305	+
+hypothetical protein	CDS	6491	7147	+
+hypothetical protein	CDS	531	1175	+
+hypothetical protein	CDS	133221	133814	+
+hypothetical protein	CDS	134143	134709	+
+hypothetical protein	CDS	66051	66614	-
+hypothetical protein	CDS	12391	12948	+
+hypothetical protein	CDS	135073	135618	+
+hypothetical protein	CDS	5341	5883	+
+hypothetical protein	CDS	25699	26241	-
+hypothetical protein	CDS	5880	6419	+
+hypothetical protein	CDS	136968	137477	+
+hypothetical protein	CDS	10852	11340	+
+hypothetical protein	CDS	10259	10744	-
+hypothetical protein	CDS	77645	78130	-
+hypothetical protein	CDS	25178	25660	+
+hypothetical protein	CDS	126026	126508	+
+hypothetical protein	CDS	131691	132173	+
+hypothetical protein	CDS	127816	128241	+
+hypothetical protein	CDS	73929	74348	+
+hypothetical protein	CDS	13247	13657	+
+hypothetical protein	CDS	74416	74817	-
+hypothetical protein	CDS	26631	27029	+
+hypothetical protein	CDS	24559	24945	+
+hypothetical protein	CDS	7204	7587	+
+hypothetical protein	CDS	129925	130296	+
+hypothetical protein	CDS	132463	132828	+
+hypothetical protein	CDS	9821	10177	-
+hypothetical protein	CDS	137480	137815	+
+hypothetical protein	CDS	26315	26638	+
+hypothetical protein	CDS	3363	3674	-
+hypothetical protein	CDS	17226	17525	-
+hypothetical protein	CDS	20543	20833	-
+hypothetical protein	CDS	77361	77645	-
+hypothetical protein	CDS	96125	96406	-
+hypothetical protein	CDS	106975	107190	-
+hypothetical protein	CDS	125811	126008	+
+hypothetical protein	CDS	82862	83056	+
+hypothetical protein	CDS	16623	16805	+
+hypothetical protein	CDS	78473	78646	-
+hypothetical protein	CDS	125256	125429	+
+hypothetical protein	CDS	16406	16576	+
+hypothetical protein	CDS	132228	132398	-
+hypothetical protein	CDS	66691	66858	-
+hypothetical protein	CDS	84749	84916	+
+hypothetical protein	CDS	138167	138334	+
+hypothetical protein	CDS	79965	80129	-
+hypothetical protein	CDS	6	167	+
+hypothetical protein	CDS	109786	109944	+
+hypothetical protein	CDS	126915	127073	-
+hypothetical protein	CDS	44942	45091	+
+hypothetical protein	CDS	16177	16317	-
+hypothetical protein	CDS	66882	67022	+
+hypothetical protein	CDS	55111	55242	+
+hypothetical protein	CDS	78127	78255	-
+hypothetical protein	CDS	111723	111851	+
+hypothetical protein	CDS	3209	3334	-
+hypothetical protein	CDS	129797	129919	+
+hypothetical protein	CDS	44794	44910	+
+hypothetical protein	CDS	127213	127329	-
+hypothetical protein	CDS	24121	24234	+
+hypothetical protein	CDS	54735	54848	-
+iucA	CDS	98772	100520	+
+iucB	CDS	100582	101460	+
+iucC	CDS	101454	103202	+
+iucD	CDS	103196	104521	+
+iutA	CDS	104540	106741	+
+mgtB	CDS	80161	82875	-
+parA	CDS	108306	109502	-
+parB	CDS	107330	108298	-
+repA	CDS	110399	111367	+
+tar	CDS	22208	24118	-
+tehA	CDS	21143	22150	+
+treZ	CDS	92714	94546	-
+trkG	CDS	36548	38023	+
+ycfD	CDS	83478	84632	-
+ycgE	CDS	19745	20518	+
+ycgF	CDS	18325	19542	+
+ycgZ	CDS	17694	17933	-
+ygjM	CDS	9233	9652	+
+ygjN	CDS	8925	9236	+
+ymjA	CDS	45289	45534	+
+ynaJ	CDS	44424	44684	-

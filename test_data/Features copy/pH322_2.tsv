@@ -1,0 +1,119 @@
+name	type	start	stop	strand
+3',5'-cyclic-nucleotide phosphodiesterase (EC 3.1.4.17) CDS	25374	26114	-
+Acetyltransferase	CDS	3998	4528	-
+Acetyltransferase	CDS	32729	33244	-
+Aerobactin siderophore receptor IutA @ TonB-dependent siderophore receptor	CDS	112397	114592	+
+Aerobactin synthase (EC 6.3.2.39), aerobactin biosynthesis protein IucC	CDS	109310	111055	+
+Antibiotic biosynthesis monooxygenase	CDS	33346	33669	+
+Arsenate reductase (EC 1.20.4.1) glutaredoxin-coupled, glutaredoxin-like family	CDS	47112	47525	-
+Arsenical resistance operon repressor	CDS	48941	49276	-
+Arsenite/antimonite:H+ antiporter ArsB	CDS	47570	48853	-
+Blue light- and temperature-regulated antirepressor BluF	CDS	27676	28893	+
+Chromosome (plasmid) partitioning protein ParA	CDS	116098	117294	-
+Chromosome (plasmid) partitioning protein ParB	CDS	115122	116090	-
+Cobalt ABC transporter, ATP-binding protein CbtL	CDS	65288	66046	-
+Cobalt ABC transporter, permease protein CbtK	CDS	66043	67083	-
+Cobalt ABC transporter, substrate-binding protein CbtJ	CDS	67083	68090	-
+CpmJ protein	CDS	7533	8075	+
+Dihydrodipicolinate synthase family	CDS	49366	50253	-
+DNA replication protein	CDS	3	959	+
+FIG00553445: hypothetical protein	CDS	43966	44913	+
+FIG00553515: hypothetical protein	CDS	40394	41971	+
+FIG00553537: hypothetical protein	CDS	2935	3993	+
+FIG00553587: hypothetical protein	CDS	8911	9294	+
+FIG00554127: hypothetical protein	CDS	26567	26866	-
+FIG00554149: hypothetical protein	CDS	92607	92774	+
+FIG00554159: hypothetical protein	CDS	82312	82638	-
+FIG00554570: hypothetical protein	CDS	86588	87844	-
+Glutathione S-transferase (EC 2.5.1.18) CDS	81676	82272	+
+Guanine deaminase (EC 3.5.4.3) CDS	79775	81091	-
+HipB protein @ Antitoxin HigA	CDS	103985	104266	-
+Histone acetyltransferase HPA2 and related acetyltransferases	CDS	18352	18783	-
+HTH-type transcriptional repressor YcgE	CDS	29128	29871	+
+Hypothetical ABC transport system, periplasmic component	CDS	22184	22990	+
+hypothetical protein	CDS	92899	95838	+
+hypothetical protein	CDS	74375	76387	+
+hypothetical protein	CDS	13255	14403	+
+hypothetical protein	CDS	42064	42879	-
+hypothetical protein	CDS	78953	79753	+
+hypothetical protein	CDS	85247	86017	-
+hypothetical protein	CDS	64330	64851	+
+hypothetical protein	CDS	33662	34060	+
+hypothetical protein	CDS	63766	64158	-
+hypothetical protein	CDS	17446	17802	-
+hypothetical protein	CDS	39897	40244	+
+hypothetical protein	CDS	24000	24320	-
+hypothetical protein	CDS	25028	25339	+
+hypothetical protein	CDS	76452	76718	-
+hypothetical protein	CDS	114740	114967	-
+hypothetical protein	CDS	117846	118049	-
+hypothetical protein	CDS	90702	90869	+
+hypothetical protein	CDS	39262	39405	-
+hypothetical protein	CDS	86463	86603	+
+hypothetical protein	CDS	37216	37350	+
+hypothetical protein	CDS	43137	43262	-
+hypothetical protein	CDS	39717	39836	+
+hypothetical protein	CDS	117644	117760	-
+hypothetical protein	CDS	70306	70419	-
+hypothetical protein	CDS	81194	81304	+
+Integrase/recombinase	CDS	70864	71838	+
+Iron-chelator utilization protein	CDS	104397	105281	-
+L-lysine 6-monooxygenase [NADPH] (EC 1.14.13.59), aerobactin biosynthesis protein IucD @ Siderophore biosynthesis protein, monooxygenase	CDS	111052	112374	+
+Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196) CDS	95901	97976	-
+LSU ribosomal protein L16p arginine hydroxylase	CDS	91336	92457	-
+LysR family transcriptional regulator KPN 02280	CDS	22965	23864	-
+Malto-oligosyltrehalose synthase (EC 5.4.99.15) CDS	98045	100576	-
+Malto-oligosyltrehalose trehalohydrolase (EC 3.2.1.141) CDS	100573	102357	-
+Membrane protein, suppressor for copper-sensitivity ScsB	CDS	60677	62698	-
+Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	29950	31860	-
+Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	82937	84550	-
+Methyl-accepting chemotaxis protein I (serine chemoreceptor protein) CDS	84541	84885	-
+Methyl-accepting chemotaxis sensor/transducer protein	CDS	77000	78658	-
+Mg(2+) transport ATPase, P-type (EC 3.6.3.2) CDS	88052	90742	-
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase (EC 6.3.2.38), aerobactin biosynthesis protein IucA	CDS	106625	108373	+
+N6-hydroxylysine O-acetyltransferase (EC 2.3.1.102), aerobactin biosynthesis protein IucB @ Siderophore synthetase small component, acetyltransferase	CDS	108363	109313	+
+Non-heme chloroperoxidase (EC 1.11.1.10) CDS	34840	35661	+
+NUDIX hydrolase	CDS	17883	18326	-
+Outer membrane protein V	CDS	10399	11169	-
+Oxidoreductase, short-chain dehydrogenase/reductase family	CDS	71868	72542	-
+Permease of the drug/metabolite transporter (DMT) superfamily	CDS	50278	51156	-
+Phosphoglycerate mutase	CDS	1328	1945	+
+Possible H+-antiporter clustered with aerobactin genes	CDS	105278	106489	-
+probable integral membrane protein NMA1777	CDS	19016	19927	-
+Probable transcription regulator Mig-14	CDS	9347	10237	-
+Probable two-component-system connector protein AriR	CDS	26248	26514	-
+Probable two-component-system connector protein YcgZ	CDS	27036	27275	-
+Prolyl endopeptidase (EC 3.4.21.26) CDS	32293	32679	+
+Protease VII (Omptin) precursor (EC 3.4.23.49) @ Outer membrane protease PgtE	CDS	6346	7284	+
+Protein tyrosine phosphatase	CDS	72914	73945	+
+PTS system, beta-glucoside-specific IIB component / PTS system, beta-glucoside-specific IIC component	CDS	35707	37083	-
+Rhomboid family protein	CDS	2044	2811	+
+RND efflux system, inner membrane transporter	CDS	14404	17454	+
+Starvation sensing protein RspA	CDS	37363	38562	+
+Suppression of copper sensitivity: putative copper binding protein ScsA	CDS	62745	63203	-
+T6SS component Hcp	CDS	43465	43947	+
+T6SS component TssB (ImpB/VipA) CDS	53276	53773	+
+T6SS component TssC (ImpC/VipB) CDS	53814	55349	+
+T6SS component TssF (ImpG/VasA) CDS	56573	58336	+
+T6SS component TssG (ImpH/VasB) CDS	58300	59388	+
+T6SS component TssK (ImpJ/VasE) CDS	55360	55884	+
+T6SS component TssM (IcmF/VasK) CDS	55913	56524	+
+T6SS secretion lipoprotein TssJ (VasD) CDS	59369	59896	+
+Thiol:disulfide interchange protein DsbG precursor	CDS	59931	60680	-
+Toxin HigB / Protein kinase domain of HipA	CDS	102663	103982	-
+Transcriptional regulator, AcrR family	CDS	19974	20585	+
+Transcriptional regulator, AcrR family	CDS	24416	25006	+
+Transcriptional regulator, ArsR family	CDS	34033	34758	+
+Transcriptional regulator, DeoR family	CDS	8159	8854	+
+Transcriptional regulator, GntR family	CDS	38550	39269	-
+Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1) CDS	51249	52583	+
+Trk potassium uptake system protein TrkG	CDS	45584	47059	+
+Two-component system sensor histidine kinase	CDS	11983	13161	+
+Two-component transcriptional response regulator, LuxR family	CDS	11294	11986	+
+Uncharacterized cysteine-rich DUF326 protein bsYhjQ/STM1261	CDS	45135	45461	+
+Uncharacterized inner membrane protein YnaJ	CDS	63249	63509	-
+Uncharacterized MFS-type transporter	CDS	20884	22191	+
+Uncharacterized MFS-type transporter	CDS	68331	69566	+
+Uncharacterized MFS-type transporter	CDS	4822	6030	+
+Uncharacterized protein Bsu1883a	CDS	39465	39758	-
+Uncharacterized protein YmjA	CDS	64969	65214	+

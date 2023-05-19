@@ -1,0 +1,62 @@
+name	type	start	stop	strand
+cobalamin biosynthesis protein CbiX	CDS	9	188	+
+hypothetical protein	CDS	372	605	-
+StbC;pseudo	CDS	911	1277	-
+StdB protein	CDS	1279	1803	-
+plasmid stabilization protein	CDS	1796	1993	-
+hypothetical protein	CDS	2002	2433	-
+traK protein	CDS	2957	3373	+
+type IV secretion system DNA-binding domain-containing protein	CDS	3375	4904	+
+conjugative relaxase;pseudo	CDS	4904	8131	+
+hypothetical protein	CDS	8131	8751	+
+hypothetical protein	CDS	8790	9128	+
+phospholipase D family protein	CDS	9308	9841	-
+P-type DNA transfer ATPase VirB11	CDS	9841	10836	-
+type IV secretion system protein VirB10;pseudo	CDS	10878	12040	-
+TrbG/VirB9 family P-type conjugative transfer protein	CDS	12040	12924	-
+type IV secretion system protein	CDS	12935	13633	-
+type IV secretion system protein	CDS	13852	14889	-
+IncN-type entry exclusion lipoprotein EexN	CDS	14905	15129	-
+type IV secretion system protein	CDS	15137	15850	-
+VirB4 family type IV secretion/conjugal transfer ATPase;pseudo	CDS	15868	18469	-
+VirB3 family type IV secretion system protein	CDS	18469	18786	-
+conjugal transfer protein TraM	CDS	18836	19126	-
+transcriptional regulator	CDS	19136	19417	-
+lytic transglycosylase domain-containing protein	CDS	19426	20160	-
+H-NS histone family protein	CDS	20269	20574	+
+hypothetical protein	CDS	20590	20934	+
+IncN plasmid KikA protein	CDS	20931	21245	+
+hypothetical protein	CDS	21291	21602	+
+restriction endonuclease	CDS	21657	22229	+
+hypothetical protein	CDS	22206	22442	-
+hypothetical protein	CDS	22533	22871	-
+type II toxin-antitoxin system PemK/MazF family toxin	CDS	22944	23198	-
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	23199	23429	-
+recombinase family protein	CDS	23655	24224	+
+replication initiation protein	CDS	25262	25981	-
+transcriptional regulator KorA	CDS	26542	26868	+
+hypothetical protein	CDS	26971	27189	+
+SprT-like domain-containing protein	CDS	27205	27987	-
+translesion error-prone DNA polymerase V subunit MucB;pseudo	CDS	28138	29402	-
+translesion error-prone DNA polymerase V autoproteolytic subunit	CDS	29390	29830	-
+hypothetical protein	CDS	30368	30745	+
+DGQHR domain-containing protein	CDS	30797	32071	+
+hypothetical protein	CDS	32132	32440	+
+antirestriction protein	CDS	32567	32992	+
+antirestriction protein ArdR	CDS	33119	33460	+
+hypothetical protein	CDS	33465	34181	+
+cobalamin biosynthesis protein CbiX	CDS	34979	35281	+
+DUF905 domain-containing protein	CDS	35318	35524	+
+hypothetical protein	CDS	36011	36778	+
+cobalamin biosynthesis protein CbiX	CDS	36934	37218	+
+hypothetical protein	CDS	37345	37584	+
+recombinase family protein	CDS	38093	38650	-
+hypothetical protein	CDS	38644	39015	-
+transposase	CDS	39012	39512	-
+hypothetical protein	CDS	39509	39835	-
+cupin domain-containing protein	CDS	40090	40446	-
+DUF86 domain-containing protein	CDS	40436	40837	-
+nucleotidyltransferase	CDS	40834	41124	-
+Tn3-like element ISPa38 family transposase	CDS	41245	44247	+
+hypothetical protein	CDS	44365	44853	+
+hypothetical protein	CDS	44942	45274	+

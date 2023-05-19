@@ -1,0 +1,55 @@
+name	type	start	stop	strand
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	38684	38914	-
+cusF	CDS	15283	15636	-
+DUF305 domain-containing protein	CDS	20218	20568	+
+DUF1493 family protein	CDS	43341	43634	-
+DUF2933 domain-containing protein	CDS	7387	7584	-
+DUF4225 domain-containing protein	CDS	36405	37175	+
+DUF4238 domain-containing protein	CDS	46644	47645	+
+glutathione S-transferase C-terminal domain-containing protein	CDS	35607	36014	-
+HNH endonuclease	CDS	20986	21893	-
+hypothetical protein	CDS	27250	28623	-
+hypothetical protein	CDS	28634	29722	-
+hypothetical protein	CDS	48958	49884	-
+hypothetical protein	CDS	42494	43197	+
+hypothetical protein	CDS	30656	31288	+
+hypothetical protein	CDS	43628	44083	-
+hypothetical protein	CDS	5878	6327	+
+hypothetical protein	CDS	10195	10635	-
+hypothetical protein	CDS	47829	48170	-
+hypothetical protein	CDS	37179	37502	-
+hypothetical protein	CDS	30287	30589	+
+hypothetical protein	CDS	37559	37852	-
+hypothetical protein	CDS	48654	48908	-
+hypothetical protein	CDS	33823	34062	-
+hypothetical protein	CDS	24485	24706	+
+hypothetical protein	CDS	32099	32317	-
+hypothetical protein	CDS	44328	44507	-
+MFS transporter	CDS	44554	45573	+
+nucleotidyltransferase	CDS	25739	27066	-
+ParA family protein	CDS	34115	34732	-
+pcoA	CDS	3827	5643	-
+pcoB	CDS	2931	3821	-
+pcoC	CDS	2511	2891	-
+pcoD	CDS	1577	2506	-
+pcoE	CDS	50933	51367	-
+pcoR	CDS	843	1522	-
+pcoS	CDS	1	52134	-
+peptidoglycan DD-metalloendopeptidase family protein	CDS	6616	7353	+
+phage integrase family protein	CDS	31318	32106	+
+protein TraE	CDS	41167	41473	+
+RepB family plasmid replication initiator protein	CDS	32486	33358	-
+sensor domain-containing diguanylate cyclase	CDS	22531	23523	+
+silA	CDS	10721	13867	-
+silB	CDS	13878	15169	-
+silC	CDS	15665	17050	-
+silE	CDS	19639	20070	+
+silP	CDS	7625	10097	-
+silR	CDS	17240	17920	+
+silS	CDS	17913	19388	+
+SLATT domain-containing protein	CDS	25156	25731	-
+thioredoxin domain-containing protein	CDS	41427	41825	+
+type I toxin-antitoxin system Hok family toxin	CDS	39362	39520	+
+type II toxin-antitoxin system ParD family antitoxin	CDS	50159	50419	+
+type II toxin-antitoxin system RelE/ParE family toxin	CDS	50406	50702	+
+type II toxin-antitoxin system VapC family toxin	CDS	38271	38687	-

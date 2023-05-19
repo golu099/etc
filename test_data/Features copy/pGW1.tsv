@@ -1,0 +1,383 @@
+name	type	start	stop	strand
+2-oxo-tetronate isomerase	CDS	6259	6837	+
+AAA family ATPase	CDS	251869	252927	-
+AAA family ATPase	CDS	50948	51490	+
+aac(3)-IId	CDS	50075	50935	+
+aac(3)-IIg	CDS	335389	336198	+
+aac(6')-IIc	CDS	332723	333304	+
+alpha-2-macroglobulin family protein	CDS	11797	12591	-
+aminoglycoside O-phosphotransferase APH(3')-Ia	CDS	106293	107108	-
+aminoglycoside O-phosphotransferase APH(6)-Id	CDS	68912	69748	+
+ampR	CDS	14036	14911	+
+ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	CDS	45809	46600	-
+aph(3'')-Ib	CDS	68109	68912	+
+arsC	CDS	97720	98145	-
+arsenic transporter	CDS	98158	99447	-
+arsH	CDS	99900	100604	+
+ATP-dependent helicase	CDS	187137	188807	+
+ATP-dependent helicase	CDS	209843	210223	+
+ATP-grasp domain-containing protein	CDS	219419	220477	+
+cation transporter	CDS	157639	158562	-
+chrA	CDS	37206	38411	+
+class A broad-spectrum beta-lactamase TEM-1	CDS	55907	56767	+
+class A extended-spectrum beta-lactamase SFO-1	CDS	26538	27425	-
+class C beta-lactamase DHA-1	CDS	12786	13925	-
+conjugal transfer protein TraG N-terminal domain-containing protein	CDS	126048	129998	-
+conjugal transfer protein TraM	CDS	76897	77106	+
+conjugal transfer protein TraX	CDS	32665	33435	+
+cupin domain-containing protein	CDS	192159	192515	-
+cysteine protease StiP family protein	CDS	222397	223476	+
+cytochrome b/b6 domain-containing protein	CDS	158762	159334	-
+Dam family site-specific DNA-(adenine-N6)-methyltransferase	CDS	301891	302703	-
+DDE-type integrase/transposase/recombinase	CDS	206730	208412	-
+dfrA12	CDS	47008	47505	-
+dfrA19	CDS	65766	66335	+
+DNA cytosine methyltransferase	CDS	89495	90922	-
+DNA cytosine methyltransferase	CDS	71705	73108	-
+DsbA family protein	CDS	119688	120497	-
+DUF86 domain-containing protein	CDS	192505	192906	-
+DUF421 domain-containing protein	CDS	5865	6311	+
+DUF957 domain-containing protein	CDS	168471	168782	-
+DUF1010 domain-containing protein	CDS	46606	46896	-
+DUF1173 family protein	CDS	87925	89244	-
+DUF3085 domain-containing protein	CDS	167975	168466	-
+DUF3150 domain-containing protein	CDS	250373	251500	-
+DUF3330 domain-containing protein	CDS	203571	203891	+
+DUF3883 domain-containing protein	CDS	52465	53601	+
+DUF4102 domain-containing protein	CDS	180384	180560	+
+DUF4165 domain-containing protein	CDS	308177	310633	+
+DUF4225 domain-containing protein	CDS	33868	34674	-
+DUF4236 domain-containing protein	CDS	224443	225651	+
+DUF4400 domain-containing protein	CDS	142679	143341	+
+DUF4942 domain-containing protein	CDS	304484	306175	+
+DUF4942 domain-containing protein	CDS	85625	86443	+
+DUF5417 domain-containing protein	CDS	153107	154051	+
+EAL domain-containing protein	CDS	22004	22672	+
+ere(A) CDS	337620	338660	+
+EreA family erythromycin esterase	CDS	333510	333698	+
+ethidium bromide resistance protein	CDS	15173	15508	+
+flavin reductase	CDS	317872	318909	+
+GNAT family N-acetyltransferase	CDS	43837	44337	-
+H-NS histone family protein	CDS	75446	75796	-
+helix-turn-helix domain containing protein	CDS	110969	111364	-
+helix-turn-helix domain-containing protein	CDS	184794	184859	-
+helix-turn-helix transcriptional regulator	CDS	38422	38727	+
+HNH endonuclease	CDS	124348	125409	+
+HNH endonuclease	CDS	329589	329990	+
+HpcH/HpaI aldolase/citrate lyase family protein	CDS	223476	224432	+
+htdT	CDS	287144	287896	-
+hypA	CDS	14915	15280	-
+hypothetical protein	CDS	262997	264508	-
+hypothetical protein	CDS	86440	87645	+
+hypothetical protein	CDS	150819	152003	-
+hypothetical protein	CDS	303073	304236	+
+hypothetical protein	CDS	141583	142692	+
+hypothetical protein	CDS	232992	234074	-
+hypothetical protein	CDS	298031	299083	+
+hypothetical protein	CDS	273258	274295	-
+hypothetical protein	CDS	186154	187140	+
+hypothetical protein	CDS	252985	253962	-
+hypothetical protein	CDS	237209	238171	-
+hypothetical protein	CDS	240774	241730	-
+hypothetical protein	CDS	241902	242840	-
+hypothetical protein	CDS	243896	244831	-
+hypothetical protein	CDS	242907	243827	-
+hypothetical protein	CDS	236294	237199	-
+hypothetical protein	CDS	91655	92551	+
+hypothetical protein	CDS	170200	171093	-
+hypothetical protein	CDS	244901	245779	-
+hypothetical protein	CDS	254458	255330	-
+hypothetical protein	CDS	257689	258561	+
+hypothetical protein	CDS	275603	276439	+
+hypothetical protein	CDS	300272	301105	+
+hypothetical protein	CDS	133564	134364	-
+hypothetical protein	CDS	324456	325247	+
+hypothetical protein	CDS	221622	222395	+
+hypothetical protein	CDS	135606	136343	+
+hypothetical protein	CDS	149456	150157	-
+hypothetical protein	CDS	108715	109347	+
+hypothetical protein	CDS	307178	307804	-
+hypothetical protein	CDS	58525	59148	-
+hypothetical protein	CDS	120604	121215	+
+hypothetical protein	CDS	320690	321298	+
+hypothetical protein	CDS	164687	165292	-
+hypothetical protein	CDS	154147	154749	+
+hypothetical protein	CDS	239600	240190	-
+hypothetical protein	CDS	123667	124224	+
+hypothetical protein	CDS	147939	148475	-
+hypothetical protein	CDS	238725	239261	-
+hypothetical protein	CDS	245858	246379	-
+hypothetical protein	CDS	276432	276953	+
+hypothetical protein	CDS	133050	133562	-
+hypothetical protein	CDS	5352	5855	+
+hypothetical protein	CDS	65266	65766	+
+hypothetical protein	CDS	177388	177888	-
+hypothetical protein	CDS	191081	191581	-
+hypothetical protein	CDS	272746	273246	-
+hypothetical protein	CDS	31820	32315	+
+hypothetical protein	CDS	135124	135609	+
+hypothetical protein	CDS	289850	290311	-
+hypothetical protein	CDS	212332	212787	-
+hypothetical protein	CDS	306397	306852	+
+hypothetical protein	CDS	270687	271139	-
+hypothetical protein	CDS	148543	148980	-
+hypothetical protein	CDS	82957	83391	+
+hypothetical protein	CDS	319784	320212	+
+hypothetical protein	CDS	270272	270697	-
+hypothetical protein	CDS	121275	121697	-
+hypothetical protein	CDS	288015	288437	-
+hypothetical protein	CDS	114799	115206	+
+hypothetical protein	CDS	121731	122123	-
+hypothetical protein	CDS	276950	277339	+
+hypothetical protein	CDS	238262	238645	-
+hypothetical protein	CDS	59206	59586	-
+hypothetical protein	CDS	254023	254400	-
+hypothetical protein	CDS	319315	319692	+
+hypothetical protein	CDS	190713	191084	-
+hypothetical protein	CDS	147345	147713	-
+hypothetical protein	CDS	145553	145906	-
+hypothetical protein	CDS	201839	202192	+
+hypothetical protein	CDS	292752	293105	-
+hypothetical protein	CDS	29136	29486	+
+hypothetical protein	CDS	154809	155159	+
+hypothetical protein	CDS	75086	75430	-
+hypothetical protein	CDS	211467	211808	+
+hypothetical protein	CDS	326585	326914	+
+hypothetical protein	CDS	33567	33893	+
+hypothetical protein	CDS	191578	191904	-
+hypothetical protein	CDS	323577	323903	+
+hypothetical protein	CDS	169299	169619	-
+hypothetical protein	CDS	323014	323334	+
+hypothetical protein	CDS	112980	113297	+
+hypothetical protein	CDS	115257	115574	-
+hypothetical protein	CDS	92599	92913	+
+hypothetical protein	CDS	74428	74739	-
+hypothetical protein	CDS	166166	166477	-
+hypothetical protein	CDS	329032	329343	+
+hypothetical protein	CDS	56915	57223	-
+hypothetical protein	CDS	113320	113625	+
+hypothetical protein	CDS	146613	146912	-
+hypothetical protein	CDS	149025	149321	-
+hypothetical protein	CDS	145972	146256	-
+hypothetical protein	CDS	76606	76887	+
+hypothetical protein	CDS	150472	150753	-
+hypothetical protein	CDS	165509	165790	-
+hypothetical protein	CDS	306839	307120	+
+hypothetical protein	CDS	94569	94844	+
+hypothetical protein	CDS	240235	240510	-
+hypothetical protein	CDS	92987	93244	+
+hypothetical protein	CDS	320277	320534	+
+hypothetical protein	CDS	323969	324226	+
+hypothetical protein	CDS	210226	210480	-
+hypothetical protein	CDS	328730	328969	+
+hypothetical protein	CDS	169798	170028	-
+hypothetical protein	CDS	52187	52414	+
+hypothetical protein	CDS	166940	167164	-
+hypothetical protein	CDS	180038	180262	+
+hypothetical protein	CDS	247995	248216	-
+hypothetical protein	CDS	66736	66951	+
+hypothetical protein	CDS	199606	199818	-
+hypothetical protein	CDS	234435	234647	-
+hypothetical protein	CDS	73520	73726	-
+hypothetical protein	CDS	16538	16741	+
+hypothetical protein	CDS	87709	87912	-
+hypothetical protein	CDS	155206	155409	+
+hypothetical protein	CDS	167219	167422	-
+hypothetical protein	CDS	236014	236217	-
+hypothetical protein	CDS	166700	166900	-
+hypothetical protein	CDS	299103	299303	+
+hypothetical protein	CDS	325298	325498	+
+hypothetical protein	CDS	94231	94428	+
+hypothetical protein	CDS	329340	329534	+
+hypothetical protein	CDS	51972	52163	-
+hypothetical protein	CDS	211900	212091	+
+hypothetical protein	CDS	152420	152596	-
+hypothetical protein	CDS	165936	166112	-
+hypothetical protein	CDS	306172	306348	+
+hypothetical protein	CDS	251564	251737	-
+hypothetical protein	CDS	85253	85420	-
+hypothetical protein	CDS	89267	89434	-
+hypothetical protein	CDS	24875	25039	+
+hypothetical protein	CDS	280784	280945	-
+hypothetical protein	CDS	178678	178818	+
+hypothetical protein	CDS	330760	330900	+
+Ig-like domain repeat protein	CDS	314907	316811	-
+intI1	CDS	47650	48663	+
+intI1	CDS	66938	67951	-
+intI1	CDS	331547	332560	-
+iron-containing alcohol dehydrogenase	CDS	103912	105069	-
+IS1 family transposase	CDS	116942	117639	-
+IS1 family transposase	CDS	301116	301813	-
+IS1 family transposase	CDS	73237	73509	+
+IS3 family transposase	CDS	296087	297207	+
+IS3-like element ISKpn8 family transposase	CDS	162985	164354	-
+IS5 family transposase	CDS	80386	81354	-
+IS5 family transposase	CDS	115740	116654	-
+IS5-like element IS903B family transposase	CDS	102260	103228	-
+IS5-like element IS903B family transposase	CDS	107269	108237	-
+IS5-like element IS903B family transposase	CDS	271744	272712	-
+IS5-like element IS903B family transposase	CDS	316870	317838	-
+IS5-like element IS903B family transposase	CDS	325500	326468	+
+IS5-like element ISKpn26 family transposase	CDS	57499	58479	-
+IS5-like element ISKpn26 family transposase	CDS	294922	295902	+
+IS5/IS1182 family transposase	CDS	108269	108640	-
+IS6-like element IS26 family transposase	CDS	24062	24766	+
+IS6-like element IS26 family transposase	CDS	43057	43761	-
+IS6-like element IS26 family transposase	CDS	49138	49842	-
+IS6-like element IS26 family transposase	CDS	63744	64448	-
+IS6-like element IS26 family transposase	CDS	77155	77859	-
+IS6-like element IS26 family transposase	CDS	171403	172107	+
+IS6-like element IS26 family transposase	CDS	175749	176453	+
+IS6-like element IS26 family transposase	CDS	177968	178672	+
+IS6-like element IS26 family transposase	CDS	184912	185616	-
+IS6-like element IS26 family transposase	CDS	330050	330754	+
+IS6-like element IS6100 family transposase	CDS	38954	39718	+
+IS6-like element IS6100 family transposase	CDS	69855	70196	+
+IS91 family transposase	CDS	1	340723	+
+IS110 family transposase	CDS	159810	161048	-
+IS110-like element IS4321 family transposase	CDS	189079	190083	-
+IS110-like element IS4321 family transposase	CDS	208562	209566	+
+IS110-like element IS5075 family transposase	CDS	16923	17927	-
+IS110-like element IS5075 family transposase	CDS	35974	36978	-
+IS110-like element IS5075 family transposase	CDS	180742	181746	-
+IS110-like element IS5075 family transposase	CDS	193638	194642	-
+IS110-like element IS5075 family transposase	CDS	200392	201396	-
+IS1182-like element ISCfr1 family transposase	CDS	53716	55086	+
+IS1380-like element IS1247 family transposase	CDS	333792	335147	+
+ISNCY family transposase	CDS	100637	102040	-
+ISNCY family transposase	CDS	111413	112759	-
+ISNCY family transposase	CDS	161470	162810	-
+ISNCY-like element ISKpn21 family transposase	CDS	109376	110779	-
+KikA	CDS	74775	75089	-
+kinase	CDS	231327	232826	+
+LysR family transcriptional regulator	CDS	105263	106156	+
+LysR family transcriptional regulator	CDS	27558	28433	+
+lytic transglycosylase domain-containing protein	CDS	75860	76597	+
+lytic transglycosylase domain-containing protein	CDS	123045	123584	+
+merA	CDS	196054	197763	+
+merB	CDS	198533	199171	+
+merB	CDS	202207	202845	+
+merC	CDS	19187	19609	+
+mercuric transport protein MerT	CDS	18512	18862	+
+mercuric transport protein MerT	CDS	195227	195577	+
+mercury resistance transcriptional regulator MerR	CDS	194721	195155	-
+mercury resistance transcriptional regulator MerR	CDS	201475	201909	-
+mercury(II) reductase	CDS	19661	21355	+
+merD	CDS	202957	203322	+
+merD	CDS	21373	21735	+
+merD	CDS	199168	199515	+
+merE	CDS	21732	21968	+
+merE	CDS	203319	203555	+
+merG	CDS	197799	198452	+
+merP	CDS	18876	19151	+
+merP	CDS	195591	195866	+
+merR	CDS	18006	18440	-
+metallophosphoesterase	CDS	274659	275606	+
+MFS transporter	CDS	40795	42033	-
+MFS transporter	CDS	103250	103834	-
+mph(A) CDS	42030	42935	-
+NAD(+)--rifampin ADP-ribosyltransferase	CDS	336326	336739	+
+NERD domain-containing protein	CDS	144535	145266	+
+nickel/cobalt efflux protein RcnA	CDS	83649	84764	-
+nuclear transport factor 2 family protein	CDS	337102	337533	+
+nucleotidyltransferase	CDS	192903	193193	-
+ParA family protein	CDS	278402	279655	-
+ParB N-terminal domain-containing protein	CDS	277401	278405	-
+pcoS	CDS	81393	82739	+
+peptide ABC transporter permease	CDS	1477	1935	-
+phosphoadenosine phosphosulfate reductase	CDS	327029	328480	+
+phosphoethanolamine--lipid A transferase MCR-9.1	CDS	78578	80197	-
+phosphoribosyltransferase domain-containing protein	CDS	220487	221629	+
+pilus assembly protein	CDS	291584	292372	-
+plasmid transfer protein	CDS	269709	270263	-
+plasmid transfer protein	CDS	292384	292734	-
+protein phosphatase 2C domain-containing protein	CDS	229664	231301	+
+pspA	CDS	9890	10558	+
+pspB	CDS	10613	10837	+
+pspC	CDS	10837	11196	+
+pspD	CDS	11205	11435	+
+pspF	CDS	8745	9734	-
+quaternary ammonium compound efflux SMR transporter QacE delta 1	CDS	45298	45645	-
+quaternary ammonium compound efflux SMR transporter QacE delta 1	CDS	338843	339190	+
+quinolone resistance pentapeptide repeat proteinQnrB4	CDS	8018	8662	-
+rcnR	CDS	84887	85159	+
+recombinase family protein	CDS	179304	180041	+
+recombinase family protein	CDS	203930	204544	-
+recombinase family protein	CDS	190162	190719	-
+relB	CDS	157137	157376	-
+relE	CDS	156850	157137	-
+RepB family plasmid replication initiator protein	CDS	294254	294814	-
+RepB family plasmid replication initiator protein	CDS	297237	297554	-
+repHI2	CDS	311741	312829	+
+replication initiation protein	CDS	35554	35694	-
+restriction endonuclease	CDS	73731	74372	-
+rsp	CDS	265285	269589	-
+S-(hydroxymethyl)glutathione dehydrogenase/classIII alcohol dehydrogenase	CDS	172597	173706	-
+S-formylglutathione hydrolase	CDS	172159	172575	-
+S49 family peptidase	CDS	143352	144533	+
+sapA	CDS	2884	4527	-
+sapB	CDS	1922	2887	-
+SDR family oxidoreductase	CDS	7014	7922	+
+site-specific DNA-methyltransferase	CDS	321469	322719	+
+sul1	CDS	15502	16341	+
+sul1	CDS	44465	45304	-
+sul1	CDS	339184	340023	+
+SulP family inorganic anion transporter	CDS	95336	96814	+
+tellurite resistance TerB family protein	CDS	216882	217337	-
+tellurium resistance-associated protein TerZ	CDS	218517	219098	-
+terC	CDS	215819	216859	-
+terD	CDS	215192	215770	-
+TerD family protein	CDS	217360	218517	-
+TerD family protein	CDS	227260	227901	+
+TerD family protein	CDS	214548	215123	-
+terW	CDS	225669	226136	+
+tet(D) CDS	173801	174985	-
+tetR(D) CDS	175081	175737	+
+TetR/AcrR family transcriptional regulator	CDS	40211	40795	-
+thermonuclease family protein	CDS	91137	91652	+
+thermonuclease family protein	CDS	31313	31807	+
+thioredoxin family protein	CDS	131412	132458	-
+thioredoxin fold domain-containing protein	CDS	122148	122897	-
+Tn3 family transposase	CDS	60548	63555	-
+Tn3 family transposase	CDS	181825	184791	-
+Tn3 family transposase	CDS	30139	31308	-
+TniB family NTP-binding protein	CDS	205819	206727	-
+TniQ family protein	CDS	204605	205822	-
+toprim domain-containing protein	CDS	246649	247881	-
+toxic anion resistance protein	CDS	171083	171426	-
+TraC family protein	CDS	283494	286175	-
+traD	CDS	139499	141583	+
+TraI domain-containing protein	CDS	136353	139499	+
+transcriptional regulator	CDS	99493	99813	-
+transposase	CDS	22747	23997	+
+transposase	CDS	64512	65000	+
+transposase	CDS	25699	25920	+
+transposase	CDS	60341	60511	+
+transposase	CDS	26279	26416	+
+transposase	CDS	29807	29944	-
+trhB	CDS	288505	289860	-
+trhF	CDS	264495	265007	-
+trhH	CDS	130007	131422	-
+trhI	CDS	255725	257509	-
+trhN	CDS	258590	261778	-
+trhU	CDS	261797	262852	-
+trhV	CDS	286184	287134	-
+trypsin-like peptidase domain-containing protein	CDS	113670	114341	+
+type A-2 chloramphenicol O-acetyltransferase CatII	CDS	176597	177238	-
+type I restriction-modification system subunit MN-terminal domain-containing protein	CDS	210606	210841	-
+type I toxin-antitoxin system Hok family toxin	CDS	156620	156778	-
+type II site-specific deoxyribonuclease	CDS	70457	71671	+
+type-F conjugative transfer system secretin TraK	CDS	290313	291584	-
+tyrosine-type recombinase/integrase	CDS	234817	235992	+
+umuC	CDS	118383	119642	+
+umuD	CDS	117965	118399	+
+universal stress protein	CDS	96833	97660	+
+VWA domain-containing protein	CDS	248289	250295	-
+VWA domain-containing protein	CDS	212878	214119	-
+VWA domain-containing protein	CDS	228624	229664	+
+VWA domain-containing protein	CDS	226599	227237	+
+VWA domain-containing protein	CDS	227901	228539	+
+WbuC family cupin fold metalloprotein	CDS	78025	78501	-
+YdeI family stress tolerance OB fold protein	CDS	4828	5220	-
+YrhA family protein	CDS	125419	125925	+
+zinc finger-like domain-containing protein	CDS	299300	300016	+

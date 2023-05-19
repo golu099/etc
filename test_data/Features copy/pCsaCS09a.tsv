@@ -1,0 +1,120 @@
+name	type	start	stop	strand
+AAA family ATPase	CDS	99599	100783	-
+ABC transporter ATP-binding protein	CDS	75323	76081	-
+ABC transporter substrate-binding protein	CDS	77118	78101	-
+AcrB/AcrD/AcrF family protein	CDS	14903	17953	+
+aerobactin synthase IucA	CDS	119633	121381	+
+alpha/beta hydrolase	CDS	35309	36130	+
+amino acid-binding protein	CDS	34131	34529	+
+antibiotic biosynthesis monooxygenase	CDS	33815	34138	+
+arsC	CDS	47531	47944	-
+arsenical efflux pump membrane protein ArsB	CDS	47989	49272	-
+ArsR family transcriptional regulator	CDS	34502	35227	+
+autotransporter domain-containing protein	CDS	105908	108847	+
+cell envelope biogenesis protein OmpA	CDS	57772	59475	+
+clpV	CDS	60133	62793	+
+copper-binding protein	CDS	72781	73239	-
+CpmJ protein	CDS	7546	8088	+
+CpmK protein	CDS	8133	8624	+
+cupin domain-containing protein	CDS	104345	105466	-
+darcynin	CDS	24484	24804	-
+diguanylate cyclase	CDS	18975	19460	+
+diguanylate phosphodiesterase	CDS	28157	29374	+
+dihydrodipicolinate synthase family protein	CDS	49785	50672	-
+DNA-binding response regulator	CDS	11793	12485	+
+drug:proton antiporter	CDS	9409	9792	+
+DUF255 domain-containing protein	CDS	70713	72734	-
+DUF2534 domain-containing protein	CDS	73284	73544	-
+DUF2543 domain-containing protein	CDS	75003	75248	+
+DUF2931 domain-containing protein	CDS	67767	68414	+
+EamA/RhaT family transporter	CDS	50697	51575	-
+efflux RND transporter periplasmic adaptor subunit	CDS	13754	14902	+
+four-helix bundle copper-binding protein	CDS	45554	45880	+
+GGDEF domain-containing protein	CDS	40978	42441	+
+glgX	CDS	108909	110984	-
+glutathione S-transferase family protein	CDS	94690	95286	+
+glyoxalase	CDS	32774	33160	+
+GntR family transcriptional regulator	CDS	39020	39739	-
+guaD	CDS	92791	94110	-
+Hcp1 family type VI secretion system effector	CDS	43893	44375	+
+helicase	CDS	84994	88155	+
+helix-turn-helix-type transcriptional regulator	CDS	29609	30352	+
+histidine phosphatase family protein	CDS	1338	1955	+
+histidine phosphatase family protein	CDS	88883	89452	-
+hypothetical protein	CDS	83184	85001	+
+hypothetical protein	CDS	81967	83190	+
+hypothetical protein	CDS	2945	4003	+
+hypothetical protein	CDS	44394	45332	+
+hypothetical protein	CDS	19501	20430	-
+hypothetical protein	CDS	42524	43339	-
+hypothetical protein	CDS	68754	69542	+
+hypothetical protein	CDS	98258	99028	-
+hypothetical protein	CDS	2054	2821	+
+hypothetical protein	CDS	66992	67672	+
+hypothetical protein	CDS	63369	63800	+
+hypothetical protein	CDS	73872	74261	+
+hypothetical protein	CDS	95326	95652	-
+hypothetical protein	CDS	25512	25823	+
+hypothetical protein	CDS	27048	27347	-
+hypothetical protein	CDS	89465	89734	-
+hypothetical protein	CDS	43559	43804	+
+hypothetical protein	CDS	73652	73849	+
+hypothetical protein	CDS	127766	127960	-
+integrase	CDS	80898	81872	+
+iron ABC transporter permease	CDS	76078	77118	-
+IucA/IucC family siderophore biosynthesis protein	CDS	122318	124063	+
+lysine 6-monooxygenase	CDS	124060	125382	+
+LysR family transcriptional regulator	CDS	23449	24348	-
+MBL fold metallo-hydrolase	CDS	91970	92770	+
+metallophosphoesterase	CDS	25858	26598	-
+methyl-accepting chemotaxis protein	CDS	95951	97897	-
+methyl-accepting chemotaxis protein	CDS	30431	32341	-
+methyl-accepting chemotaxis protein	CDS	90018	91676	-
+MFS transporter	CDS	21368	22675	+
+MFS transporter	CDS	78365	79600	+
+MFS transporter	CDS	118286	119497	-
+MFS transporter	CDS	4835	6043	+
+mgtA	CDS	101063	103777	-
+MipA/OmpV family protein	CDS	10898	11668	-
+molybdenum ABC transporter substrate-binding protein	CDS	22668	23474	+
+N-acetyltransferase	CDS	121374	122321	+
+N-acetyltransferase	CDS	4008	4538	-
+N-acetyltransferase	CDS	33198	33713	-
+NINE protein	CDS	39935	40228	-
+nuclear transport factor 2 family protein	CDS	17945	18301	-
+nuclear transport factor 2 family protein	CDS	40367	40714	+
+NUDIX domain-containing protein	CDS	18382	18825	-
+omptin family outer membrane protease	CDS	6359	7297	+
+PAAR domain-containing protein	CDS	68484	68750	+
+ParA family protein	CDS	129103	130302	-
+ParB/RepB/Spo0J family partition protein	CDS	128127	129095	-
+PLP-dependent aminotransferase family protein	CDS	51667	53001	+
+potassium transporter TrkG	CDS	46003	47478	+
+PTS sugar transporter	CDS	36177	37553	-
+RepB family plasmid replication initiator protein	CDS	1	131195	+
+SDR family oxidoreductase	CDS	88162	88836	-
+siderophore-interacting protein	CDS	117405	118289	-
+SMI1/KNR4 family protein	CDS	74364	74885	+
+starvation-sensing protein RspA	CDS	37833	39032	+
+TetR family transcriptional regulator	CDS	20512	21069	+
+TetR/AcrR family transcriptional regulator	CDS	24900	25490	+
+thiol:disulfide interchange protein DsbG	CDS	69967	70716	-
+TonB-dependent siderophore receptor	CDS	125405	127600	+
+transcriptional regulator	CDS	9846	10736	-
+transcriptional regulator	CDS	49360	49695	-
+transcriptional regulator	CDS	116993	117274	-
+treY	CDS	111053	113584	-
+treZ	CDS	113581	115365	-
+tssB	CDS	53694	54191	+
+tssC	CDS	54232	55767	+
+tssJ	CDS	69544	69933	+
+tssK	CDS	55778	57118	+
+two-component sensor histidine kinase	CDS	12482	13660	+
+two-component-system connector protein AriR	CDS	26732	27010	-
+two-component-system connector protein YcgZ	CDS	27517	27756	-
+type II toxin-antitoxin system HipA family toxin	CDS	115671	116990	-
+type IV secretion protein Rhs	CDS	62786	63339	+
+type VI secretion system protein ImpK	CDS	57115	57768	+
+type VI secretion system tip protein VgrG	CDS	64086	66995	+
+type VI secretion system tube protein Hcp	CDS	59490	59981	+
+YafY family transcriptional regulator	CDS	8657	9352	+

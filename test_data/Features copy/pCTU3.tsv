@@ -1,0 +1,75 @@
+name	type	start	stop	strand
+arsA	CDS	23855	25303	+
+arsB	CDS	25679	26968	+
+arsC	CDS	26981	27406	+
+arsD	CDS	23499	23861	+
+arsR	CDS	23037	23447	+
+C	CDS	46402	47898	-
+cusF	CDS	46020	46373	-
+hypothetical protein	CDS	19475	21118	-
+hypothetical protein	CDS	21672	22769	-
+hypothetical protein	CDS	10429	11340	+
+hypothetical protein	CDS	473	1315	+
+hypothetical protein	CDS	34985	35803	-
+hypothetical protein	CDS	12235	13038	+
+hypothetical protein	CDS	8970	9728	+
+hypothetical protein	CDS	14029	14769	+
+hypothetical protein	CDS	15247	15981	-
+hypothetical protein	CDS	16479	17150	-
+hypothetical protein	CDS	51709	52335	-
+hypothetical protein	CDS	4104	4700	-
+hypothetical protein	CDS	18848	19408	-
+hypothetical protein	CDS	28545	29072	+
+hypothetical protein	CDS	21120	21623	-
+hypothetical protein	CDS	17181	17678	-
+hypothetical protein	CDS	40932	41378	-
+hypothetical protein	CDS	27439	27873	-
+hypothetical protein	CDS	17727	18143	-
+hypothetical protein	CDS	37709	38092	+
+hypothetical protein	CDS	53421	53801	+
+hypothetical protein	CDS	25254	25631	+
+hypothetical protein	CDS	37036	37410	+
+hypothetical protein	CDS	27990	28343	-
+hypothetical protein	CDS	13016	13339	-
+hypothetical protein	CDS	50977	51300	+
+hypothetical protein	CDS	7165	7449	+
+hypothetical protein	CDS	13585	13827	-
+hypothetical protein	CDS	29122	29364	-
+hypothetical protein	CDS	3812	4051	-
+hypothetical protein	CDS	13326	13562	-
+hypothetical protein	CDS	14962	15189	-
+hypothetical protein	CDS	2086	2304	-
+hypothetical protein	CDS	18550	18762	+
+hypothetical protein	CDS	48650	48862	+
+hypothetical protein	CDS	8765	8968	-
+hypothetical protein	CDS	38126	38323	-
+hypothetical protein	CDS	194	385	+
+hypothetical protein	CDS	29611	29802	+
+hypothetical protein	CDS	2473	2658	-
+hypothetical protein	CDS	22835	23020	-
+hypothetical protein	CDS	11978	12142	+
+hypothetical protein	CDS	5866	6021	-
+hypothetical protein	CDS	9780	9932	-
+hypothetical protein	CDS	5619	5759	+
+hypothetical protein	CDS	52709	52849	+
+hypothetical protein	CDS	16038	16175	-
+hypothetical protein	CDS	11618	11746	+
+hypothetical protein	CDS	29455	29574	+
+hypothetical protein	CDS	45857	45976	+
+hypothetical protein	CDS	29843	29956	+
+pcoA	CDS	35710	36807	-
+pcoB	CDS	34089	34985	-
+pcoC	CDS	33669	34049	-
+pcoD	CDS	32735	33664	-
+pcoE	CDS	29953	30387	-
+pcoR	CDS	32000	32695	-
+pcoS	CDS	30603	32027	-
+repA	CDS	2655	3347	-
+resD	CDS	1239	2093	+
+silA	CDS	41458	44604	-
+silB	CDS	44615	45700	-
+silE	CDS	50397	50804	+
+silP	CDS	38364	40706	-
+silR	CDS	47953	48657	+
+silS	CDS	48888	50126	+
+vagC	CDS	18140	18370	-

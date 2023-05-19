@@ -1,0 +1,56 @@
+name	type	start	stop	strand
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein CDS	CDS	15964	16194	-
+aquaporin CDS	CDS	26931	27176	-
+arsA CDS	CDS	21702	23453	+
+arsB CDS	CDS	23501	24790	+
+arsC CDS	CDS	24803	25228	+
+arsD CDS	CDS	21322	21684	+
+arsR CDS	CDS	20920	21270	+
+conjugal transfer protein CDS	CDS	6677	7048	+
+conjugal transfer protein TraX CDS	CDS	13074	13799	-
+copper resistance protein CDS	CDS	34846	35295	+
+cusF CDS	CDS	43831	44184	-
+DNA partition complex ParG CDS	CDS	3340	3579	-
+DUF305 domain-containing protein CDS	CDS	48759	49109	+
+DUF2933 domain-containing protein CDS	CDS	35935	36132	-
+DUF4145 domain-containing protein CDS	CDS	11859	12596	+
+DUF4225 domain-containing protein CDS	CDS	10062	10865	+
+HNH endonuclease CDS	CDS	49516	50424	-
+hypothetical protein CDS	CDS	1	52622	mixed
+hypothetical protein CDS	CDS	19495	20580	-
+hypothetical protein CDS	CDS	51646	52380	+
+hypothetical protein CDS	CDS	14303	14902	-
+hypothetical protein CDS	CDS	16672	17232	-
+hypothetical protein CDS	CDS	15005	15502	-
+hypothetical protein CDS	CDS	38742	39182	-
+hypothetical protein CDS	CDS	25812	26165	-
+hypothetical protein CDS	CDS	51244	51576	+
+hypothetical protein CDS	CDS	10843	11166	-
+hypothetical protein CDS	CDS	1616	1834	-
+hypothetical protein CDS	CDS	16374	16586	+
+hypothetical protein CDS	CDS	25261	25452	-
+hypothetical protein CDS	CDS	7204	7368	+
+M23 family metallopeptidase CDS	CDS	35518	35901	+
+N-acetyltransferase CDS	CDS	26397	26881	+
+ParA family protein CDS	CDS	3632	4249	-
+pcoA CDS	CDS	32794	34611	-
+pcoB CDS	CDS	31898	32788	-
+pcoC CDS	CDS	31478	31858	-
+pcoD CDS	CDS	30544	31473	-
+pcoE CDS	CDS	27762	28196	-
+pcoR CDS	CDS	29809	30489	-
+pcoS CDS	CDS	28412	29812	-
+phage integrase family protein CDS	CDS	856	1623	+
+phage T7 exclusion protein CDS	CDS	17299	19494	-
+RepB family plasmid replication initiator protein CDS	CDS	2003	2875	-
+replication initiator protein RepA CDS	CDS	8254	9165	+
+silA CDS	CDS	39268	42414	-
+silB CDS	CDS	42425	43717	-
+silC CDS	CDS	44213	45598	-
+silE CDS	CDS	48182	48613	+
+silP CDS	CDS	36173	38644	-
+silR CDS	CDS	45788	46468	+
+silS CDS	CDS	46461	47936	+
+type I toxin-antitoxin system Hok family toxin CDS	CDS	5211	5369	+
+type II toxin-antitoxin system RelE/ParE family toxin CDS	CDS	27285	27383	+
+type II toxin-antitoxin system VapC family toxin CDS	CDS	15551	15967	-

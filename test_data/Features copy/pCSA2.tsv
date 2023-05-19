@@ -1,0 +1,7 @@
+name	type	start	stop	strand
+hypothetical protein	CDS	175	402	+
+MbeB family mobilization protein	CDS	3770	4261	+
+MbeD family mobilization/exclusion protein	CDS	4268	4483	+
+MobC family plasmid mobilization relaxosome protein	CDS	2769	3092	+
+PAS domain-containing methyl-accepting chemotaxis protein	CDS	456	1760	+
+relaxase/mobilization nuclease domain-containingprotein	CDS	3031	3795	+

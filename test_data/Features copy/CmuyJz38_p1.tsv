@@ -1,0 +1,131 @@
+name	type	start	stop	strand
+3'-5' exonuclease	CDS	54051	54599	+
+AAA family ATPase	CDS	42976	44892	+
+AAA family ATPase	CDS	7086	8426	+
+AAA family ATPase	CDS	25238	26461	+
+AAA family ATPase	CDS	52938	53573	+
+ABC transporter	CDS	71940	72221	+
+ATP-binding cassette domain-containing protein	CDS	80588	81229	+
+C40 family peptidase	CDS	98615	99388	+
+DEAD/DEAH box helicase	CDS	77577	79151	-
+dihydrofolate reductase	CDS	52447	52950	+
+DNA ligase	CDS	11539	12861	+
+DNA primase	CDS	8594	9709	+
+DNA-binding protein	CDS	83107	83745	+
+dnaE	CDS	26636	30235	+
+DUF1653 domain-containing protein	CDS	11093	11539	+
+DUF1983 domain-containing protein	CDS	100181	104668	+
+DUF2829 domain-containing protein	CDS	17274	17762	+
+DUF3927 family protein	CDS	60588	60740	+
+DUF4942 domain-containing protein	CDS	65803	67488	+
+exonuclease	CDS	33641	34591	+
+GrxA family glutaredoxin	CDS	18114	18356	+
+HD domain-containing protein	CDS	61470	62072	+
+hypothetical protein	CDS	1	109007	+
+hypothetical protein	CDS	85059	86627	+
+hypothetical protein	CDS	19267	20622	-
+hypothetical protein	CDS	34854	35933	+
+hypothetical protein	CDS	86646	87554	+
+hypothetical protein	CDS	81764	82654	+
+hypothetical protein	CDS	4814	5686	+
+hypothetical protein	CDS	89219	90049	+
+hypothetical protein	CDS	54659	55486	+
+hypothetical protein	CDS	55628	56437	+
+hypothetical protein	CDS	9781	10557	+
+hypothetical protein	CDS	30653	31399	-
+hypothetical protein	CDS	62062	62802	+
+hypothetical protein	CDS	6263	7000	+
+hypothetical protein	CDS	2823	3557	+
+hypothetical protein	CDS	44882	45598	+
+hypothetical protein	CDS	13806	14510	+
+hypothetical protein	CDS	1116	1808	+
+hypothetical protein	CDS	75875	76564	-
+hypothetical protein	CDS	74341	74994	-
+hypothetical protein	CDS	40800	41444	+
+hypothetical protein	CDS	56620	57243	+
+hypothetical protein	CDS	15757	16368	+
+hypothetical protein	CDS	16585	17178	+
+hypothetical protein	CDS	45608	46177	+
+hypothetical protein	CDS	81219	81767	+
+hypothetical protein	CDS	60888	61427	+
+hypothetical protein	CDS	59382	59888	+
+hypothetical protein	CDS	72953	73432	+
+hypothetical protein	CDS	90494	90964	+
+hypothetical protein	CDS	38541	39008	+
+hypothetical protein	CDS	10638	11096	+
+hypothetical protein	CDS	37665	38111	+
+hypothetical protein	CDS	51998	52444	+
+hypothetical protein	CDS	88785	89219	+
+hypothetical protein	CDS	18404	18835	+
+hypothetical protein	CDS	14507	14935	+
+hypothetical protein	CDS	32027	32455	+
+hypothetical protein	CDS	71407	71829	+
+hypothetical protein	CDS	75421	75843	+
+hypothetical protein	CDS	2419	2838	+
+hypothetical protein	CDS	53635	54054	+
+hypothetical protein	CDS	5683	6087	+
+hypothetical protein	CDS	4378	4770	+
+hypothetical protein	CDS	64230	64622	+
+hypothetical protein	CDS	64980	65366	+
+hypothetical protein	CDS	90966	91346	+
+hypothetical protein	CDS	17759	18121	+
+hypothetical protein	CDS	67582	67932	+
+hypothetical protein	CDS	13391	13735	+
+hypothetical protein	CDS	90159	90503	+
+hypothetical protein	CDS	70932	71270	+
+hypothetical protein	CDS	775	1101	+
+hypothetical protein	CDS	92264	92581	+
+hypothetical protein	CDS	59074	59385	+
+hypothetical protein	CDS	77268	77573	-
+hypothetical protein	CDS	72467	72769	+
+hypothetical protein	CDS	30325	30618	+
+hypothetical protein	CDS	31396	31689	-
+hypothetical protein	CDS	13021	13311	+
+hypothetical protein	CDS	68449	68739	-
+hypothetical protein	CDS	378	662	+
+hypothetical protein	CDS	64615	64887	+
+hypothetical protein	CDS	38172	38441	+
+hypothetical protein	CDS	82667	82933	+
+hypothetical protein	CDS	34588	34848	+
+hypothetical protein	CDS	1808	2059	+
+hypothetical protein	CDS	65444	65695	+
+hypothetical protein	CDS	67922	68173	+
+hypothetical protein	CDS	58142	58375	+
+hypothetical protein	CDS	72231	72464	+
+hypothetical protein	CDS	70540	70770	+
+hypothetical protein	CDS	92710	92934	+
+hypothetical protein	CDS	22552	22764	+
+hypothetical protein	CDS	88535	88744	+
+hypothetical protein	CDS	70311	70517	+
+hypothetical protein	CDS	74091	74294	-
+hypothetical protein	CDS	38995	39195	+
+hypothetical protein	CDS	36048	36236	+
+hypothetical protein	CDS	59898	60074	+
+hypothetical protein	CDS	31686	31859	-
+hypothetical protein	CDS	12861	13028	+
+Ig-like domain-containing protein	CDS	91455	92216	+
+metallophosphoesterase	CDS	41661	42746	+
+nrdA	CDS	46255	48579	+
+nrdB	CDS	48671	49804	+
+ParB N-terminal domain-containing protein	CDS	79216	79914	+
+ParB N-terminal domain-containing protein	CDS	79914	80591	+
+phage major capsid protein	CDS	87581	88453	+
+phage minor tail protein L	CDS	97917	98615	+
+phage N-6-adenine-methyltransferase	CDS	57344	57958	+
+phage tail protein	CDS	97536	97868	+
+phage terminase large subunit	CDS	83748	85004	+
+phosphoribosyl-ATP pyrophosphohydrolase	CDS	49887	50759	+
+plasmid stability protein	CDS	3713	4378	+
+porphyrin biosynthesis protein	CDS	22897	25140	+
+regulator	CDS	32576	33580	+
+RepB family plasmid replication initiator protein	CDS	39447	40457	-
+SPFH/Band 7/PHB domain protein	CDS	36233	37078	+
+tail assembly protein	CDS	99398	100027	+
+tail fiber domain-containing protein	CDS	104843	108823	+
+tape measure protein	CDS	92942	97525	+
+TerB family tellurite resistance protein	CDS	60163	60588	+
+thymidylate synthase	CDS	50940	52025	+
+transcriptional regulator	CDS	76638	77165	-
+tyrosine-type recombinase/integrase	CDS	20812	21942	+
+umuC	CDS	62779	64044	-
+XRE family transcriptional regulator	CDS	21911	22291	-

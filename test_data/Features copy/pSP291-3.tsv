@@ -1,0 +1,7 @@
+name	type	start	stop	strand
+hypothetical protein	CDS	2875	3336	+
+hypothetical protein	CDS	2326	2541	-
+MbeB family mobilization protein	CDS	926	1417	+
+MbeD family mobilization/exclusion protein	CDS	1424	1639	+
+MobC family plasmid mobilization relaxosome protein	CDS	1	4422	+
+relaxase/mobilization nuclease domain-containingprotein	CDS	239	913	+

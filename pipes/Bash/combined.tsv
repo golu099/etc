@@ -1,0 +1,58 @@
+file	name    type    start   stop    strand
+p2.tsv AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	7373	7603	-
+p2.tsv aquaporin	CDS	18353	18598	-
+p2.tsv arsA	CDS	13111	14862	+
+p2.tsv arsB	CDS	14910	16199	+
+p2.tsv arsC	CDS	16212	16637	+
+p2.tsv arsD	CDS	12731	13093	+
+p2.tsv arsR	CDS	12329	12679	+
+p2.tsv conjugal transfer protein TraX	CDS	4483	5208	-
+p2.tsv cusF	CDS	35003	35356	-
+p2.tsv DNA partition complex ParG	CDS	46521	46760	-
+p2.tsv DUF305 domain-containing protein	CDS	39931	40281	+
+p2.tsv DUF2933 domain-containing protein	CDS	27106	27303	-
+p2.tsv DUF4145 domain-containing protein	CDS	3268	4005	+
+p2.tsv DUF4225 domain-containing protein	CDS	54922	55725	+
+p2.tsv HNH endonuclease	CDS	40689	41597	-
+p2.tsv Hok/Gef family protein	CDS	48385	48543	+
+p2.tsv hypothetical protein	CDS	1	55913	-
+p2.tsv hypothetical protein	CDS	10904	11989	-
+p2.tsv hypothetical protein	CDS	43184	44026	+
+p2.tsv hypothetical protein	CDS	5712	6311	-
+p2.tsv hypothetical protein	CDS	8081	8641	-
+p2.tsv hypothetical protein	CDS	6414	6911	-
+p2.tsv hypothetical protein	CDS	29913	30353	-
+p2.tsv hypothetical protein	CDS	26268	26705	+
+p2.tsv hypothetical protein	CDS	42399	42779	+
+p2.tsv hypothetical protein	CDS	17221	17574	-
+p2.tsv hypothetical protein	CDS	44797	45015	-
+p2.tsv hypothetical protein	CDS	7783	7995	+
+p2.tsv hypothetical protein	CDS	16670	16861	-
+p2.tsv hypothetical protein	CDS	42905	43096	+
+p2.tsv IS66 family insertion sequence hypothetical protein	CDS	2227	2631	-
+p2.tsv IS66-like element ISKpn24 family transposase	CDS	296	1834	-
+p2.tsv M23 family metallopeptidase	CDS	26653	27072	+
+p2.tsv N-acetyltransferase	CDS	17806	18303	+
+p2.tsv ParA family protein	CDS	46813	47430	-
+p2.tsv pcoA	CDS	24216	26033	-
+p2.tsv pcoB	CDS	23320	24210	-
+p2.tsv pcoC	CDS	22900	23280	-
+p2.tsv pcoD	CDS	21966	22895	-
+p2.tsv pcoE	CDS	19184	19618	-
+p2.tsv pcoR	CDS	21231	21911	-
+p2.tsv pcoS	CDS	19834	21234	-
+p2.tsv phage integrase family protein	CDS	44016	44804	+
+p2.tsv phage T7 exclusion protein	CDS	8708	10903	-
+p2.tsv RepB family plasmid replication initiator protein	CDS	45184	46056	-
+p2.tsv replication initiator protein RepA	CDS	53114	54025	+
+p2.tsv silA	CDS	30440	33586	-
+p2.tsv silB	CDS	33597	34889	-
+p2.tsv silC	CDS	35385	36770	-
+p2.tsv silE	CDS	39354	39785	+
+p2.tsv silP	CDS	27344	29815	-
+p2.tsv silR	CDS	36960	37640	+
+p2.tsv silS	CDS	37633	39108	+
+p2.tsv thioredoxin domain-containing protein	CDS	51630	52412	+
+p2.tsv tnpB	CDS	1883	2230	-
+p2.tsv type II toxin-antitoxin system RelE/ParE family toxin	CDS	18707	18805	+
+p2.tsv type II toxin-antitoxin system VapC family toxin	CDS	6960	7376	-

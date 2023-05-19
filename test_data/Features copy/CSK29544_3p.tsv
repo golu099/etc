@@ -1,0 +1,58 @@
+name	type	start	stop	strand
+arsenate reductase	CDS	45528	45953	-
+arsenical pump membrane protein	CDS	45966	47255	-
+arsenical pump-driving ATPase	CDS	47303	49054	-
+arsenical resistance operon trans-acting repressor arsD	CDS	49072	49434	-
+cation efflux system protein CusA	CDS	28579	31725	+
+cation efflux system protein CusB	CDS	27276	28568	+
+conjugational transfer protein TraX	CDS	3449	4225	+
+copper resistance protein A	CDS	36132	37949	+
+copper resistance protein B	CDS	37949	38845	+
+copper resistance protein C	CDS	38885	39265	+
+copper resistance protein D	CDS	39270	40199	+
+copper/silver efflux system outer membrane protein CusC	CDS	25395	26780	+
+DNA-binding transcriptional activator CusR	CDS	24525	25205	-
+DNA-binding transcriptional repressor ArsR	CDS	49486	49836	-
+hypothetical protein	CDS	50176	51261	+
+hypothetical protein	CDS	20562	21476	+
+hypothetical protein	CDS	18139	18981	-
+hypothetical protein	CDS	6442	7245	-
+hypothetical protein	CDS	9753	10535	-
+hypothetical protein	CDS	4711	5451	-
+hypothetical protein	CDS	2298	2996	+
+hypothetical protein	CDS	19386	19976	-
+hypothetical protein	CDS	67	627	+
+hypothetical protein	CDS	1797	2294	+
+hypothetical protein	CDS	31812	32252	+
+hypothetical protein	CDS	35460	35897	-
+hypothetical protein	CDS	22380	22811	-
+hypothetical protein	CDS	1332	1748	+
+hypothetical protein	CDS	45079	45495	+
+hypothetical protein	CDS	44591	44944	+
+hypothetical protein	CDS	21884	22234	-
+hypothetical protein	CDS	35093	35443	-
+hypothetical protein	CDS	6141	6464	+
+hypothetical protein	CDS	32434	32727	-
+hypothetical protein	CDS	12006	12290	-
+hypothetical protein	CDS	43570	43812	+
+hypothetical protein	CDS	5918	6154	+
+hypothetical protein	CDS	4283	4510	+
+hypothetical protein	CDS	713	925	-
+hypothetical protein	CDS	43132	43332	-
+hypothetical protein	CDS	34862	35059	+
+hypothetical protein	CDS	19069	19260	-
+hypothetical protein	CDS	43360	43479	-
+KAP family P-loop domain -containing protein	CDS	51262	53457	+
+N-acetyltransferase-like protein	CDS	43862	44389	-
+partitioning protein parA	CDS	14733	15350	+
+periplasmic copper-binding protein CusF	CDS	26809	27162	+
+plasmid partition protein ParG	CDS	15403	15642	+
+putative cation-transporting P-type ATPase	CDS	32773	34821	+
+putative copper-binding protein pcoE	CDS	42547	42981	+
+putative replication initiator protein RepA	CDS	8141	8908	-
+RepFIB replication protein A	CDS	16107	16979	+
+resolvase	CDS	17361	18149	-
+sensor kinase CusS	CDS	23057	24532	-
+sensor protein pcoS	CDS	40931	42331	+
+transcriptional regulatory protein PcoR	CDS	40254	40934	+
+virulence-associated protein vagC	CDS	1105	1335	+

@@ -1,0 +1,50 @@
+name	type	start	stop	strand
+abortive infection protein	CDS	44138	44479	+
+acyl carrier protein	CDS	48674	48967	+
+cation transporter	CDS	26298	29444	+
+chromosome partitioning protein ParA	CDS	5421	6038	+
+CopG family transcriptional regulator	CDS	41887	42147	-
+copper ABC transporter substrate-binding protein	CDS	24528	24881	+
+copper oxidase	CDS	34524	36341	+
+copper resistance protein	CDS	24995	26287	+
+copper resistance protein	CDS	33840	34289	-
+copper resistance protein CopB	CDS	36341	37237	+
+copper resistance protein CopC	CDS	37277	37657	+
+copper resistance protein CopD	CDS	37662	38591	+
+copper-binding protein	CDS	40939	41373	+
+copper-binding protein	CDS	20094	20525	-
+diguanylate cyclase	CDS	16656	17630	-
+DNA partition complex ParG	CDS	6091	6330	+
+haloacid dehalogenase	CDS	30098	32542	+
+histidine kinase	CDS	20776	22251	-
+histidine kinase	CDS	39323	40723	+
+HNH endonuclease	CDS	18268	19176	+
+hypothetical protein	CDS	23114	24499	+
+hypothetical protein	CDS	11531	12904	+
+hypothetical protein	CDS	44663	45664	-
+hypothetical protein	CDS	42422	43348	+
+hypothetical protein	CDS	1753	2571	-
+hypothetical protein	CDS	49111	49815	-
+hypothetical protein	CDS	8865	9497	-
+hypothetical protein	CDS	14424	14999	+
+hypothetical protein	CDS	48225	48680	+
+hypothetical protein	CDS	29530	29970	+
+hypothetical protein	CDS	19596	19946	-
+hypothetical protein	CDS	1426	1749	+
+hypothetical protein	CDS	9564	9866	-
+hypothetical protein	CDS	51658	51942	-
+hypothetical protein	CDS	43398	43652	+
+hypothetical protein	CDS	7836	8054	+
+hypothetical protein	CDS	32583	32780	+
+integrase	CDS	3835	4332	-
+nucleotidyltransferase	CDS	13088	14416	+
+peptidase M23	CDS	32814	33551	-
+plasmid stabilization protein ParE	CDS	41604	41900	-
+protein RepA	CDS	6795	7667	+
+resolvase	CDS	8047	8835	-
+transcriptional regulator	CDS	10432	11520	+
+transcriptional regulator	CDS	22244	22924	-
+transcriptional regulator	CDS	38646	39326	+
+transposase	CDS	4692	4955	-
+twitching motility protein PilT	CDS	241	657	+
+virulence factor	CDS	14	244	+

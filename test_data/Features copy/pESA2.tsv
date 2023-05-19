@@ -1,0 +1,37 @@
+name	type	start	stop	strand
+cag pathogenicity island Cag12 family protein	CDS	29877	30275	+
+cupin domain-containing protein	CDS	10536	10892	-
+DNA cytosine methyltransferase	CDS	6477	7724	-
+DUF86 domain-containing protein	CDS	10882	11283	-
+EexN family lipoprotein	CDS	24400	24627	+
+helix-turn-helix transcriptional regulator	CDS	18344	18700	-
+hypothetical protein	CDS	5552	6475	-
+hypothetical protein	CDS	2497	3246	+
+hypothetical protein	CDS	9458	9958	-
+hypothetical protein	CDS	14703	15182	+
+hypothetical protein	CDS	9090	9461	-
+hypothetical protein	CDS	3814	4158	+
+hypothetical protein	CDS	9955	10281	-
+hypothetical protein	CDS	30302	30607	+
+hypothetical protein	CDS	30887	31192	+
+hypothetical protein	CDS	4197	4430	-
+hypothetical protein	CDS	19691	19912	+
+hypothetical protein	CDS	19472	19687	+
+lytic transglycosylase domain-containing protein	CDS	19928	20638	+
+nucleotidyltransferase	CDS	11280	11570	-
+ParA family protein	CDS	4471	5118	-
+phosphoribosyltransferase	CDS	15496	16236	-
+recombinase family protein	CDS	8539	9096	-
+RepA protein	CDS	17182	17835	-
+thermonuclease family protein	CDS	3284	3757	+
+Tn3-like element ISPa38 family transposase	CDS	11729	14695	+
+transcriptional antiterminator NusG	CDS	18948	19397	+
+TrbC/VirB2 family protein	CDS	20635	20913	+
+type IV secretion system DNA-binding domain-containing protein	CDS	752	2488	+
+type IV secretion system protein	CDS	24639	25715	+
+type IV secretion system protein	CDS	23686	24390	+
+type IV secretion system protein	CDS	25923	26606	+
+type VI secretion protein	CDS	27554	28858	+
+VirB3 family type IV secretion system protein	CDS	20926	23670	+
+virB9	CDS	26603	27511	+
+virB11	CDS	28855	29880	+

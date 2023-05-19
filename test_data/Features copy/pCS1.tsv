@@ -1,0 +1,118 @@
+name	type	start	stop	strand
+ABC transporter CDS	CDS	96170	96808	+
+ABC transporter CDS	CDS	88471	88752	+
+acetyltransferase CDS	CDS	14677	15216	-
+adenine methyltransferase CDS	CDS	69967	70560	+
+C-type natriuretic protein CDS	CDS	25680	25985	+
+chromosome partitioning protein ParB CDS	CDS	94807	95505	+
+chromosome partitioning protein ParB CDS	CDS	95505	96173	+
+DEAD/DEAH box helicase CDS	CDS	74758	77874	-
+dihydrofolate reductase CDS	CDS	65617	66093	+
+DNA helicase CDS	CDS	19279	20619	+
+DNA ligase CDS	CDS	23837	25159	+
+DNA modification methylase CDS	CDS	80977	82665	+
+DNA modification methylase CDS	CDS	74481	74696	+
+DNA polymerase III subunit alpha CDS	CDS	39754	43272	+
+DNA primase CDS	CDS	20770	21885	+
+DNA-binding protein CDS	CDS	98423	99064	+
+DNA-binding protein CDS	CDS	44690	45253	-
+exonuclease CDS	CDS	56033	57949	+
+exonuclease CDS	CDS	54718	55803	+
+exonuclease CDS	CDS	47428	48372	+
+exonuclease CDS	CDS	67230	67787	+
+GNAT family acetyltransferase CDS	CDS	54058	54543	+
+helicase CDS	CDS	93183	94742	-
+host specificity protein J CDS	CDS	4935	9092	+
+hypothetical protein CDS	CDS	100356	101930	+
+hypothetical protein CDS	CDS	83540	84739	+
+hypothetical protein CDS	CDS	17119	18285	+
+hypothetical protein CDS	CDS	101953	102846	+
+hypothetical protein CDS	CDS	97061	97951	+
+hypothetical protein CDS	CDS	104263	105096	+
+hypothetical protein CDS	CDS	67909	68712	+
+hypothetical protein CDS	CDS	22462	23256	+
+hypothetical protein CDS	CDS	57939	58685	+
+hypothetical protein CDS	CDS	106462	107208	+
+hypothetical protein CDS	CDS	18493	19218	+
+hypothetical protein CDS	CDS	13548	14240	+
+hypothetical protein CDS	CDS	69047	69724	-
+hypothetical protein CDS	CDS	90097	90747	-
+hypothetical protein CDS	CDS	9876	10523	+
+hypothetical protein CDS	CDS	53338	53982	+
+hypothetical protein CDS	CDS	66093	66737	+
+hypothetical protein CDS	CDS	73774	74352	+
+hypothetical protein CDS	CDS	58695	59264	+
+hypothetical protein CDS	CDS	27584	28114	+
+hypothetical protein CDS	CDS	10882	11394	-
+hypothetical protein CDS	CDS	88957	89439	+
+hypothetical protein CDS	CDS	72327	72803	+
+hypothetical protein CDS	CDS	105529	106002	+
+hypothetical protein CDS	CDS	43269	43712	+
+hypothetical protein CDS	CDS	103829	104263	+
+hypothetical protein CDS	CDS	45806	46237	+
+hypothetical protein CDS	CDS	43910	44329	+
+hypothetical protein CDS	CDS	49858	50277	+
+hypothetical protein CDS	CDS	66801	67220	+
+hypothetical protein CDS	CDS	21918	22334	+
+hypothetical protein CDS	CDS	65207	65620	+
+hypothetical protein CDS	CDS	87569	87964	+
+hypothetical protein CDS	CDS	34950	35336	-
+hypothetical protein CDS	CDS	106004	106387	+
+hypothetical protein CDS	CDS	88094	88468	+
+hypothetical protein CDS	CDS	16557	16916	+
+hypothetical protein CDS	CDS	105194	105538	+
+hypothetical protein CDS	CDS	50836	51174	+
+hypothetical protein CDS	CDS	13213	13536	+
+hypothetical protein CDS	CDS	107269	107586	+
+hypothetical protein CDS	CDS	87130	87441	+
+hypothetical protein CDS	CDS	44340	44639	+
+hypothetical protein CDS	CDS	92902	93180	-
+hypothetical protein CDS	CDS	50344	50619	+
+hypothetical protein CDS	CDS	48372	48638	+
+hypothetical protein CDS	CDS	97961	98227	+
+hypothetical protein CDS	CDS	96801	97055	+
+hypothetical protein CDS	CDS	14242	14493	+
+hypothetical protein CDS	CDS	30507	30758	+
+hypothetical protein CDS	CDS	23557	23802	+
+hypothetical protein CDS	CDS	68833	69075	-
+hypothetical protein CDS	CDS	86157	86399	-
+hypothetical protein CDS	CDS	55803	56036	+
+hypothetical protein CDS	CDS	107703	107936	+
+hypothetical protein CDS	CDS	70760	70990	+
+hypothetical protein CDS	CDS	14426	14647	+
+hypothetical protein CDS	CDS	86771	86989	+
+hypothetical protein CDS	CDS	25319	25534	+
+hypothetical protein CDS	CDS	86545	86760	+
+hypothetical protein CDS	CDS	35594	35806	+
+hypothetical protein CDS	CDS	51174	51386	+
+hypothetical protein CDS	CDS	91064	91261	-
+hypothetical protein CDS	CDS	72813	73001	+
+hypothetical protein CDS	CDS	50660	50839	+
+integrase CDS	CDS	33852	34955	+
+phage capsid protein CDS	CDS	102872	103753	+
+phage tail protein CDS	CDS	3518	4315	+
+phage tail protein CDS	CDS	2827	3528	+
+phage tail protein CDS	CDS	4303	4914	+
+phage tail protein CDS	CDS	2403	2738	+
+phage tail tape measure protein CDS	CDS	1	110093	+
+phosphoribosyl-ATP pyrophosphohydrolase CDS	CDS	63045	63920	+
+plasmid stability protein CDS	CDS	15892	16557	+
+porphyrin biosynthesis protein CDS	CDS	35913	38243	+
+porphyrin biosynthesis protein CDS	CDS	38338	39573	+
+recombinase CDS	CDS	48641	49720	+
+regulator CDS	CDS	46357	47367	+
+replication protein A CDS	CDS	51915	53015	-
+restriction endonuclease CDS	CDS	79199	80755	-
+restriction endonuclease subunit M CDS	CDS	77991	79202	-
+ribonuclease H CDS	CDS	71584	72183	+
+ribonucleotide-diphosphate reductase subunit alpha CDS	CDS	59341	61689	+
+ribonucleotide-diphosphate reductase subunit beta CDS	CDS	61821	62963	+
+TciA CDS	CDS	73067	73492	+
+terminase CDS	CDS	99067	100323	+
+thymidylate synthase CDS	CDS	64102	65205	+
+toxin-antitoxin system, antitoxin component CDS	CDS	15220	15489	-
+transcriptional regulator CDS	CDS	91373	91894	-
+transposase CDS	CDS	32139	33215	+
+transposase CDS	CDS	28256	29080	-
+transposase CDS	CDS	30998	31300	+
+transposase CDS	CDS	29113	29376	-

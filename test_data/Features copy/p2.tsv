@@ -1,0 +1,58 @@
+name	type	start	stop	strand
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein	CDS	7373	7603	-
+aquaporin	CDS	18353	18598	-
+arsA	CDS	13111	14862	+
+arsB	CDS	14910	16199	+
+arsC	CDS	16212	16637	+
+arsD	CDS	12731	13093	+
+arsR	CDS	12329	12679	+
+conjugal transfer protein TraX	CDS	4483	5208	-
+cusF	CDS	35003	35356	-
+DNA partition complex ParG	CDS	46521	46760	-
+DUF305 domain-containing protein	CDS	39931	40281	+
+DUF2933 domain-containing protein	CDS	27106	27303	-
+DUF4145 domain-containing protein	CDS	3268	4005	+
+DUF4225 domain-containing protein	CDS	54922	55725	+
+HNH endonuclease	CDS	40689	41597	-
+Hok/Gef family protein	CDS	48385	48543	+
+hypothetical protein	CDS	1	55913	-
+hypothetical protein	CDS	10904	11989	-
+hypothetical protein	CDS	43184	44026	+
+hypothetical protein	CDS	5712	6311	-
+hypothetical protein	CDS	8081	8641	-
+hypothetical protein	CDS	6414	6911	-
+hypothetical protein	CDS	29913	30353	-
+hypothetical protein	CDS	26268	26705	+
+hypothetical protein	CDS	42399	42779	+
+hypothetical protein	CDS	17221	17574	-
+hypothetical protein	CDS	44797	45015	-
+hypothetical protein	CDS	7783	7995	+
+hypothetical protein	CDS	16670	16861	-
+hypothetical protein	CDS	42905	43096	+
+IS66 family insertion sequence hypothetical protein	CDS	2227	2631	-
+IS66-like element ISKpn24 family transposase	CDS	296	1834	-
+M23 family metallopeptidase	CDS	26653	27072	+
+N-acetyltransferase	CDS	17806	18303	+
+ParA family protein	CDS	46813	47430	-
+pcoA	CDS	24216	26033	-
+pcoB	CDS	23320	24210	-
+pcoC	CDS	22900	23280	-
+pcoD	CDS	21966	22895	-
+pcoE	CDS	19184	19618	-
+pcoR	CDS	21231	21911	-
+pcoS	CDS	19834	21234	-
+phage integrase family protein	CDS	44016	44804	+
+phage T7 exclusion protein	CDS	8708	10903	-
+RepB family plasmid replication initiator protein	CDS	45184	46056	-
+replication initiator protein RepA	CDS	53114	54025	+
+silA	CDS	30440	33586	-
+silB	CDS	33597	34889	-
+silC	CDS	35385	36770	-
+silE	CDS	39354	39785	+
+silP	CDS	27344	29815	-
+silR	CDS	36960	37640	+
+silS	CDS	37633	39108	+
+thioredoxin domain-containing protein	CDS	51630	52412	+
+tnpB	CDS	1883	2230	-
+type II toxin-antitoxin system RelE/ParE family toxin	CDS	18707	18805	+
+type II toxin-antitoxin system VapC family toxin	CDS	6960	7376	-

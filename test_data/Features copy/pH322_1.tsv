@@ -1,0 +1,138 @@
+name	type	start	stop	strand
+ABC transporter, ATP-binding protein	CDS	33326	33964	-
+Chromosome partitioning protein ParA	CDS	12011	12676	-
+CobS-like protein	CDS	89525	90760	-
+Dihydrofolate reductase (EC 1.5.1.3) CDS	65996	66472	-
+DNA modification methylase	CDS	33961	34629	-
+DNA polymerase I 5'-3' exonuclease domain	CDS	80726	81670	-
+DNA polymerase III alpha subunit (EC 2.7.7.7) CDS	85826	89332	-
+DNA polymerase III epsilon subunit (EC 2.7.7.7) CDS	64317	64859	-
+DNA primase (EC 2.7.7.-) CDS	6683	7798	-
+DNA replication protein	CDS	76062	77162	+
+FIG001353: Acetyltransferase	CDS	13352	13891	+
+FIG032766: hypothetical protein	CDS	13079	13348	+
+FIG00925047: hypothetical protein	CDS	15032	15355	-
+FIG01048214: hypothetical protein	CDS	56078	56293	-
+FIG01048569: hypothetical protein	CDS	9350	10075	-
+FIG01048983: hypothetical protein	CDS	41695	41868	-
+FIG01048983: hypothetical protein	CDS	41474	41617	-
+FIG01049711: hypothetical protein	CDS	62049	62852	-
+FIG01049755: hypothetical protein	CDS	64869	65330	-
+FIG01049758: hypothetical protein	CDS	41065	41346	-
+Glycosaminoglycan attachment site	CDS	10283	11446	-
+hypothetical protein	CDS	90855	93185	-
+hypothetical protein	CDS	46915	48603	-
+hypothetical protein	CDS	28204	29778	-
+hypothetical protein	CDS	7949	9289	-
+hypothetical protein	CDS	3409	4731	-
+hypothetical protein	CDS	29811	31067	-
+hypothetical protein	CDS	63176	64282	+
+hypothetical protein	CDS	27288	28181	-
+hypothetical protein	CDS	32183	33073	-
+hypothetical protein	CDS	26381	27262	-
+hypothetical protein	CDS	68169	69044	-
+hypothetical protein	CDS	25038	25871	-
+hypothetical protein	CDS	5312	6106	-
+hypothetical protein	CDS	37318	38097	-
+hypothetical protein	CDS	22926	23672	-
+hypothetical protein	CDS	34626	35309	-
+hypothetical protein	CDS	39071	39721	+
+hypothetical protein	CDS	18045	18692	-
+hypothetical protein	CDS	65352	65996	-
+hypothetical protein	CDS	75095	75739	-
+hypothetical protein	CDS	31070	31711	-
+hypothetical protein	CDS	61079	61714	+
+hypothetical protein	CDS	44876	45490	+
+hypothetical protein	CDS	56422	57000	-
+hypothetical protein	CDS	454	984	-
+hypothetical protein	CDS	74484	74987	+
+hypothetical protein	CDS	40376	40858	-
+hypothetical protein	CDS	57971	58447	-
+hypothetical protein	CDS	84769	85245	-
+hypothetical protein	CDS	24132	24605	-
+hypothetical protein	CDS	4766	5230	-
+hypothetical protein	CDS	44122	44574	-
+hypothetical protein	CDS	85386	85829	-
+hypothetical protein	CDS	25871	26305	-
+hypothetical protein	CDS	82861	83292	-
+hypothetical protein	CDS	57283	57708	-
+hypothetical protein	CDS	42853	43272	+
+hypothetical protein	CDS	78822	79241	-
+hypothetical protein	CDS	6234	6650	-
+hypothetical protein	CDS	66469	66882	-
+hypothetical protein	CDS	93762	94148	+
+hypothetical protein	CDS	23747	24130	-
+hypothetical protein	CDS	11652	12011	-
+hypothetical protein	CDS	96966	97322	-
+hypothetical protein	CDS	24596	24940	-
+hypothetical protein	CDS	77925	78263	-
+hypothetical protein	CDS	45959	46285	-
+hypothetical protein	CDS	22548	22865	-
+hypothetical protein	CDS	43747	44055	-
+hypothetical protein	CDS	41995	42300	-
+hypothetical protein	CDS	97610	97909	-
+hypothetical protein	CDS	19077	19364	-
+hypothetical protein	CDS	36954	37232	+
+hypothetical protein	CDS	46293	46571	-
+hypothetical protein	CDS	78480	78755	-
+hypothetical protein	CDS	22198	22467	-
+hypothetical protein	CDS	31907	32173	-
+hypothetical protein	CDS	45534	45800	-
+hypothetical protein	CDS	80460	80726	-
+hypothetical protein	CDS	33079	33333	-
+hypothetical protein	CDS	14075	14326	-
+hypothetical protein	CDS	97377	97616	-
+hypothetical protein	CDS	72940	73173	-
+hypothetical protein	CDS	59772	60002	-
+hypothetical protein	CDS	3034	3249	-
+hypothetical protein	CDS	77713	77925	-
+hypothetical protein	CDS	93292	93504	-
+hypothetical protein	CDS	1091	1282	+
+hypothetical protein	CDS	57773	57961	-
+hypothetical protein	CDS	98200	98388	-
+hypothetical protein	CDS	3233	3409	-
+hypothetical protein	CDS	13921	14082	-
+hypothetical protein	CDS	57128	57283	-
+hypothetical protein	CDS	2885	3037	-
+hypothetical protein	CDS	40896	41048	-
+hypothetical protein	CDS	78309	78455	+
+hypothetical protein	CDS	89319	89462	-
+hypothetical protein	CDS	72806	72943	-
+hypothetical protein	CDS	38902	39033	+
+hypothetical protein	CDS	68029	68157	+
+hypothetical protein	CDS	77294	77422	-
+hypothetical protein	CDS	39989	40114	+
+hypothetical protein	CDS	1529	1645	+
+hypothetical protein	CDS	39772	39888	-
+hypothetical protein	CDS	342	440	+
+Insertion element IS407 (Burkholderia multivorans) transposase	CDS	99942	100205	+
+Integrase	CDS	94143	95246	-
+Mobile element protein	CDS	98426	98704	+
+Phage exonuclease	CDS	73173	74258	-
+Phage tail fiber, side tail fiber protein Stf	CDS	15445	17973	-
+putative C-type natriuretic protein	CDS	2583	2888	-
+putative DNA methylase	CDS	60202	60795	-
+Putative DNA-binding protein	CDS	83845	84408	+
+Putative helicase	CDS	35392	36951	+
+putative lipoprotein	CDS	84459	84758	-
+putative membrane protein	CDS	19476	22190	-
+Putative regulatory protein	CDS	81731	82741	-
+RecA-like protein	CDS	79378	80457	-
+Ribonuclease HI (EC 3.1.26.4) CDS	58591	59187	-
+Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1) CDS	70400	72748	-
+Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1) CDS	69126	70268	-
+Structural protein P5	CDS	14328	15020	-
+Thymidylate synthase (EC 2.1.1.45) CDS	66884	67987	-
+Transcriptional regulator	CDS	38240	38761	+
+Transposase	CDS	98761	99573	+
+Transposase	CDS	100232	100741	+
+Transposase	CDS	1	312	+
+Transposase InsN for insertion sequence element IS911	CDS	49726	50028	+
+Transposase InsN for insertion sequence element IS911	CDS	96424	96726	-
+Transposase InsO for insertion sequence element IS911	CDS	95558	96397	-
+Transposase InsO for insertion sequence element IS911	CDS	50055	50525	+
+Transposase InsO for insertion sequence element IS911	CDS	50522	50896	+
+type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) CDS	48825	49745	+
+type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72) CDS	50991	51635	+
+type I restriction-modification system, restriction subunit R (EC 3.1.21.3) CDS	52900	56016	+
+type I restriction-modification system, specificity subunit S	CDS	51632	52783	+

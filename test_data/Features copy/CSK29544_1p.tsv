@@ -1,0 +1,70 @@
+name	type	start	stop	strand
+AAA family ATPase	CDS	33174	34373	+
+AAA family ATPase	CDS	3570	4340	-
+ABC transporter ATP-binding protein	CDS	74540	75298	-
+ABC transporter substrate-binding protein	CDS	76335	77318	-
+acetyltransferase	CDS	41158	42105	-
+aerobactin synthase IucA	CDS	42098	43846	-
+autotransporter domain-containing protein	CDS	54546	57485	-
+cupin domain-containing protein	CDS	57926	59047	+
+dsbG	CDS	69185	69934	-
+DUF2235 domain-containing protein	CDS	59858	60244	+
+DUF2534 family protein	CDS	72502	72762	-
+DUF2931 family protein	CDS	60241	60888	+
+exc2	CDS	637	1038	-
+filamentous hemagglutinin N-terminal domain-containing protein	CDS	27432	28995	-
+glgX	CDS	52408	54483	+
+glutathione S-transferase family protein	CDS	1	597	+
+GNAT family N-acetyltransferase	CDS	11514	12044	+
+guaD	CDS	92006	93322	-
+helicase	CDS	84209	87370	+
+helix-turn-helix domain-containing protein	CDS	46118	46399	+
+hemagglutinin repeat-containing protein	CDS	17092	24777	-
+histidine phosphatase family protein	CDS	14097	14714	-
+histidine phosphatase family protein	CDS	88097	88666	-
+hypothetical protein	CDS	4912	6168	-
+hypothetical protein	CDS	81182	82405	+
+hypothetical protein	CDS	61228	62385	+
+hypothetical protein	CDS	12049	13107	-
+hypothetical protein	CDS	24963	26018	-
+hypothetical protein	CDS	16613	17092	-
+hypothetical protein	CDS	71999	72457	-
+hypothetical protein	CDS	16221	16628	-
+hypothetical protein	CDS	73090	73478	+
+hypothetical protein	CDS	88679	88948	-
+hypothetical protein	CDS	26100	26309	-
+hypothetical protein	CDS	35504	35713	+
+hypothetical protein	CDS	57610	57777	-
+hypothetical protein	CDS	26703	26852	-
+iron ABC transporter permease	CDS	75295	76335	-
+IS1 family transposase	CDS	9104	9801	-
+IS1 family transposase	CDS	59104	59801	-
+iucC	CDS	39416	41161	-
+MBL fold hydrolase	CDS	91184	91984	+
+MCP four helix bundle domain-containing protein	CDS	89232	90890	-
+membrane protein	CDS	13231	13998	-
+methyl-accepting chemotaxis protein	CDS	1262	3208	-
+MFS transporter	CDS	77582	78817	+
+MFS transporter	CDS	43982	45193	+
+MFS transporter	CDS	10012	11220	-
+mgtA	CDS	6376	9066	-
+PAAR domain-containing protein	CDS	60958	61224	+
+ParB/RepB/Spo0J family partition protein	CDS	34381	35349	+
+phospholipase D family protein	CDS	82399	84216	+
+RepB family plasmid replication initiator protein	CDS	31312	32367	-
+SDR family NAD(P)-dependent oxidoreductase	CDS	87535	88050	-
+ShlB/FhaC/HecB family hemolysin secretion/activation protein	CDS	29009	30673	-
+SidA/IucD/PvdA family monooxygenase	CDS	38097	39419	-
+siderophore-interacting protein	CDS	45190	45987	+
+SMI1/KNR4 family protein	CDS	73581	74102	+
+thioredoxin family protein	CDS	69931	71952	-
+TonB-dependent siderophore receptor	CDS	35879	38074	-
+treY	CDS	49808	52339	+
+treZ	CDS	48027	49811	+
+tssF	CDS	65828	67591	+
+tssG	CDS	67546	68643	+
+tssJ	CDS	68624	69151	+
+type II toxin-antitoxin system HipA family toxin	CDS	46402	47721	+
+type VI secretion protein VasK	CDS	62369	65779	+
+tyrosine-type recombinase/integrase	CDS	80113	81087	+
+YmjA family protein	CDS	74220	74465	+

@@ -1,0 +1,70 @@
+name	type	start	stop	strand
+ATP-binding protein	CDS	31495	32757	-
+blaNDM	CDS	17929	18741	-
+blaSHV	CDS	9324	10184	-
+ble	CDS	17560	17925	-
+DeoR/GlpR transcriptional regulator	CDS	8542	9303	+
+divalent-cation tolerance protein CutA	CDS	15541	15870	+
+DNA-binding protein	CDS	37403	37600	-
+DNA-binding protein	CDS	53071	53223	-
+DnaJ domain-containing protein	CDS	51966	52481	-
+EexN family lipoprotein	CDS	41738	41995	-
+groES	CDS	15057	15347	-
+groL	CDS	13361	15001	-
+H-NS histone family protein	CDS	28697	29152	-
+hypothetical protein	CDS	51060	51611	-
+hypothetical protein	CDS	48739	49284	-
+hypothetical protein	CDS	1023	1466	+
+hypothetical protein	CDS	34145	34537	-
+hypothetical protein	CDS	6607	6963	+
+hypothetical protein	CDS	1654	2007	+
+hypothetical protein	CDS	50118	50456	-
+hypothetical protein	CDS	33331	33657	-
+hypothetical protein	CDS	33743	34057	-
+hypothetical protein	CDS	2348	2659	-
+hypothetical protein	CDS	2028	2312	-
+hypothetical protein	CDS	2865	3149	-
+hypothetical protein	CDS	11157	11432	+
+hypothetical protein	CDS	27753	28019	-
+hypothetical protein	CDS	49625	49882	-
+hypothetical protein	CDS	26375	26629	-
+hypothetical protein	CDS	50550	50792	-
+hypothetical protein	CDS	6365	6604	+
+hypothetical protein	CDS	46527	46763	-
+hypothetical protein	CDS	51671	51907	-
+hypothetical protein	CDS	25807	26019	-
+hypothetical protein	CDS	50782	50994	-
+hypothetical protein	CDS	25664	25849	-
+hypothetical protein	CDS	27557	27736	-
+hypothetical protein	CDS	49879	50031	-
+IS5-like element IS5 family transposase	CDS	19155	20171	-
+IS6-like element IS26 family transposase	CDS	6997	7701	-
+IS6-like element IS26 family transposase	CDS	10321	11025	+
+IS30 family transposase	CDS	20205	20762	-
+IS30 family transposase	CDS	18842	19033	-
+IS91 family transposase	CDS	11643	13172	-
+ISL3-like element ISKox3 family transposase	CDS	5043	6263	-
+lytic transglycosylase domain-containing protein	CDS	45837	46481	-
+NAD(P)-dependent oxidoreductase	CDS	7756	8280	-
+peptidyl-arginine deiminase	CDS	3249	3911	-
+phosphoribosylanthranilate isomerase	CDS	16917	17555	-
+pilus assembly protein	CDS	42005	42775	-
+protein-disulfide reductase DsbD N-terminal domain-containing protein	CDS	15875	16906	+
+recombinase family protein	CDS	4292	4954	+
+relaxase/mobilization nuclease domain-containingprotein	CDS	47576	48736	-
+replication initiation protein	CDS	1	1014	+
+SprT-like domain-containing protein	CDS	26739	27560	-
+thermonuclease family protein	CDS	32840	33334	-
+Tn3 family transposase	CDS	24143	24688	+
+Tn3-like element IS3000 family transposase	CDS	20982	23999	-
+topB	CDS	29164	31491	-
+transcription termination factor NusG	CDS	46714	47223	-
+TrbC/VirB2 family protein	CDS	45563	45853	-
+TrbG/VirB9 family P-type conjugative transfer protein	CDS	38813	39742	-
+TrbI/VirB10 family protein	CDS	37602	38816	-
+type IV secretion system protein	CDS	40671	41726	-
+type IV secretion system protein	CDS	39748	40476	-
+type IV secretory system conjugative DNA transfer family protein	CDS	34534	36369	-
+VirB3 family type IV secretion system protein	CDS	42785	45538	-
+virB11	CDS	36372	37406	-
+YkgJ family cysteine cluster protein	CDS	28009	28659	+
